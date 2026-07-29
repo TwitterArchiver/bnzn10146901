@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044784184422805573",
+    "created_at": "2026-04-16T16:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044822907088732547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044822907088732547",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044784184422805573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 超超我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2940,
+        "media_key": "3_2044784180060708864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCIYMbbYAAB4rz.jpg",
+        "width": 2087
+      },
+      {
+        "height": 3387,
+        "media_key": "3_2044784180509429760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCIYOGaUAA_XPI.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044784184422805573",
+        "created_at": "2026-04-16T16:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044822907088732547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044822907088732547",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044784184422805573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 超超我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044784180060708864",
+            "3_2044784180509429760"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2044784184422805573",
+        "created_at": "2026-04-16T14:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044784184422805573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyCT2h89Qk",
+              "end": 37,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2044784184422805573/photo/1",
+              "media_key": "3_2044784180060708864",
+              "start": 14,
+              "url": "https://t.co/QyCT2h89Qk"
+            },
+            {
+              "display_url": "pic.x.com/QyCT2h89Qk",
+              "end": 37,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2044784184422805573/photo/1",
+              "media_key": "3_2044784180509429760",
+              "start": 14,
+              "url": "https://t.co/QyCT2h89Qk"
+            },
+            {
+              "display_url": "x.com/mrsk_sy_xuelin…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/mrsk_sy_xueling/status/2043712844596961437",
+              "start": 38,
+              "url": "https://t.co/s8I97MFvhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044784184422805573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043712844596961437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第三弹 (づ ●─● )づ https://t.co/QyCT2h89Qk https://t.co/s8I97MFvhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 560,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 975
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "INFP-T｜MtF🏳️‍⚧️｜深柜｜无证无糖｜生日2009.10｜176cm｜中焦｜社恐｜二次元（番/漫/术/音游 百合向）｜横幅与头像侵删｜不od｜不割手（至少现在不了）｜不见证｜同类互fo 会看一点成分 拒见证和黄",
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "pinned_tweet_id": "2041213953406316556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 383,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      }
+    ]
+  }
+}

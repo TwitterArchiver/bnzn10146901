@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2047180838031540532",
+    "created_at": "2026-04-23T05:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047181127698579544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047181127698579544",
+    "in_reply_to_user_id": "1589135845834993665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047180838031540532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我补药炸柜啊………………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2047180838031540532",
+        "created_at": "2026-04-23T05:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047181127698579544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047181127698579544",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047180838031540532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我补药炸柜啊………………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2047180838031540532",
+        "created_at": "2026-04-23T05:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047180838031540532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047180838031540532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上洗衣服丝袜丢洗衣机忘记晒，早上一起床发现我妈已经挂起来晒在阳台了，我妈就在外面看电视也不说话，怎么办………………………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 600,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1043
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

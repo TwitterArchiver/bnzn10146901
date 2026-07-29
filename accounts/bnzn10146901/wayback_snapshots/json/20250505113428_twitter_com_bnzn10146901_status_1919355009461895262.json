@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919038768432181321",
+    "created_at": "2025-05-05T11:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T12:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919355009461895262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1828116639134683136",
+          "start": 0,
+          "username": "S17AC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919355009461895262",
+    "in_reply_to_user_id": "1828116639134683136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919038768432181321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S17AC “我知道你家在哪”\n“我早知道了”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_1919038761343782912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqHLlgAaEAAKtvy.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919038768432181321",
+        "created_at": "2025-05-05T11:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919355009461895262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1828116639134683136",
+              "start": 0,
+              "username": "S17AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919355009461895262",
+        "in_reply_to_user_id": "1828116639134683136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919038768432181321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S17AC “我知道你家在哪”\n“我早知道了”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919038761343782912"
+          ]
+        },
+        "author_id": "1828116639134683136",
+        "conversation_id": "1919038768432181321",
+        "created_at": "2025-05-04T14:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919038768432181321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nV5gcqiyy8",
+              "end": 28,
+              "expanded_url": "https://x.com/S17AC/status/1919038768432181321/photo/1",
+              "media_key": "3_1919038761343782912",
+              "start": 5,
+              "url": "https://t.co/nV5gcqiyy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919038768432181321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 63589,
+          "like_count": 419,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说鬼话呢 https://t.co/nV5gcqiyy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 445
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T17:05:56.000Z",
+        "description": "⚠️不卖片不卖资源不搞电报群👊主页全是瞎扯淡 涩涩视频👉🏻@S17AAC🎬 不要对我有任何滤镜 ❌   🚪纯绿88.88 ⚠️请优先满足您自身温饱再考虑过门（只收赞赏码）⚠️匿名https://t.co/sU2EyG6y9p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "S17AAC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/s17ac",
+                "end": 112,
+                "expanded_url": "https://ngl.link/s17ac",
+                "start": 89,
+                "url": "https://t.co/sU2EyG6y9p"
+              }
+            ]
+          }
+        },
+        "id": "1828116639134683136",
+        "location": "广东  ",
+        "name": "来听我说鬼话",
+        "pinned_tweet_id": "1835326844469748057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828152705568907267/5W6sJE-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7098,
+          "following_count": 271,
+          "like_count": 12645,
+          "listed_count": 9,
+          "media_count": 472,
+          "tweet_count": 8458
+        },
+        "username": "S17AC",
+        "verified": false
+      }
+    ]
+  }
+}

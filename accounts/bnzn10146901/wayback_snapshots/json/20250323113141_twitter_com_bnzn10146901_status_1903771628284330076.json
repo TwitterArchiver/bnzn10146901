@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1903659365842002257",
+    "created_at": "2025-03-23T11:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T12:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903771628284330076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874420103774953472",
+          "start": 0,
+          "username": "Banana7788771"
+        },
+        {
+          "end": 27,
+          "id": "1291988176496545792",
+          "start": 15,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903771628284330076",
+    "in_reply_to_user_id": "1874420103774953472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903660060695482751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Banana7788771 @Vox35112635 书无店砸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1903659365842002257",
+        "created_at": "2025-03-23T11:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T12:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903771628284330076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1874420103774953472",
+              "start": 0,
+              "username": "Banana7788771"
+            },
+            {
+              "end": 27,
+              "id": "1291988176496545792",
+              "start": 15,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903771628284330076",
+        "in_reply_to_user_id": "1874420103774953472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903660060695482751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Banana7788771 @Vox35112635 书无店砸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874420103774953472",
+        "conversation_id": "1903659365842002257",
+        "created_at": "2025-03-23T04:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T05:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903660060695482751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903660060695482751",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2754,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903659365842002257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 《重生之我变成女朋友的狗却看着她在和我长得一模一样的男人身下婉转承欢》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 209,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T11:39:26.000Z",
+        "description": "全网唯一发图地 其余都是盗图 || 匿名提问点链接 https://t.co/t46H9kv8Yv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/banana11774",
+                "end": 49,
+                "expanded_url": "https://ngl.link/banana11774",
+                "start": 26,
+                "url": "https://t.co/t46H9kv8Yv"
+              }
+            ]
+          }
+        },
+        "id": "1874420103774953472",
+        "location": "不太回私信",
+        "name": "Banana不呐呐酱",
+        "pinned_tweet_id": "1901222475092074645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885964428023357440/0RceEO0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 130,
+          "like_count": 458,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1965
+        },
+        "username": "Banana7788771",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了",
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1901519415117754869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242563,
+          "following_count": 529,
+          "like_count": 493,
+          "listed_count": 272,
+          "media_count": 8785,
+          "tweet_count": 12713
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

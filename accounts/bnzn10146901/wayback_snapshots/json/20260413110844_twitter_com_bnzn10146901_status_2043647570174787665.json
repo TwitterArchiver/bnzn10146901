@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2043595769375240429",
+    "created_at": "2026-04-13T11:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043647570174787665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        },
+        {
+          "end": 20,
+          "id": "1227603655903399936",
+          "start": 11,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043647570174787665",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043616711434469817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko @K66cheng 原来就我不知道吗😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2043595769375240429",
+        "created_at": "2026-04-13T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043647570174787665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            },
+            {
+              "end": 20,
+              "id": "1227603655903399936",
+              "start": 11,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043647570174787665",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043616711434469817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko @K66cheng 原来就我不知道吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "2043595769375240429",
+        "created_at": "2026-04-13T09:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043616711434469817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            },
+            {
+              "end": 23,
+              "id": "1227603655903399936",
+              "start": 14,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043616711434469817",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043595769375240429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 @K66cheng 原来是任成轩新马甲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 357,
+          "like_count": 244,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 847
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "7-20-1999",
+        "id": "1261560609214087168",
+        "location": "奇美拉咖啡馆",
+        "name": "南茜",
+        "pinned_tweet_id": "1597412027227836416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4730,
+          "following_count": 1367,
+          "like_count": 153884,
+          "listed_count": 57,
+          "media_count": 6031,
+          "tweet_count": 62755
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\n含糖友跨顺♂｜\n厨娘女仆 | \nINTJ-T｜\n瑶瑶@GK98815227｜\n小妹妹@baizhimengyao｜\n皮肤饥渴症终末期患者快和我贴贴｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "GK98815227"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "baizhimengyao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5838,
+          "following_count": 3269,
+          "like_count": 23241,
+          "listed_count": 26,
+          "media_count": 1266,
+          "tweet_count": 17077
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

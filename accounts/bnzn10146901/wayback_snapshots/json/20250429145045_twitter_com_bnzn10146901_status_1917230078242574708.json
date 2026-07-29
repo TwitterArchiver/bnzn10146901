@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916541716045181057",
+    "created_at": "2025-04-29T14:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917230078242574708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869027884008198151",
+          "start": 0,
+          "username": "hetangyu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917230078242574708",
+    "in_reply_to_user_id": "1869027884008198151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916541716045181057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetangyu123 大晚上的你要杀了我吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1916541707455463424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpjsh1YagAA_LwM.jpg",
+        "width": 850
+      },
+      {
+        "height": 873,
+        "media_key": "3_1916541709607149568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpjsh9ZaoAA4BC_.jpg",
+        "width": 850
+      },
+      {
+        "height": 1053,
+        "media_key": "3_1916541709003132928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpjsh7JaEAAzBoI.jpg",
+        "width": 850
+      },
+      {
+        "height": 1036,
+        "media_key": "3_1916541709703692288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpjsh9wbwAA5OZG.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916541716045181057",
+        "created_at": "2025-04-29T14:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917230078242574708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869027884008198151",
+              "start": 0,
+              "username": "hetangyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917230078242574708",
+        "in_reply_to_user_id": "1869027884008198151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916541716045181057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetangyu123 大晚上的你要杀了我吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916541707455463424",
+            "3_1916541709607149568",
+            "3_1916541709003132928",
+            "3_1916541709703692288"
+          ]
+        },
+        "author_id": "1869027884008198151",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916541716045181057",
+        "created_at": "2025-04-27T17:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T18:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916541716045181057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phBUzU3cP8",
+              "end": 45,
+              "expanded_url": "https://x.com/hetangyu123/status/1916541716045181057/photo/1",
+              "media_key": "3_1916541707455463424",
+              "start": 22,
+              "url": "https://t.co/phBUzU3cP8"
+            },
+            {
+              "display_url": "pic.x.com/phBUzU3cP8",
+              "end": 45,
+              "expanded_url": "https://x.com/hetangyu123/status/1916541716045181057/photo/1",
+              "media_key": "3_1916541709607149568",
+              "start": 22,
+              "url": "https://t.co/phBUzU3cP8"
+            },
+            {
+              "display_url": "pic.x.com/phBUzU3cP8",
+              "end": 45,
+              "expanded_url": "https://x.com/hetangyu123/status/1916541716045181057/photo/1",
+              "media_key": "3_1916541709003132928",
+              "start": 22,
+              "url": "https://t.co/phBUzU3cP8"
+            },
+            {
+              "display_url": "pic.x.com/phBUzU3cP8",
+              "end": 45,
+              "expanded_url": "https://x.com/hetangyu123/status/1916541716045181057/photo/1",
+              "media_key": "3_1916541709703692288",
+              "start": 22,
+              "url": "https://t.co/phBUzU3cP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916541716045181057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 374815,
+          "like_count": 1914,
+          "quote_count": 21,
+          "reply_count": 119,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "大晚上的不能我一个人看这些必须给你们看看☝ https://t.co/phBUzU3cP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 341
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:32:44.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hetangyu",
+                "end": 23,
+                "expanded_url": "http://t.me/hetangyu",
+                "start": 0,
+                "url": "https://t.co/gBiKmBQNvP"
+              }
+            ]
+          }
+        },
+        "id": "1869027884008198151",
+        "name": "阿木（发疯版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883941075154604032/H57460Ql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 70,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/gBiKmBQNvP",
+        "username": "hetangyu123",
+        "verified": false
+      }
+    ]
+  }
+}

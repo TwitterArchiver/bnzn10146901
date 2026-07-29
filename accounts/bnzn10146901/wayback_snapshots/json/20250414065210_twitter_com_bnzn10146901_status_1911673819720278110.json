@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911597272728588434",
+    "created_at": "2025-04-14T06:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T07:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911673819720278110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911673819720278110",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911597272728588434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 那父母怎么办"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_1911250186447290368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoYf6xgXAAA5JRf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911597272728588434",
+        "created_at": "2025-04-14T06:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911673819720278110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911673819720278110",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911597272728588434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 那父母怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911250186447290368"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1911597272728588434",
+        "created_at": "2025-04-14T01:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T02:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911597272728588434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tY9opHLRxP",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1911597272728588434/photo/1",
+              "media_key": "3_1911250186447290368",
+              "start": 0,
+              "url": "https://t.co/tY9opHLRxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911597272728588434",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5386,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tY9opHLRxP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 214,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 69
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61651,
+          "following_count": 565,
+          "like_count": 28066,
+          "listed_count": 209,
+          "media_count": 8838,
+          "tweet_count": 12600
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916781395776512341",
+    "created_at": "2025-04-28T15:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T16:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916874711687889084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1554747968418287616",
+          "start": 0,
+          "username": "V31415926666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916874711687889084",
+    "in_reply_to_user_id": "1554747968418287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916874559505981827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V31415926666 你需要一个解放双手的炮架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916781395776512341",
+        "created_at": "2025-04-28T15:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916874711687889084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1554747968418287616",
+              "start": 0,
+              "username": "V31415926666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916874711687889084",
+        "in_reply_to_user_id": "1554747968418287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916874559505981827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V31415926666 你需要一个解放双手的炮架"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554747968418287616",
+        "conversation_id": "1916781395776512341",
+        "created_at": "2025-04-28T15:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T16:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916874559505981827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916874559505981827",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916866783899799957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 试过，跟顶着个塔一样。不适合我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 308
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T08:36:25.000Z",
+        "description": "玛卡巴卡",
+        "id": "1554747968418287616",
+        "name": "飞行棋",
+        "pinned_tweet_id": "1870710642518478876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705676029333749760/FaKK-g6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41947,
+          "following_count": 55,
+          "like_count": 640,
+          "listed_count": 99,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "username": "V31415926666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916438041872252928"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1916104883503304945",
+    "created_at": "2025-04-27T10:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T11:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916438054547435642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433678462032617475",
+          "start": 0,
+          "username": "nolittlebear"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0oEehzfeLf",
+          "end": 62,
+          "expanded_url": "https://x.com/bnzn10146901/status/1916438054547435642/photo/1",
+          "media_key": "3_1916438041872252928",
+          "start": 39,
+          "url": "https://t.co/0oEehzfeLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916438054547435642",
+    "in_reply_to_user_id": "1433678462032617475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916104883503304945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nolittlebear 主播太有实力了，吃kfc都不用看星期几，给我掰点 https://t.co/0oEehzfeLf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 284,
+        "media_key": "3_1916438041872252928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpiOPs_XQAATPXM.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916104866604453893",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpdfOWZbEAUsq2T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916438041872252928"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1916104883503304945",
+        "created_at": "2025-04-27T10:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916438054547435642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433678462032617475",
+              "start": 0,
+              "username": "nolittlebear"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oEehzfeLf",
+              "end": 62,
+              "expanded_url": "https://x.com/bnzn10146901/status/1916438054547435642/photo/1",
+              "media_key": "3_1916438041872252928",
+              "start": 39,
+              "url": "https://t.co/0oEehzfeLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916438054547435642",
+        "in_reply_to_user_id": "1433678462032617475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916104883503304945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nolittlebear 主播太有实力了，吃kfc都不用看星期几，给我掰点 https://t.co/0oEehzfeLf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916104866604453893"
+          ]
+        },
+        "author_id": "1433678462032617475",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916104883503304945",
+        "created_at": "2025-04-26T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916104883503304945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8xmF32KOj",
+              "end": 30,
+              "expanded_url": "https://x.com/nolittlebear/status/1916104883503304945/photo/1",
+              "media_key": "3_1916104866604453893",
+              "start": 7,
+              "url": "https://t.co/T8xmF32KOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916104883503304945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4680,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大胃袋这一块 https://t.co/T8xmF32KOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 239
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:29:28.000Z",
+        "description": "叫我小熊就好，欢迎找我问问题https://t.co/5dVfvSVjvB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nolittlebear78…",
+                "end": 37,
+                "expanded_url": "https://ngl.link/nolittlebear78260",
+                "start": 14,
+                "url": "https://t.co/5dVfvSVjvB"
+              }
+            ]
+          }
+        },
+        "id": "1433678462032617475",
+        "location": "距离你114.514km",
+        "name": "熊某人日记",
+        "pinned_tweet_id": "1905492391072592368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903045300941619200/n9NoijGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11751,
+          "following_count": 924,
+          "like_count": 12567,
+          "listed_count": 23,
+          "media_count": 1683,
+          "tweet_count": 17237
+        },
+        "username": "nolittlebear",
+        "verified": false
+      }
+    ]
+  }
+}

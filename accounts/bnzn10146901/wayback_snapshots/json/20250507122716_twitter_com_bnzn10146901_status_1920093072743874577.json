@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919527973457428495",
+    "created_at": "2025-05-07T12:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920093072743874577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477695390619254794",
+          "start": 0,
+          "username": "shishishidifufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920093072743874577",
+    "in_reply_to_user_id": "1477695390619254794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919527973457428495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishishidifufu 不认识"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920093072743874577].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920093072743874577",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920093072743874577"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1919527973457428495].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919527973457428495",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919527973457428495"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 478
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1915438317363224787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 702,
+          "like_count": 813,
+          "listed_count": 4,
+          "media_count": 868,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": false
+      }
+    ]
+  }
+}

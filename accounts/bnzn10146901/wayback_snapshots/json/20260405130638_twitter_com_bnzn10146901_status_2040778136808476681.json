@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2040643318745624986",
+    "created_at": "2026-04-05T13:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040778136808476681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515668818013696000",
+          "start": 0,
+          "username": "jym66662"
+        },
+        {
+          "end": 17,
+          "id": "1902568136450424832",
+          "start": 10,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040778136808476681",
+    "in_reply_to_user_id": "1515668818013696000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040717210910621955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jym66662 @aoim33 awmc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2040643318745624986",
+        "created_at": "2026-04-05T13:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040778136808476681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515668818013696000",
+              "start": 0,
+              "username": "jym66662"
+            },
+            {
+              "end": 17,
+              "id": "1902568136450424832",
+              "start": 10,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040778136808476681",
+        "in_reply_to_user_id": "1515668818013696000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040717210910621955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jym66662 @aoim33 awmc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515668818013696000",
+        "conversation_id": "2040643318745624986",
+        "created_at": "2026-04-05T09:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040717210910621955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040717210910621955",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040643318745624986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 看成了woaiwmdx了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 215,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 669
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T12:29:50.000Z",
+        "description": "假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静，相信吧，快乐的日子将会来临！心儿永远向往着未来…",
+        "id": "1515668818013696000",
+        "location": "加拿大 温哥华",
+        "name": "作业homework",
+        "pinned_tweet_id": "1992563536263049420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024807860392296448/Juy1qxhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 525,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 3135
+        },
+        "username": "jym66662",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2039892946997444776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4640,
+          "following_count": 2754,
+          "like_count": 42135,
+          "listed_count": 20,
+          "media_count": 2347,
+          "tweet_count": 10295
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

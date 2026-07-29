@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911056706894802945",
+    "created_at": "2025-04-14T11:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T12:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911748726332313629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1703018982390087680",
+          "start": 0,
+          "username": "TomatodeKing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911748726332313629",
+    "in_reply_to_user_id": "1703018982390087680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911056706894802945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomatodeKing 喜欢男的直接把钱全给我，然后立刻自己消失"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_1911056703988154368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVv8nLXwAA9XPM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911056706894802945",
+        "created_at": "2025-04-14T11:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911748726332313629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1703018982390087680",
+              "start": 0,
+              "username": "TomatodeKing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911748726332313629",
+        "in_reply_to_user_id": "1703018982390087680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911056706894802945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomatodeKing 喜欢男的直接把钱全给我，然后立刻自己消失"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911056703988154368"
+          ]
+        },
+        "author_id": "1703018982390087680",
+        "conversation_id": "1911056706894802945",
+        "created_at": "2025-04-12T13:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T14:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911056706894802945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCVnzlEFKD",
+              "end": 41,
+              "expanded_url": "https://x.com/TomatodeKing/status/1911056706894802945/photo/1",
+              "media_key": "3_1911056703988154368",
+              "start": 18,
+              "url": "https://t.co/FCVnzlEFKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911056706894802945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2168,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢男的死我面前\n最好是人彘的那种 https://t.co/FCVnzlEFKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 220,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 147
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T12:12:28.000Z",
+        "description": "幸福他猫头🍅我的超级无敌爆炸好朋友@wyy1299🍅有男友🍅提问箱： https://t.co/v2IAkY3rP6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "wyy1299"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tomatodeking",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tomatodeking",
+                "start": 35,
+                "url": "https://t.co/v2IAkY3rP6"
+              }
+            ]
+          }
+        },
+        "id": "1703018982390087680",
+        "location": "番茄牛腩汤",
+        "name": "没᳐素质他猫头᳐੭",
+        "pinned_tweet_id": "1802660733219635442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802713783418437632/CYcZHolW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9028,
+          "following_count": 229,
+          "like_count": 24325,
+          "listed_count": 20,
+          "media_count": 3098,
+          "tweet_count": 24776
+        },
+        "username": "TomatodeKing",
+        "verified": false
+      }
+    ]
+  }
+}

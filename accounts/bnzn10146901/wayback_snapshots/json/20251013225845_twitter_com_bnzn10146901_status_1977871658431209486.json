@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1975960345199145198",
+    "created_at": "2025-10-13T22:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T23:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977871658431209486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820104162715246592",
+          "start": 0,
+          "username": "0rain4fall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977871658431209486",
+    "in_reply_to_user_id": "1820104162715246592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975960345199145198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0rain4fall 我感觉就是这样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1975960345199145198",
+        "created_at": "2025-10-13T22:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T23:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977871658431209486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820104162715246592",
+              "start": 0,
+              "username": "0rain4fall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977871658431209486",
+        "in_reply_to_user_id": "1820104162715246592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975960345199145198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rain4fall 我感觉就是这样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820104162715246592",
+        "conversation_id": "1975960345199145198",
+        "created_at": "2025-10-08T16:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975960345199145198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975960345199145198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 117112,
+          "like_count": 873,
+          "quote_count": 27,
+          "reply_count": 110,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "总结nf人高频使用词汇：感觉、就是、我觉得、这样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 221,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 650
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T14:27:10.000Z",
+        "description": "我们探讨不会成为雨的云。",
+        "id": "1820104162715246592",
+        "location": "I dont car",
+        "name": "邮差总按两遍铃",
+        "pinned_tweet_id": "1966171103552033081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958220014701645824/HKTCKO3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 90,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 375
+        },
+        "username": "0rain4fall",
+        "verified": false
+      }
+    ]
+  }
+}

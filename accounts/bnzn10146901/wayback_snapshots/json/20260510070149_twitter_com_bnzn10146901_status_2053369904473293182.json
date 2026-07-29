@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2053361048875606461",
+    "created_at": "2026-05-10T07:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053369904473293182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053369904473293182",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053361048875606461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ 翻滚鲨鲨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8353,
+        "height": 1280,
+        "media_key": "13_2053360971465568256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053360971465568256/img/fKxJp83yhCYvEH95.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053360971465568256/vid/avc1/320x568/IOZewD4LM3Y5xxdK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053360971465568256/vid/avc1/480x852/cPJH2-earOOC24yI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053360971465568256/vid/avc1/720x1280/rWqJLw78mBBU_REA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053360971465568256/pl/FjUYkCwpaJPWCEhT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2053361048875606461",
+        "created_at": "2026-05-10T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053369904473293182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053369904473293182",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053361048875606461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ 翻滚鲨鲨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053360971465568256"
+          ]
+        },
+        "author_id": "1352281301613568000",
+        "conversation_id": "2053361048875606461",
+        "created_at": "2026-05-10T06:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053361048875606461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksHLgfVDUH",
+              "end": 27,
+              "expanded_url": "https://x.com/Starlight4You_/status/2053361048875606461/video/1",
+              "media_key": "13_2053360971465568256",
+              "start": 4,
+              "url": "https://t.co/ksHLgfVDUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053361048875606461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好笑 https://t.co/ksHLgfVDUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 627,
+          "like_count": 285,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1254
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "",
+        "id": "1352281301613568000",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776753869571399680/nqm8DMRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 343,
+          "like_count": 40566,
+          "listed_count": 20,
+          "media_count": 3068,
+          "tweet_count": 17191
+        },
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

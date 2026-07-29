@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2050625664563527999",
+    "created_at": "2026-05-02T19:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T20:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050656416697131090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046238259919912960",
+          "start": 0,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050656416697131090",
+    "in_reply_to_user_id": "2046238259919912960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050625664563527999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Type_zhi 我真求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2050625664563527999",
+        "created_at": "2026-05-02T19:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T20:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050656416697131090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046238259919912960",
+              "start": 0,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050656416697131090",
+        "in_reply_to_user_id": "2046238259919912960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050625664563527999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Type_zhi 我真求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046238259919912960",
+        "conversation_id": "2050625664563527999",
+        "created_at": "2026-05-02T17:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050625664563527999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2050506676370022837",
+              "start": 37,
+              "url": "https://t.co/T0Pp8a2xrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050625664563527999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050506676370022837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以这么想 你的屁股和另一个人的屁股完成了一场接力赛是一件很伟大的运动🥺 https://t.co/T0Pp8a2xrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 622,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1188
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07/在读女高（确信）/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "https://typezhi.top/",
+                "start": 0,
+                "url": "https://t.co/ff58O0W0jN"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 458,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/ff58O0W0jN",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

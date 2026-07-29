@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911669313498726704",
+    "created_at": "2025-04-14T07:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T08:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911686847538798740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1240139405077229568",
+          "start": 0,
+          "username": "udbeis1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911686847538798740",
+    "in_reply_to_user_id": "1240139405077229568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911669313498726704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@udbeis1 好绝望的文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911669313498726704",
+        "created_at": "2025-04-14T07:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911686847538798740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1240139405077229568",
+              "start": 0,
+              "username": "udbeis1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911686847538798740",
+        "in_reply_to_user_id": "1240139405077229568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911669313498726704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@udbeis1 好绝望的文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240139405077229568",
+        "conversation_id": "1911669313498726704",
+        "created_at": "2025-04-14T06:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911669313498726704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911669313498726704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1358,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我以为尿得高，就可以遮住眼泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 216,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T04:54:23.000Z",
+        "description": "你发现我了",
+        "id": "1240139405077229568",
+        "name": "人类圈养计划",
+        "pinned_tweet_id": "1908402609754415166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907829697536495616/GovOhu76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 53,
+          "like_count": 1050,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 204
+        },
+        "username": "udbeis1",
+        "verified": false
+      }
+    ]
+  }
+}

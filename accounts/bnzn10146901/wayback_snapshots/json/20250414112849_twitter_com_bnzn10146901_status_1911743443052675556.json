@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911625339299672116",
+    "created_at": "2025-04-14T11:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T12:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911743443052675556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890710978163339264",
+          "start": 0,
+          "username": "IlllllI580818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911743443052675556",
+    "in_reply_to_user_id": "1890710978163339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911742923110051906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlllllI580818 你说（嚼嚼嚼）人类......是怎么（嚼嚼嚼）发现这些能吃的（嚼嚼嚼）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911625339299672116",
+        "created_at": "2025-04-14T11:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911743443052675556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890710978163339264",
+              "start": 0,
+              "username": "IlllllI580818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911743443052675556",
+        "in_reply_to_user_id": "1890710978163339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911742923110051906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlllllI580818 你说（嚼嚼嚼）人类......是怎么（嚼嚼嚼）发现这些能吃的（嚼嚼嚼）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890710978163339264",
+        "conversation_id": "1911625339299672116",
+        "created_at": "2025-04-14T11:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911742923110051906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911742923110051906",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911742680452805045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 好的 请吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 220,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 143
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:33:30.000Z",
+        "description": "Since when do you care about being liked?",
+        "id": "1890710978163339264",
+        "location": "999mi",
+        "name": "今天健身了吗_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910054344537288704/3ibFr33Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 158,
+          "like_count": 7134,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1192
+        },
+        "username": "IlllllI580818",
+        "verified": false
+      }
+    ]
+  }
+}

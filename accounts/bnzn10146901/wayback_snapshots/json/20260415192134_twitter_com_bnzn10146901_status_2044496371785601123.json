@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044442050108821725",
+    "created_at": "2026-04-15T19:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044496371785601123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893148722927935490",
+          "start": 0,
+          "username": "miomiokawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044496371785601123",
+    "in_reply_to_user_id": "1893148722927935490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044472118491156989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiokawai 我很简单粗暴的啦，就是直接塞进洗衣机，然后选了一个智能洗的程序（要检查一下程序里面有没有漂洗，有的话换成普通的洗涤就可以）之后洗完了就烘干，温度小于60度就ok，然后时间我是50度烘了120分钟，最后拿出来殴打晒太阳就好了，哦对洗衣液或者洗衣凝珠不要有漂白剂成分的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044442050108821725",
+        "created_at": "2026-04-15T19:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044496371785601123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893148722927935490",
+              "start": 0,
+              "username": "miomiokawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044496371785601123",
+        "in_reply_to_user_id": "1893148722927935490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044472118491156989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiokawai 我很简单粗暴的啦，就是直接塞进洗衣机，然后选了一个智能洗的程序（要检查一下程序里面有没有漂洗，有的话换成普通的洗涤就可以）之后洗完了就烘干，温度小于60度就ok，然后时间我是50度烘了120分钟，最后拿出来殴打晒太阳就好了，哦对洗衣液或者洗衣凝珠不要有漂白剂成分的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148722927935490",
+        "conversation_id": "2044442050108821725",
+        "created_at": "2026-04-15T17:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044472118491156989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044472118491156989",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044442050108821725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 求更具体一点的方法！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 550,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 962
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T04:00:17.000Z",
+        "description": "",
+        "id": "1893148722927935490",
+        "location": "Your heart",
+        "name": "SweetsInMate",
+        "pinned_tweet_id": "1983224062693511450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963515355265208320/borYDv6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 74,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 493
+        },
+        "username": "miomiokawai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912749642141356032"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "1912077772328927494",
+    "created_at": "2025-04-17T06:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T07:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912749654933967085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900483274339909632",
+          "start": 0,
+          "username": "kknoluvismine3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TrBszn0pbq",
+          "end": 39,
+          "expanded_url": "https://x.com/bnzn10146901/status/1912749654933967085/photo/1",
+          "media_key": "3_1912749642141356032",
+          "start": 16,
+          "url": "https://t.co/TrBszn0pbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912749654933967085",
+    "in_reply_to_user_id": "1900483274339909632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912077772328927494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kknoluvismine3 https://t.co/TrBszn0pbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_1912749642141356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotzqlQXUAA5mD8.png",
+        "width": 302
+      },
+      {
+        "height": 510,
+        "media_key": "3_1912077769179025408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokQmbbWUAAnjZ0.jpg",
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912749642141356032"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "1912077772328927494",
+        "created_at": "2025-04-17T06:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T07:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912749654933967085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900483274339909632",
+              "start": 0,
+              "username": "kknoluvismine3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrBszn0pbq",
+              "end": 39,
+              "expanded_url": "https://x.com/bnzn10146901/status/1912749654933967085/photo/1",
+              "media_key": "3_1912749642141356032",
+              "start": 16,
+              "url": "https://t.co/TrBszn0pbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912749654933967085",
+        "in_reply_to_user_id": "1900483274339909632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912077772328927494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kknoluvismine3 https://t.co/TrBszn0pbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912077769179025408"
+          ]
+        },
+        "author_id": "1900483274339909632",
+        "conversation_id": "1912077772328927494",
+        "created_at": "2025-04-15T09:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T10:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912077772328927494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Xdeu4oN8U",
+              "end": 39,
+              "expanded_url": "https://x.com/kknoluvismine3/status/1912077772328927494/photo/1",
+              "media_key": "3_1912077769179025408",
+              "start": 16,
+              "url": "https://t.co/7Xdeu4oN8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912077772328927494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 82803,
+          "like_count": 593,
+          "quote_count": 16,
+          "reply_count": 1006,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "输入nmsl，测试你的嘴臭程度 https://t.co/7Xdeu4oN8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 221,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 166
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T09:45:37.000Z",
+        "description": "哪里有压迫，哪里就有反抗！                                                               战斗形态：@kknoluvismine4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "kknoluvismine4"
+              }
+            ]
+          }
+        },
+        "id": "1900483274339909632",
+        "location": "列宁格勒",
+        "name": "爱逃避的大锦鲤（耄派不哈气）",
+        "pinned_tweet_id": "1911265900747231497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909055139354423296/i7CQrXdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 328,
+          "like_count": 2645,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2293
+        },
+        "username": "kknoluvismine3",
+        "verified": false
+      }
+    ]
+  }
+}

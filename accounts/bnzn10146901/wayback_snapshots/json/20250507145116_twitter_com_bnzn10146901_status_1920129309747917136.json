@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1918872473694527766",
+    "created_at": "2025-05-07T14:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920129309747917136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1866374902036484096",
+          "start": 0,
+          "username": "earthAndsunsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920129309747917136",
+    "in_reply_to_user_id": "1866374902036484096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918872473694527766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@earthAndsunsh 小学毕业了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1918872473694527766",
+        "created_at": "2025-05-07T14:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920129309747917136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1866374902036484096",
+              "start": 0,
+              "username": "earthAndsunsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920129309747917136",
+        "in_reply_to_user_id": "1866374902036484096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918872473694527766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@earthAndsunsh 小学毕业了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866374902036484096",
+        "conversation_id": "1918872473694527766",
+        "created_at": "2025-05-04T03:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T04:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918872473694527766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918872473694527766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 190046,
+          "like_count": 415,
+          "quote_count": 128,
+          "reply_count": 132,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "分手炮，拖进房间里，洁白的床上，叫她掰开穴，说thank you father。不肯，耳光三两，不从，再二三。哭着掰开，请君入瓮，却暴哭起来。\n\n挺进去，亲了亲眼泪，“乖宝宝，”我说。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 498
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T06:51:29.000Z",
+        "description": "十日谈\\新手关心的基操\\新手开源\\代码全开\\sm三段论\\24位m历史合作方\\脔踏壶三项目未完结\\sm古早研究会\\方脸藏狐·方脸妲己之主",
+        "id": "1866374902036484096",
+        "location": "距您 0.3 mile",
+        "name": "sm 轻科普",
+        "pinned_tweet_id": "1910670872907833840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870283592875585540/YVu2MWjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 1092,
+          "like_count": 1681,
+          "listed_count": 13,
+          "media_count": 134,
+          "tweet_count": 1734
+        },
+        "username": "earthAndsunsh",
+        "verified": false
+      }
+    ]
+  }
+}

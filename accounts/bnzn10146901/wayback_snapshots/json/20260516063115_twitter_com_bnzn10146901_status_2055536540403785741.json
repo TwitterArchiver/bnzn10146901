@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2055253343304556711",
+    "created_at": "2026-05-16T06:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055536540403785741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 30,
+          "id": "1843519961647722497",
+          "start": 16,
+          "username": "artstudent231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055536540403785741",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055270005579891126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @artstudent231 韦一敏这盛世如你所愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2055253343304556711",
+        "created_at": "2026-05-16T06:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055536540403785741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 30,
+              "id": "1843519961647722497",
+              "start": 16,
+              "username": "artstudent231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055536540403785741",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055270005579891126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @artstudent231 韦一敏这盛世如你所愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055253343304556711",
+        "created_at": "2026-05-15T12:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055270005579891126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843519961647722497",
+              "start": 0,
+              "username": "artstudent231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055270005579891126",
+        "in_reply_to_user_id": "1843519961647722497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3895,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055266931956232655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artstudent231 環状線谷歌了一下没有叫《老师贴贴》的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 634,
+          "like_count": 287,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1284
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 829,
+          "like_count": 20110,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 5984
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T05:13:14.000Z",
+        "description": "中国🇨🇳出身の大学生です。05（05年生まれ）のENFP、水瓶座🔮です！\n\n百合系✨️の色んなアニメやゲームが好きで、最近は『ハッピーシュガーライフ』や『がっこうぐらし！』、『22/7』などを見ています。アイドル系のプロジェクトにも興味があります！💤\n\n一番好きなゲームは『DARKSOUL』シリーズです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/artstudent0501…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/artstudent050126/",
+                "start": 0,
+                "url": "https://t.co/M037mmtJCu"
+              }
+            ]
+          }
+        },
+        "id": "1843519961647722497",
+        "location": "新エリー都",
+        "name": "卷心菜爱打邦多利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054029158452461568/09J52HoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 3937,
+          "like_count": 13365,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 2260
+        },
+        "url": "https://t.co/M037mmtJCu",
+        "username": "artstudent231",
+        "verified": true
+      }
+    ]
+  }
+}

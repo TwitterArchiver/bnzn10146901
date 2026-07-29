@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2048816763064987945",
+    "created_at": "2026-04-27T17:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048816763064987945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048816763064987945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么没人早告诉我愈美片不能和酒一起吃，我每次都是啤酒送服，昨天酒和愈美都吃了好多差点趋势了……整个人在厕所不停的吐，意识特别模糊，我都不知道怎么爬回床上的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2048816763064987945",
+        "created_at": "2026-04-27T17:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048816763064987945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048816763064987945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没人早告诉我愈美片不能和酒一起吃，我每次都是啤酒送服，昨天酒和愈美都吃了好多差点趋势了……整个人在厕所不停的吐，意识特别模糊，我都不知道怎么爬回床上的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 609,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1098
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

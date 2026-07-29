@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2045819698315473000",
+    "created_at": "2026-04-19T19:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T20:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045947642690322622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045947642690322622",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045819698315473000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 会写就多写点，这么点够谁吃的😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2984,
+        "media_key": "3_2043669282979266560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFySYpJbQAAa-dp.jpg",
+        "width": 2534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2045819698315473000",
+        "created_at": "2026-04-19T19:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T20:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045947642690322622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045947642690322622",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045819698315473000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 会写就多写点，这么点够谁吃的😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043669282979266560"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2045819698315473000",
+        "created_at": "2026-04-19T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045819698315473000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APDLTdlDmU",
+              "end": 154,
+              "expanded_url": "https://x.com/JanboMikan/status/2045819698315473000/photo/1",
+              "media_key": "3_2043669282979266560",
+              "start": 131,
+              "url": "https://t.co/APDLTdlDmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045819698315473000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 10086,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁能想到今天坐的这公交车，司机技术那么差！\n连续碾过第三条减速带的时候，我已经处于翻白眼的边缘了。\n旁边座位的小哥看到我死咬着嘴唇直哆嗦，吓得赶紧递过来两张纸：\n「小伙子哪里不舒服，晕车这么严重吗？」\n我面容扭曲地接过纸巾，下意识挪动了一下屁股。\n操，更深了。 https://t.co/APDLTdlDmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 596,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1008
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11221,
+          "following_count": 458,
+          "like_count": 15719,
+          "listed_count": 41,
+          "media_count": 228,
+          "tweet_count": 7968
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

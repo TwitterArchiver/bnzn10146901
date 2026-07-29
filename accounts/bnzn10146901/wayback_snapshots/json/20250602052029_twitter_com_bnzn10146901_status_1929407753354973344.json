@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1928735253268672767",
+    "created_at": "2025-06-02T05:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T06:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929407753354973344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527553048289021957",
+          "start": 0,
+          "username": "bobbi199785"
+        },
+        {
+          "end": 25,
+          "id": "1688397365336850432",
+          "start": 13,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929407753354973344",
+    "in_reply_to_user_id": "1527553048289021957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929034545665372400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobbi199785 @hongpigu980 破案！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929034541114728448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVOsdaaIAAc1N3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1928735253268672767",
+        "created_at": "2025-06-02T05:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929407753354973344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527553048289021957",
+              "start": 0,
+              "username": "bobbi199785"
+            },
+            {
+              "end": 25,
+              "id": "1688397365336850432",
+              "start": 13,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929407753354973344",
+        "in_reply_to_user_id": "1527553048289021957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929034545665372400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobbi199785 @hongpigu980 破案！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929034541114728448"
+          ]
+        },
+        "author_id": "1527553048289021957",
+        "conversation_id": "1928735253268672767",
+        "created_at": "2025-06-01T04:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929034545665372400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2q3WxZ9Qxu",
+              "end": 62,
+              "expanded_url": "https://x.com/bobbi199785/status/1929034545665372400/photo/1",
+              "media_key": "3_1929034541114728448",
+              "start": 39,
+              "url": "https://t.co/2q3WxZ9Qxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929034545665372400",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31218,
+          "like_count": 508,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928735253268672767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 兄弟周长5cm吧。和手指一样粗没有包裹感是正常的。 https://t.co/2q3WxZ9Qxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 218,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 602
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T07:33:34.000Z",
+        "description": "阳光男孩",
+        "id": "1527553048289021957",
+        "location": "Thailand",
+        "name": "bobbi pig",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551175890809155584/uO4avi2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 85,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 18
+        },
+        "username": "bobbi199785",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21721,
+          "following_count": 29,
+          "like_count": 16,
+          "listed_count": 20,
+          "media_count": 203,
+          "tweet_count": 277
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

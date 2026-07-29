@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1918153476527329554",
+    "created_at": "2025-05-03T15:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T16:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918690023999696925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1702925354132992000",
+          "start": 0,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918690023999696925",
+    "in_reply_to_user_id": "1702925354132992000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918153476527329554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remilia_servant 核吧打过来了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_1916378794669326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphYXD9bQAAm6T1.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1918153476527329554",
+        "created_at": "2025-05-03T15:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T16:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918690023999696925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702925354132992000",
+              "start": 0,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918690023999696925",
+        "in_reply_to_user_id": "1702925354132992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918153476527329554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remilia_servant 核吧打过来了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916378794669326336"
+          ]
+        },
+        "author_id": "1702925354132992000",
+        "conversation_id": "1918153476527329554",
+        "created_at": "2025-05-02T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918153476527329554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arRsZDswzW",
+              "end": 23,
+              "expanded_url": "https://x.com/remilia_servant/status/1918153476527329554/photo/1",
+              "media_key": "3_1916378794669326336",
+              "start": 0,
+              "url": "https://t.co/arRsZDswzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918153476527329554",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 164396,
+          "like_count": 2776,
+          "quote_count": 21,
+          "reply_count": 144,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/arRsZDswzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 426
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "即將過期高中生 | DSE已完、我恨EDB | 左翼香港本土🟦⬜ | 會譯些廢梗片爛梗圖 | 東方廚 | 頭貼是好朋友幫忙畫的 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "Silent Hill",
+        "name": "//蕾米米//",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14125,
+          "following_count": 1443,
+          "like_count": 90261,
+          "listed_count": 55,
+          "media_count": 60,
+          "tweet_count": 506
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

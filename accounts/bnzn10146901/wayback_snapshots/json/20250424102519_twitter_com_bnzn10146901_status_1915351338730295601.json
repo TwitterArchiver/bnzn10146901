@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1914883812821270548",
+    "created_at": "2025-04-24T10:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T11:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915351338730295601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1238450858297135104",
+          "start": 0,
+          "username": "AinWired"
+        },
+        {
+          "end": 19,
+          "id": "1602663153623388161",
+          "start": 10,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915351338730295601",
+    "in_reply_to_user_id": "1238450858297135104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914891613995925669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AinWired @knd_8964 awmc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1914883812821270548",
+        "created_at": "2025-04-24T10:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T11:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915351338730295601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1238450858297135104",
+              "start": 0,
+              "username": "AinWired"
+            },
+            {
+              "end": 19,
+              "id": "1602663153623388161",
+              "start": 10,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915351338730295601",
+        "in_reply_to_user_id": "1238450858297135104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914891613995925669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AinWired @knd_8964 awmc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238450858297135104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sega",
+              "id": "943877135894056966",
+              "name": "Sega"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "1914883812821270548",
+        "created_at": "2025-04-23T03:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T04:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914891613995925669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914891613995925669",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3241,
+          "like_count": 124,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914883812821270548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 SEGA maimai DX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 217,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 171
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T13:04:52.000Z",
+        "description": "こちら絵音です.中文/EN/日本語を勉強しています。\nRhythm gamer #arcaea #Rotaeno #maimai\n #東方Project   #プリコネ #まいてつ \n#serialexperimentlain etc.\n丨 \nLets follow each other!\n🚫禁止传话筒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "arcaea"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "Rotaeno"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "tag": "maimai"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "tag": "東方Project"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "プリコネ"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "まいてつ"
+              },
+              {
+                "end": 113,
+                "start": 92,
+                "tag": "serialexperimentlain"
+              }
+            ]
+          }
+        },
+        "id": "1238450858297135104",
+        "location": "雾之湖",
+        "name": "絵._.音_",
+        "pinned_tweet_id": "1914890698639462832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837701666579402753/U0vznpGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 741,
+          "like_count": 3864,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1312
+        },
+        "username": "AinWired",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3214,
+          "following_count": 4271,
+          "like_count": 70001,
+          "listed_count": 11,
+          "media_count": 3688,
+          "tweet_count": 10296
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

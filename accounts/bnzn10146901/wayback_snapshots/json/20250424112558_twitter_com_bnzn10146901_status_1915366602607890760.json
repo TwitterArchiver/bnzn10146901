@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1915006690413645861",
+    "created_at": "2025-04-24T11:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T12:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915366602607890760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Muoujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915366602607890760",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915006690413645861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muoujiang_ 那么代价呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_1915006687804833793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpN4b7kawAER3zt.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1915006690413645861",
+        "created_at": "2025-04-24T11:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915366602607890760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915366602607890760",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915006690413645861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muoujiang_ 那么代价呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915006687804833793"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1915006690413645861",
+        "created_at": "2025-04-23T11:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T12:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915006690413645861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9axSwy9Tg9",
+              "end": 23,
+              "expanded_url": "https://x.com/Muoujiang_/status/1915006690413645861/photo/1",
+              "media_key": "3_1915006687804833793",
+              "start": 0,
+              "url": "https://t.co/9axSwy9Tg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915006690413645861",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2976,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9axSwy9Tg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 217,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 184
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🏳️‍🌈🏳️‍⚧️ | 目前由于无法含糖勉强算个顺男(？) | @huahuojiang_ | 妹妹: @liveDeath750122 @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "liveDeath750122"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Zapolyary Palace, Snezhnaya",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1910218894813675591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908821988682162176/4jvhKU9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20562,
+          "following_count": 10496,
+          "like_count": 69902,
+          "listed_count": 67,
+          "media_count": 3395,
+          "tweet_count": 12840
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

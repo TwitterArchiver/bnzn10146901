@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1932100741117911337",
+    "created_at": "2025-06-11T14:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932803382844305491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895770308260610048",
+          "start": 0,
+          "username": "chenyu537320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932803382844305491",
+    "in_reply_to_user_id": "1895770308260610048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932100741117911337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyu537320 还有这好事？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1932100220390703104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAy6erXgAARBur.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1932100741117911337",
+        "created_at": "2025-06-11T14:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932803382844305491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895770308260610048",
+              "start": 0,
+              "username": "chenyu537320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932803382844305491",
+        "in_reply_to_user_id": "1895770308260610048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932100741117911337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyu537320 还有这好事？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932100220390703104"
+          ]
+        },
+        "author_id": "1895770308260610048",
+        "conversation_id": "1932100741117911337",
+        "created_at": "2025-06-09T15:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932100741117911337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JWHqQKReOw",
+              "end": 38,
+              "expanded_url": "https://x.com/chenyu537320/status/1932100741117911337/photo/1",
+              "media_key": "3_1932100220390703104",
+              "start": 15,
+              "url": "https://t.co/JWHqQKReOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932100741117911337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 150037,
+          "like_count": 917,
+          "quote_count": 5,
+          "reply_count": 134,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我就请个假\n班主任这是怎么了 https://t.co/JWHqQKReOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 607
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:37:28.000Z",
+        "description": "小号垃圾场，平时不太活跃，大号主要是看日推的@sappukei264576 | 09高一 | infj-t \n听j-rock、metalcore、post-hardcore、punk等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "sappukei264576"
+              }
+            ]
+          }
+        },
+        "id": "1895770308260610048",
+        "location": "😺",
+        "name": "ちぇにゅ",
+        "pinned_tweet_id": "1908553803487666183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918179626305871872/kRn2HsUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 546,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 205
+        },
+        "username": "chenyu537320",
+        "verified": false
+      }
+    ]
+  }
+}

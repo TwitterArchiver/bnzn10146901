@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921504574994534401"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "1921428268135104847",
+    "created_at": "2025-05-11T09:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T10:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921504607743746300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236847498381099009",
+          "start": 0,
+          "username": "pstjunotentacle"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4mtCpmqNZ",
+          "end": 53,
+          "expanded_url": "https://x.com/bnzn10146901/status/1921504607743746300/photo/1",
+          "media_key": "3_1921504574994534401",
+          "start": 30,
+          "url": "https://t.co/W4mtCpmqNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921504607743746300",
+    "in_reply_to_user_id": "1236847498381099009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921451220868149469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pstjunotentacle @hsn8086 p好了 https://t.co/W4mtCpmqNZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_1921504574994534401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqOOvrWUAEzBu4.jpg",
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921504574994534401"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "1921428268135104847",
+        "created_at": "2025-05-11T09:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T10:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921504607743746300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236847498381099009",
+              "start": 0,
+              "username": "pstjunotentacle"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4mtCpmqNZ",
+              "end": 53,
+              "expanded_url": "https://x.com/bnzn10146901/status/1921504607743746300/photo/1",
+              "media_key": "3_1921504574994534401",
+              "start": 30,
+              "url": "https://t.co/W4mtCpmqNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921504607743746300",
+        "in_reply_to_user_id": "1236847498381099009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921451220868149469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pstjunotentacle @hsn8086 p好了 https://t.co/W4mtCpmqNZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236847498381099009",
+        "conversation_id": "1921428268135104847",
+        "created_at": "2025-05-11T06:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T07:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921451220868149469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921451220868149469",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 698,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921428268135104847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 可以二创加个帽子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 520
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-09T02:53:27.000Z",
+        "description": "I'm Cheater(no lol｜\nnoob ez gg 2ez gh｜\ncs2 player｜\n大哥游戏玩累了玩会X怎么了｜\n最是人间留不住，朱颜辞镜花辞树｜\n只会打游戏、发癫｜\n受偏向的缝合二极管｜\n淡政ing｜\n不理解但尊重｜\nhoi4 Modder｜\n日语❌English❌｜\n可私信加steam好友｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "桂.com",
+                "end": 23,
+                "expanded_url": "http://xn--6xv.com",
+                "start": 0,
+                "url": "https://t.co/NCnKQ8Jp34"
+              }
+            ]
+          }
+        },
+        "id": "1236847498381099009",
+        "location": "CS2 大陀螺Spinbot",
+        "name": "Spinbot风灵月影宗",
+        "pinned_tweet_id": "1908083712929259783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902445777945030656/3y3H-a_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 4428,
+          "like_count": 11106,
+          "listed_count": 12,
+          "media_count": 10474,
+          "tweet_count": 44121
+        },
+        "url": "https://t.co/NCnKQ8Jp34",
+        "username": "pstjunotentacle",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66007,
+          "following_count": 961,
+          "like_count": 39755,
+          "listed_count": 150,
+          "media_count": 10807,
+          "tweet_count": 16999
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

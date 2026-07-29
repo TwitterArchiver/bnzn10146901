@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2043839332486951066",
+    "created_at": "2026-04-14T02:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043879869214536060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043879869214536060",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043839332486951066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoyi_0324 好耶，贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2043839328359784448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0tCljboAAN6QC.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2043839332486951066",
+        "created_at": "2026-04-14T02:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043879869214536060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043879869214536060",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043839332486951066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 好耶，贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043839328359784448"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043839332486951066",
+        "created_at": "2026-04-13T23:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043839332486951066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "查看 @xiaoyi_0324 的 X 互动圈 - NekoCircle (Yahoo 搜索)",
+              "display_url": "circle.catsuki.cc/yahoo/xiaoyi_0…",
+              "end": 53,
+              "expanded_url": "https://circle.catsuki.cc/yahoo/xiaoyi_0324",
+              "start": 30,
+              "status": 200,
+              "title": "xiaoyi_0324 的互动圈",
+              "unwound_url": "https://circle.catsuki.cc/yahoo/xiaoyi_0324",
+              "url": "https://t.co/pezjkMKxNR"
+            },
+            {
+              "display_url": "pic.x.com/YB4E0xoOOs",
+              "end": 77,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2043839332486951066/photo/1",
+              "media_key": "3_2043839328359784448",
+              "start": 54,
+              "url": "https://t.co/YB4E0xoOOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043839332486951066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的116人大型互动圈 QAQ\n这个好好玩 贴贴你们pwp\nhttps://t.co/pezjkMKxNR https://t.co/YB4E0xoOOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 416,
+          "like_count": 253,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 884
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n负面情绪致歉｜直fo成分回｜MTX(F?)｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM @Z348457376",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Z348457376"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 145,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

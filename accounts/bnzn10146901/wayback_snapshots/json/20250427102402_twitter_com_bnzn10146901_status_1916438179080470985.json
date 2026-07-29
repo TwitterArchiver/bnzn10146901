@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916362212043530500",
+    "created_at": "2025-04-27T10:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T11:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916438179080470985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827416305038987264",
+          "start": 0,
+          "username": "candf0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916438179080470985",
+    "in_reply_to_user_id": "1827416305038987264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916362212043530500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candf0131 一念神魔啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916362205945335808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GphJReJbEAADFRT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916362212043530500",
+        "created_at": "2025-04-27T10:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916438179080470985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827416305038987264",
+              "start": 0,
+              "username": "candf0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916438179080470985",
+        "in_reply_to_user_id": "1827416305038987264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916362212043530500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candf0131 一念神魔啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916362205945335808"
+          ]
+        },
+        "author_id": "1827416305038987264",
+        "conversation_id": "1916362212043530500",
+        "created_at": "2025-04-27T05:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T06:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916362212043530500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFUXgSNd6e",
+              "end": 28,
+              "expanded_url": "https://x.com/candf0131/status/1916362212043530500/photo/1",
+              "media_key": "3_1916362205945335808",
+              "start": 5,
+              "url": "https://t.co/DFUXgSNd6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916362212043530500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2855,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能去死不 https://t.co/DFUXgSNd6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 240
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "我一直骗我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB4j88"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "1908743588550500755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908744795562139648/CtyowTxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2549,
+          "following_count": 73,
+          "like_count": 3667,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/AwAYrB4j88",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2043030391104368860",
+    "created_at": "2026-04-14T02:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043880381892702653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033131214782275584",
+          "start": 0,
+          "username": "SigegeOffial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043880381892702653",
+    "in_reply_to_user_id": "2033131214782275584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043847766192074978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SigegeOffial 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2043030391104368860",
+        "created_at": "2026-04-14T02:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043880381892702653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033131214782275584",
+              "start": 0,
+              "username": "SigegeOffial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043880381892702653",
+        "in_reply_to_user_id": "2033131214782275584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043847766192074978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SigegeOffial 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033131214782275584",
+        "conversation_id": "2043030391104368860",
+        "created_at": "2026-04-14T00:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043847766192074978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043847766192074978",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043030391104368860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 用东方树叶的茶香化解白巧克力的腻嘛？毕竟德芙一块下去是真的会甜到怀疑人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 417,
+          "like_count": 253,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 885
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T10:41:29.000Z",
+        "description": "叫西格格就好❤️/最高绝巴120把3.2kd信息位三号位专精起装备就乱杀/APEX前两赛季钻石一赛季大师密客百胜手打双锤骷髅海（已经退坑）/农药省7弈星超级英雄勺/粥批、洛克批、坐忘道、资深任豚、资深书虫、卑微的打工人/吃商极高而且根本吃不胖.jpg/欢迎各位互关扩列❤️",
+        "id": "2033131214782275584",
+        "name": "西格格Offical",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043712992173604864/zbzxVe8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 52,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 144
+        },
+        "username": "SigegeOffial",
+        "verified": false
+      }
+    ]
+  }
+}

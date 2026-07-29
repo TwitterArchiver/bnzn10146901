@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1908395007935144153",
+    "created_at": "2025-04-05T10:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908463999571943631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "kagurazakaSiri_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908463999571943631",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908395007935144153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakaSiri_ gal人这下真噶了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_1908394997025783808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnv7I4DawAATehA.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1908395007935144153",
+        "created_at": "2025-04-05T10:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908463999571943631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "kagurazakaSiri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908463999571943631",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908395007935144153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakaSiri_ gal人这下真噶了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908394997025783808"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1908395007935144153",
+        "created_at": "2025-04-05T05:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T06:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908395007935144153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOaPAPseHm",
+              "end": 34,
+              "expanded_url": "https://x.com/kagurazakaSiri_/status/1908395007935144153/photo/1",
+              "media_key": "3_1908394997025783808",
+              "start": 11,
+              "url": "https://t.co/HOaPAPseHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908395007935144153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11567,
+          "like_count": 214,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "内啥，没啥，纯恶心人 https://t.co/HOaPAPseHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 211,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️MtX/重庆中考701.5但不登校/术力口&東方project/ASD&ADHD/♿️maimaiでらっくす/前https://t.co/UmzmLuA9oi编辑/💢入坑maimai since 2024.11.1 /😢9.00流速全外玩家/7sRef&天空街/头像 (from:東京喰種)@sotonami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 163,
+                "start": 154,
+                "username": "sotonami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 88,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 65,
+                "url": "https://t.co/UmzmLuA9oi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆🏳️‍⚧️",
+        "name": "翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906796197278523392/2eeHkFvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2976,
+          "following_count": 666,
+          "like_count": 16107,
+          "listed_count": 3,
+          "media_count": 736,
+          "tweet_count": 5409
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      }
+    ]
+  }
+}

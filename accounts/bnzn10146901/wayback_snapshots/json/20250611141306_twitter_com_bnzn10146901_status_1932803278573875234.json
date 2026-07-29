@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1932102685404406087",
+    "created_at": "2025-06-11T14:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932803278573875234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "MikuMiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932803278573875234",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932102685404406087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMiku3648 他简直是超人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2120,
+        "media_key": "3_1932102682199859200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtA1JxoaIAA4G4g.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1932102685404406087",
+        "created_at": "2025-06-11T14:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932803278573875234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "MikuMiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932803278573875234",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932102685404406087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMiku3648 他简直是超人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932102682199859200"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "1932102685404406087",
+        "created_at": "2025-06-09T15:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T16:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932102685404406087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNlTj4YS2v",
+              "end": 23,
+              "expanded_url": "https://x.com/MikuMiku3648/status/1932102685404406087/photo/1",
+              "media_key": "3_1932102682199859200",
+              "start": 0,
+              "url": "https://t.co/FNlTj4YS2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932102685404406087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 311306,
+          "like_count": 2143,
+          "quote_count": 21,
+          "reply_count": 150,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FNlTj4YS2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 606
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "君といる毎日は奇跡だよ                                                           友達！：@Reisa_Music     @Ludwig_von_Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Reisa_Music"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/UQGnaLaq5q"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "原来是生命，而非死亡，才是没有止境的",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 1262,
+          "like_count": 34608,
+          "listed_count": 14,
+          "media_count": 1968,
+          "tweet_count": 12695
+        },
+        "url": "https://t.co/UQGnaLaq5q",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

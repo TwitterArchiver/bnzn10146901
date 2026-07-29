@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1925012934322946386",
+    "created_at": "2025-05-22T16:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925582565093576887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1665349963562512384",
+          "start": 0,
+          "username": "jianh590842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925582565093576887",
+    "in_reply_to_user_id": "1665349963562512384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925012934322946386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianh590842 这里不是弱智吧😭你把我带到哪里来了😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925582565093576887].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925582565093576887",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925582565093576887"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1925012934322946386].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1925012934322946386",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925012934322946386"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 216,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 586
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T13:29:17.000Z",
+        "description": "太阳会在清晨升起，我们也会在下一个转角相遇。\n\n愿你所得皆如愿，所行皆坦途。",
+        "id": "1665349963562512384",
+        "name": "jianh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878724388624957440/xr_5kF45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 21,
+          "like_count": 15293,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 2503
+        },
+        "username": "jianh590842",
+        "verified": false
+      }
+    ]
+  }
+}

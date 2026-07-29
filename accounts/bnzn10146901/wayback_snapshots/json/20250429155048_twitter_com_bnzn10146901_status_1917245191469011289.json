@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916827259488575733",
+    "created_at": "2025-04-29T15:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T16:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917245191469011289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892553565618769920",
+          "start": 0,
+          "username": "xiolntngxu39404"
+        },
+        {
+          "end": 28,
+          "id": "1396330780079509510",
+          "start": 17,
+          "username": "xf00251456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917245191469011289",
+    "in_reply_to_user_id": "1892553565618769920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916829096971055242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiolntngxu39404 @xf00251456 我有个朋友破防了😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916827259488575733",
+        "created_at": "2025-04-29T15:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917245191469011289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892553565618769920",
+              "start": 0,
+              "username": "xiolntngxu39404"
+            },
+            {
+              "end": 28,
+              "id": "1396330780079509510",
+              "start": 17,
+              "username": "xf00251456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917245191469011289",
+        "in_reply_to_user_id": "1892553565618769920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916829096971055242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiolntngxu39404 @xf00251456 我有个朋友破防了😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892553565618769920",
+        "conversation_id": "1916827259488575733",
+        "created_at": "2025-04-28T12:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T13:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916829096971055242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396330780079509510",
+              "start": 0,
+              "username": "xf00251456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916829096971055242",
+        "in_reply_to_user_id": "1396330780079509510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916827259488575733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xf00251456 网上也没人在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 378
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T12:35:26.000Z",
+        "description": "记录和主子哥的恋/爱碎片丨情侣 \n章鱼小丸子（抽象版）\n主人Sama @XiaoLinTX2003\n分享日常可以互关，专注搞黄哒咩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "XiaoLinTX2003"
+              }
+            ]
+          }
+        },
+        "id": "1892553565618769920",
+        "name": "Takoyaki章鱼小丸子",
+        "pinned_tweet_id": "1914238497528967633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892554317699452930/eujePKp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 25,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 502
+        },
+        "username": "xiolntngxu39404",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-23T05:03:00.000Z",
+        "description": "抽象的美男子，文案喜欢的话请随意自取。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xf00251456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xf00251456",
+                "start": 0,
+                "url": "https://t.co/p6hKbSWqEC"
+              }
+            ]
+          }
+        },
+        "id": "1396330780079509510",
+        "location": "距您2.5km",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875762913254035456/XXgfwjVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 1117,
+          "like_count": 81690,
+          "listed_count": 11,
+          "media_count": 207,
+          "tweet_count": 5378
+        },
+        "url": "https://t.co/p6hKbSWqEC",
+        "username": "xf00251456",
+        "verified": false
+      }
+    ]
+  }
+}

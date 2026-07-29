@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2058345111155863642",
+    "created_at": "2026-05-24T16:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058591680975257938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058591680975257938",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058345111155863642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 😨吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2058345111155863642",
+        "created_at": "2026-05-24T16:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058591680975257938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058591680975257938",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058345111155863642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 😨吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2058345111155863642",
+        "created_at": "2026-05-24T00:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058345111155863642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058345111155863642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药娘哭话第八十则：不靠谱的灯神（十六）\n\n药娘求助灯神：灯神灯神，咱希望自己的说话声音像猫猫一样可爱喵\n\n灯神：小事一桩喵，你的愿望已经实现了喵，不信你张口试试看喵\n\n药娘：好耶成功了喵，真的谢谢你喵\n\n灯神：刚才忘了提醒你喵，实现愿望是有代价的喵\n\n药娘：不知代价是什么喵？\n\n灯神：其实也没什么喵，就是你5号染色体上一小截DNA片段喵\n\n*猫叫综合征：一种由于5号染色体上部分片段缺失引起的疾病"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8644,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘哭话第八十则：不靠谱的灯神（十六）\n\n药娘求助灯神：灯神灯神，咱希望自己的说话声音像猫猫一样可爱喵\n\n灯神：小事一桩喵，你的愿望已经实现了喵，不信你张口试试看喵\n\n药娘：好耶成功了喵，真的谢谢你喵\n\n灯神：刚才忘了提醒你喵，实现愿望是有代价的喵\n\n药娘：不知代价是什么喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 626,
+          "like_count": 287,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1298
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4592,
+          "following_count": 3445,
+          "like_count": 1352,
+          "listed_count": 15,
+          "media_count": 254,
+          "tweet_count": 1733
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

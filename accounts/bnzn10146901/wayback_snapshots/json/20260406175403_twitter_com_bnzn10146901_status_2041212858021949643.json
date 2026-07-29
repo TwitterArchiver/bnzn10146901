@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041212855706656768"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "2040750269475242025",
+    "created_at": "2026-04-06T17:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041212858021949643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1617614424331939841",
+          "start": 0,
+          "username": "pink_shiu"
+        },
+        {
+          "end": 18,
+          "id": "1621259482704625671",
+          "start": 11,
+          "username": "Qinioo"
+        },
+        {
+          "end": 32,
+          "id": "622036546",
+          "start": 19,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txty5F08aX",
+          "end": 59,
+          "expanded_url": "https://x.com/bnzn10146901/status/2041212858021949643/photo/1",
+          "media_key": "3_2041212855706656768",
+          "start": 36,
+          "url": "https://t.co/txty5F08aX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041212858021949643",
+    "in_reply_to_user_id": "1617614424331939841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041066502477201640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pink_shiu @Qinioo @overdose_six 如图 https://t.co/txty5F08aX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_2041212855706656768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPYRwdbIAApv0a.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041212855706656768"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "2040750269475242025",
+        "created_at": "2026-04-06T17:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041212858021949643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1617614424331939841",
+              "start": 0,
+              "username": "pink_shiu"
+            },
+            {
+              "end": 18,
+              "id": "1621259482704625671",
+              "start": 11,
+              "username": "Qinioo"
+            },
+            {
+              "end": 32,
+              "id": "622036546",
+              "start": 19,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txty5F08aX",
+              "end": 59,
+              "expanded_url": "https://x.com/bnzn10146901/status/2041212858021949643/photo/1",
+              "media_key": "3_2041212855706656768",
+              "start": 36,
+              "url": "https://t.co/txty5F08aX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041212858021949643",
+        "in_reply_to_user_id": "1617614424331939841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041066502477201640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pink_shiu @Qinioo @overdose_six 如图 https://t.co/txty5F08aX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617614424331939841",
+        "conversation_id": "2040750269475242025",
+        "created_at": "2026-04-06T08:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041066502477201640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinioo"
+            },
+            {
+              "end": 21,
+              "id": "622036546",
+              "start": 8,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041066502477201640",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 717,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040750269475242025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinioo @overdose_six 一只鸡啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 215,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 677
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T20:05:14.000Z",
+        "description": "春から帝京 普通東京在住女子鉄 英語喋れない外人 お金をください 無言フォロー失礼します🙇‍♀️",
+        "id": "1617614424331939841",
+        "location": "ペポン星",
+        "name": "ぴんく",
+        "pinned_tweet_id": "1664229624598102017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667154590100508673/XqzDRZnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 524,
+          "like_count": 31355,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 4084
+        },
+        "username": "pink_shiu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "正體🇹🇼/简体🇨🇳 | 音游人 | フォローをくれてありがとうございます!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GeW91"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 2362,
+          "like_count": 36907,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1392
+        },
+        "url": "https://t.co/eL7t3GeW91",
+        "username": "Qinioo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/9HsNdQiida | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.fyi",
+                "end": 26,
+                "expanded_url": "http://fayou.fyi",
+                "start": 3,
+                "url": "https://t.co/9HsNdQiida"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 100,
+          "like_count": 11376,
+          "listed_count": 8,
+          "media_count": 676,
+          "tweet_count": 4067
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

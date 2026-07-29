@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044006028707307655",
+    "created_at": "2026-04-14T11:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044011180575076833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Neko_nya2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044011180575076833",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044006028707307655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_nya2026 粉底液"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044006028707307655",
+        "created_at": "2026-04-14T11:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044011180575076833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Neko_nya2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044011180575076833",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044006028707307655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_nya2026 粉底液"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2044006028707307655",
+        "created_at": "2026-04-14T10:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044006028707307655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044006028707307655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求遮疤教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 451,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 897
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "mtf",
+        "id": "1960198897827282944",
+        "location": "猫猫の窝",
+        "name": "nya🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 894,
+          "like_count": 6999,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 962
+        },
+        "username": "Neko_nya2026",
+        "verified": false
+      }
+    ]
+  }
+}

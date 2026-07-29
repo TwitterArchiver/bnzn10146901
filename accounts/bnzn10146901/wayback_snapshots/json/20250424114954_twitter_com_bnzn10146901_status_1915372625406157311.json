@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915372612458250240"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "1915368970888368147",
+    "created_at": "2025-04-24T11:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T12:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915372625406157311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1828062670580543488",
+          "start": 0,
+          "username": "CallHtheXtime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9LbgMni8xc",
+          "end": 48,
+          "expanded_url": "https://x.com/bnzn10146901/status/1915372625406157311/photo/1",
+          "media_key": "3_1915372612458250240",
+          "start": 25,
+          "url": "https://t.co/9LbgMni8xc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915372625406157311",
+    "in_reply_to_user_id": "1828062670580543488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915368970888368147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CallHtheXtime 谢谢你，我不客气了 https://t.co/9LbgMni8xc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 284,
+        "media_key": "3_1915372612458250240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTFPjIWAAA51JN.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915368958636810246",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTB63lbYAY3Y1V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915372612458250240"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "1915368970888368147",
+        "created_at": "2025-04-24T11:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915372625406157311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1828062670580543488",
+              "start": 0,
+              "username": "CallHtheXtime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LbgMni8xc",
+              "end": 48,
+              "expanded_url": "https://x.com/bnzn10146901/status/1915372625406157311/photo/1",
+              "media_key": "3_1915372612458250240",
+              "start": 25,
+              "url": "https://t.co/9LbgMni8xc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915372625406157311",
+        "in_reply_to_user_id": "1828062670580543488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915368970888368147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CallHtheXtime 谢谢你，我不客气了 https://t.co/9LbgMni8xc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915368958636810246"
+          ]
+        },
+        "author_id": "1828062670580543488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1915368970888368147",
+        "created_at": "2025-04-24T11:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915368970888368147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCKDs5FYIX",
+              "end": 33,
+              "expanded_url": "https://x.com/CallHtheXtime/status/1915368970888368147/photo/1",
+              "media_key": "3_1915368958636810246",
+              "start": 10,
+              "url": "https://t.co/yCKDs5FYIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915368970888368147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把菠萝蜜全扒好了 https://t.co/yCKDs5FYIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 217,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 193
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T13:31:28.000Z",
+        "description": "本人与二次元人物喵梦无直接关系 皮下精神病患者少跟我计较 欢迎找我聊天🫶看心情回fo 有事请留言（热爱中国 所说极端言论皆是开玩笑）",
+        "id": "1828062670580543488",
+        "location": "熊本县",
+        "name": "风情主播喵梦Nyamuchi💙💜🖤（需要奥沙西泮版）",
+        "pinned_tweet_id": "1898222605204963660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900403837292195840/fwhiZF2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 322,
+          "like_count": 5420,
+          "listed_count": 6,
+          "media_count": 453,
+          "tweet_count": 6640
+        },
+        "username": "CallHtheXtime",
+        "verified": false
+      }
+    ]
+  }
+}

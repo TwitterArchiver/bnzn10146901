@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1932611033593753776",
+    "created_at": "2025-06-11T14:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932807711999291777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1166960282884694017",
+          "start": 0,
+          "username": "SwitchJoin"
+        },
+        {
+          "end": 28,
+          "id": "1496401789070954496",
+          "start": 12,
+          "username": "zhangxi39781680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932807711999291777",
+    "in_reply_to_user_id": "1166960282884694017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932719647239127409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwitchJoin @zhangxi39781680 那肉中刺呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1932719640465256448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJmReRaMAA_v2l.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1932611033593753776",
+        "created_at": "2025-06-11T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932807711999291777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1166960282884694017",
+              "start": 0,
+              "username": "SwitchJoin"
+            },
+            {
+              "end": 28,
+              "id": "1496401789070954496",
+              "start": 12,
+              "username": "zhangxi39781680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932807711999291777",
+        "in_reply_to_user_id": "1166960282884694017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932719647239127409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwitchJoin @zhangxi39781680 那肉中刺呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932719640465256448"
+          ]
+        },
+        "author_id": "1166960282884694017",
+        "conversation_id": "1932611033593753776",
+        "created_at": "2025-06-11T08:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T09:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932719647239127409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1496401789070954496",
+              "start": 0,
+              "username": "zhangxi39781680"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhVyz5uw3M",
+              "end": 40,
+              "expanded_url": "https://x.com/SwitchJoin/status/1932719647239127409/photo/1",
+              "media_key": "3_1932719640465256448",
+              "start": 17,
+              "url": "https://t.co/uhVyz5uw3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932719647239127409",
+        "in_reply_to_user_id": "1496401789070954496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1032,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932611033593753776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangxi39781680 https://t.co/uhVyz5uw3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 619
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T06:26:35.000Z",
+        "description": "黄色废料 小号属性为低俗混沌杂志社 @siren14siren 匿名提问箱：https://t.co/9uQZaUxhez",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "siren14siren"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/switchjoin",
+                "end": 61,
+                "expanded_url": "https://ngl.link/switchjoin",
+                "start": 38,
+                "url": "https://t.co/9uQZaUxhez"
+              }
+            ]
+          }
+        },
+        "id": "1166960282884694017",
+        "location": "麦当劳第8号监狱",
+        "name": "麦当牢服刑人员",
+        "pinned_tweet_id": "1835002799375237387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841152455154778115/uLo9TZS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1012,
+          "like_count": 26201,
+          "listed_count": 2,
+          "media_count": 717,
+          "tweet_count": 4130
+        },
+        "username": "SwitchJoin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-23T08:29:34.000Z",
+        "description": "infp 喜欢长发男 推广自辨 -🚪288 520",
+        "id": "1496401789070954496",
+        "name": "好男人不包二奶",
+        "pinned_tweet_id": "1932783799945027756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922917665238323200/3vSC1AV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9114,
+          "following_count": 199,
+          "like_count": 8256,
+          "listed_count": 27,
+          "media_count": 57,
+          "tweet_count": 1951
+        },
+        "username": "zhangxi39781680",
+        "verified": false
+      }
+    ]
+  }
+}

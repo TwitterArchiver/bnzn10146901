@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916711701333897287",
+    "created_at": "2025-04-28T15:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T16:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916871569051095418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1636232016231542784",
+          "start": 0,
+          "username": "SEuyrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916871569051095418",
+    "in_reply_to_user_id": "1636232016231542784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916711701333897287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEuyrj 为什么不看看大鸟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1916711698960130048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmHIpFaoAA02pC.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916711701333897287",
+        "created_at": "2025-04-28T15:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T16:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916871569051095418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636232016231542784",
+              "start": 0,
+              "username": "SEuyrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916871569051095418",
+        "in_reply_to_user_id": "1636232016231542784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916711701333897287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEuyrj 为什么不看看大鸟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916711698960130048"
+          ]
+        },
+        "author_id": "1636232016231542784",
+        "conversation_id": "1916711701333897287",
+        "created_at": "2025-04-28T04:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T05:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916711701333897287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxSFt3qrPY",
+              "end": 36,
+              "expanded_url": "https://x.com/SEuyrj/status/1916711701333897287/photo/1",
+              "media_key": "3_1916711698960130048",
+              "start": 13,
+              "url": "https://t.co/JxSFt3qrPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916711701333897287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2997,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼沒有人給我發牛子啊🥹 https://t.co/JxSFt3qrPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 300
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:04:59.000Z",
+        "description": "不鍵政喵🥺\n🤣👉⏰",
+        "id": "1636232016231542784",
+        "location": "唐辛子星",
+        "name": "人民的頻道🌸💗",
+        "pinned_tweet_id": "1916140395299217780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915751567829209088/fPNY1E_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 826,
+          "like_count": 5968,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1985
+        },
+        "username": "SEuyrj",
+        "verified": false
+      }
+    ]
+  }
+}

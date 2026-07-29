@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1914673833518469574",
+    "created_at": "2025-04-24T12:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T13:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915376573986886008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753977181053607936",
+          "start": 0,
+          "username": "killkill999999"
+        },
+        {
+          "end": 27,
+          "id": "1684788633797287936",
+          "start": 16,
+          "username": "Muoujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915376573986886008",
+    "in_reply_to_user_id": "1753977181053607936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914674606725624116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killkill999999 @Muoujiang_ 不削能玩？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_1914674601940148226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpJKZ_Ua4AITlWF.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1914673833518469574",
+        "created_at": "2025-04-24T12:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T13:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915376573986886008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753977181053607936",
+              "start": 0,
+              "username": "killkill999999"
+            },
+            {
+              "end": 27,
+              "id": "1684788633797287936",
+              "start": 16,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915376573986886008",
+        "in_reply_to_user_id": "1753977181053607936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914674606725624116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killkill999999 @Muoujiang_ 不削能玩？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914674601940148226"
+          ]
+        },
+        "author_id": "1753977181053607936",
+        "conversation_id": "1914673833518469574",
+        "created_at": "2025-04-22T13:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914674606725624116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Muoujiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P58dw6n35e",
+              "end": 35,
+              "expanded_url": "https://x.com/killkill999999/status/1914674606725624116/photo/1",
+              "media_key": "3_1914674601940148226",
+              "start": 12,
+              "url": "https://t.co/P58dw6n35e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914674606725624116",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2306,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914673833518469574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muoujiang_ https://t.co/P58dw6n35e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 217,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 199
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T03:02:09.000Z",
+        "description": "别闹了，要死了  提问箱https://t.co/J6yeyTiHHn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxx98266",
+                "end": 35,
+                "expanded_url": "https://ngl.link/xxxx98266",
+                "start": 12,
+                "url": "https://t.co/J6yeyTiHHn"
+              }
+            ]
+          }
+        },
+        "id": "1753977181053607936",
+        "location": "Los Angeles, CA",
+        "name": "无敌暴龙王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843113266954051584/CEbmdkEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 62,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1519
+        },
+        "username": "killkill999999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🏳️‍🌈🏳️‍⚧️ | 目前由于无法含糖勉强算个顺男(？) | @huahuojiang_ | 妹妹: @liveDeath750122 @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 72,
+                "start": 56,
+                "username": "liveDeath750122"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Zapolyary Palace, Snezhnaya",
+        "name": "木偶酱～🌠",
+        "pinned_tweet_id": "1910218894813675591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908821988682162176/4jvhKU9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20561,
+          "following_count": 10497,
+          "like_count": 69913,
+          "listed_count": 67,
+          "media_count": 3395,
+          "tweet_count": 12842
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

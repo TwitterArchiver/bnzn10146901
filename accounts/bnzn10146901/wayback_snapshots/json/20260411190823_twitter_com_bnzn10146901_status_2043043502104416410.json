@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2042912299422544101",
+    "created_at": "2026-04-11T19:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043043502104416410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043043502104416410",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042912299422544101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 小灵通红谱好玩，紫谱炸弹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042912288605376517",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnh5xWakAU0cTU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2042912299422544101",
+        "created_at": "2026-04-11T19:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043043502104416410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043043502104416410",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042912299422544101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 小灵通红谱好玩，紫谱炸弹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042912288605376517"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042912299422544101",
+        "created_at": "2026-04-11T10:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042912299422544101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jLp5WvJPK",
+              "end": 28,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2042912299422544101/photo/1",
+              "media_key": "3_2042912288605376517",
+              "start": 5,
+              "url": "https://t.co/2jLp5WvJPK"
+            },
+            {
+              "display_url": "x.com/komacyan_zz/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/komacyan_zz/status/2034942010122289238",
+              "start": 29,
+              "url": "https://t.co/X5wapxDw5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912299422544101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034942010122289238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并不结束 https://t.co/2jLp5WvJPK https://t.co/X5wapxDw5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 322,
+          "like_count": 229,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 778
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 質問箱▶️https://t.co/uE3mxpxUTR / フォロバをご希望の方はDMお願いします ❤️@MoeQike 🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "MoeQike"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/komacyan_zz",
+                "end": 51,
+                "expanded_url": "https://ngl.link/komacyan_zz",
+                "start": 28,
+                "url": "https://t.co/uE3mxpxUTR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2025887215470227733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 771,
+          "like_count": 14613,
+          "listed_count": 10,
+          "media_count": 1580,
+          "tweet_count": 7288
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true
+      }
+    ]
+  }
+}

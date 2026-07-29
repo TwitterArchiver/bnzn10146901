@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2040826539730743364",
+    "created_at": "2026-04-05T17:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040845640767504809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555072803992350721",
+          "start": 0,
+          "username": "kittyx0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040845640767504809",
+    "in_reply_to_user_id": "1555072803992350721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040826539730743364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittyx0811 主包我们这样说真的会有人来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2040826539730743364",
+        "created_at": "2026-04-05T17:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040845640767504809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555072803992350721",
+              "start": 0,
+              "username": "kittyx0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040845640767504809",
+        "in_reply_to_user_id": "1555072803992350721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040826539730743364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittyx0811 主包我们这样说真的会有人来吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555072803992350721",
+        "conversation_id": "2040826539730743364",
+        "created_at": "2026-04-05T16:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040826539730743364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040826539730743364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 940,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出原味大便"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 214,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 673
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T06:07:15.000Z",
+        "description": "一个普通小女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittyx0811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittyx0811",
+                "start": 0,
+                "url": "https://t.co/aBb4IYmhdS"
+              }
+            ]
+          }
+        },
+        "id": "1555072803992350721",
+        "location": "只玩推 没有🚪 不线下",
+        "name": "xxrain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982935035037581312/70AOypWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54379,
+          "following_count": 46,
+          "like_count": 2279,
+          "listed_count": 152,
+          "media_count": 135,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/aBb4IYmhdS",
+        "username": "kittyx0811",
+        "verified": false
+      }
+    ]
+  }
+}

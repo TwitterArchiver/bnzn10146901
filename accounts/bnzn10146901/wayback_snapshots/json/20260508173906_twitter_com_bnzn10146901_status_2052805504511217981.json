@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052631026028208128"
+      ],
+      "media_source_tweet_id": [
+        "2052631028771266967"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "2052805504511217981",
+    "created_at": "2026-05-08T17:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052805504511217981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TU3ryVM6gq",
+          "end": 104,
+          "expanded_url": "https://x.com/Strf_9040C/status/2052631028771266967/photo/1",
+          "media_key": "3_2052631026028208128",
+          "start": 81,
+          "url": "https://t.co/TU3ryVM6gq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052805504511217981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052631028771266967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 以防你不知道\n所有三星手机都预装了这个吉娃娃照片\n打开拨号输入*#0*#\n按SENSOR\n点最上面第一个键\n就可以看见这个吉娃娃 https://t.co/TU3ryVM6gq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2052631026028208128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxpCvlbYAAX3ye.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052631026028208128"
+          ],
+          "media_source_tweet_id": [
+            "2052631028771266967"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "2052805504511217981",
+        "created_at": "2026-05-08T17:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052805504511217981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU3ryVM6gq",
+              "end": 104,
+              "expanded_url": "https://x.com/Strf_9040C/status/2052631028771266967/photo/1",
+              "media_key": "3_2052631026028208128",
+              "start": 81,
+              "url": "https://t.co/TU3ryVM6gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052805504511217981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052631028771266967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 以防你不知道\n所有三星手机都预装了这个吉娃娃照片\n打开拨号输入*#0*#\n按SENSOR\n点最上面第一个键\n就可以看见这个吉娃娃 https://t.co/TU3ryVM6gq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052631026028208128"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2052631028771266967",
+        "created_at": "2026-05-08T06:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052631028771266967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU3ryVM6gq",
+              "end": 88,
+              "expanded_url": "https://x.com/Strf_9040C/status/2052631028771266967/photo/1",
+              "media_key": "3_2052631026028208128",
+              "start": 65,
+              "url": "https://t.co/TU3ryVM6gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052631028771266967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 38092,
+          "like_count": 277,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道\n所有三星手机都预装了这个吉娃娃照片\n打开拨号输入*#0*#\n按SENSOR\n点最上面第一个键\n就可以看见这个吉娃娃 https://t.co/TU3ryVM6gq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 624,
+          "like_count": 284,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1238
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1984,
+          "like_count": 9411,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

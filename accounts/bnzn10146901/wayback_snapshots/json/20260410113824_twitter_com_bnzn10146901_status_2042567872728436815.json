@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2042266460983267406",
+    "created_at": "2026-04-10T11:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042567872728436815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952690690892468224",
+          "start": 0,
+          "username": "meowania_Fan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042567872728436815",
+    "in_reply_to_user_id": "1952690690892468224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042266460983267406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowania_Fan 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2042266454469574656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeWhRtbAAAGSVx.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2042266460983267406",
+        "created_at": "2026-04-10T11:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042567872728436815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952690690892468224",
+              "start": 0,
+              "username": "meowania_Fan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042567872728436815",
+        "in_reply_to_user_id": "1952690690892468224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042266460983267406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowania_Fan 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042266454469574656"
+          ]
+        },
+        "author_id": "1952690690892468224",
+        "conversation_id": "2042266460983267406",
+        "created_at": "2026-04-09T15:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042266460983267406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8UMmkG5mJ",
+              "end": 45,
+              "expanded_url": "https://x.com/meowania_Fan/status/2042266460983267406/photo/1",
+              "media_key": "3_2042266454469574656",
+              "start": 22,
+              "url": "https://t.co/t8UMmkG5mJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042266460983267406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 587,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突破200fo大关\n谢谢大家喵～\n爱你们w https://t.co/t8UMmkG5mJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 246,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 713
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高一猫｜🏳️‍⚧️无糖(?)｜家暴党｜183cm｜74kg｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHJ0a87"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "name": "Meowania",
+        "pinned_tweet_id": "2036105253691768903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 208,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/CO8uHJ0a87",
+        "username": "meowania_Fan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2047012300675256672",
+    "created_at": "2026-04-26T05:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048279893973364991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596190117273763842",
+          "start": 0,
+          "username": "Chongchong31029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048279893973364991",
+    "in_reply_to_user_id": "1596190117273763842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048160890198098322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chongchong31029 100.0往上是鸟100.5往上是鸟＋，因为舞萌的加分分界线是这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2047012300675256672",
+        "created_at": "2026-04-26T05:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048279893973364991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596190117273763842",
+              "start": 0,
+              "username": "Chongchong31029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048279893973364991",
+        "in_reply_to_user_id": "1596190117273763842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048160890198098322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chongchong31029 100.0往上是鸟100.5往上是鸟＋，因为舞萌的加分分界线是这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596190117273763842",
+        "conversation_id": "2047012300675256672",
+        "created_at": "2026-04-25T22:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048160890198098322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048160890198098322",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047012300675256672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 纯新手，鸟+什么意思😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 606,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1059
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T17:12:43.000Z",
+        "description": "160 50kg 无证含糖2025.11 hrt不涉政，不鉴证，         正在努力改变负能量",
+        "id": "1596190117273763842",
+        "location": "北京",
+        "name": "花汀酒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045187697954918400/VLcPTvwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 395,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 208
+        },
+        "username": "Chongchong31029",
+        "verified": false
+      }
+    ]
+  }
+}

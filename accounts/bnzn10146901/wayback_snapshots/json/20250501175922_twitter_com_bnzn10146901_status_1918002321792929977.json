@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1917834845943890042",
+    "created_at": "2025-05-01T17:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T18:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918002321792929977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845804987311595520",
+          "start": 0,
+          "username": "kakashiuvu09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918002321792929977",
+    "in_reply_to_user_id": "1845804987311595520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917834845943890042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakashiuvu09 谢谢你，没你我都不知道飞机杯不能用微波炉加热"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1917834845943890042",
+        "created_at": "2025-05-01T17:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T18:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918002321792929977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845804987311595520",
+              "start": 0,
+              "username": "kakashiuvu09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918002321792929977",
+        "in_reply_to_user_id": "1845804987311595520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917834845943890042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakashiuvu09 谢谢你，没你我都不知道飞机杯不能用微波炉加热"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845804987311595520",
+        "conversation_id": "1917834845943890042",
+        "created_at": "2025-05-01T06:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917834845943890042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917834845943890042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 150012,
+          "like_count": 991,
+          "quote_count": 12,
+          "reply_count": 134,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "服了，被飞机杯烫了，今天玩杯子的时候总感觉杯子凉的没感觉，然后就突发奇想用微波炉加热，热了半分钟我摸着外面是温的，感觉可以了，想都没想直接进去了，结果差点牛子烫掉，微波炉是从内部加热的，里面的润滑烫的跟岩浆似的，牛子已经疼了一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 406
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T12:33:12.000Z",
+        "description": "",
+        "id": "1845804987311595520",
+        "name": "潮嘲熊",
+        "pinned_tweet_id": "1917902938502205735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894757665290784769/7c3zrYyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25761,
+          "following_count": 101,
+          "like_count": 637,
+          "listed_count": 56,
+          "media_count": 65,
+          "tweet_count": 550
+        },
+        "username": "kakashiuvu09",
+        "verified": false
+      }
+    ]
+  }
+}

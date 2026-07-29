@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044332698014203904",
+    "created_at": "2026-04-15T08:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044332698014203904"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bnzn10146901/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/bnzn10146901/status/2044325513301520605",
+          "start": 17,
+          "url": "https://t.co/ApVjhjGm1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044332698014203904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044325513301520605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么领钱都不积极，私信都不回我😫 https://t.co/ApVjhjGm1w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044332698014203904",
+        "created_at": "2026-04-15T08:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044332698014203904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bnzn10146901/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/bnzn10146901/status/2044325513301520605",
+              "start": 17,
+              "url": "https://t.co/ApVjhjGm1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044332698014203904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044325513301520605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么领钱都不积极，私信都不回我😫 https://t.co/ApVjhjGm1w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044325513301520605",
+        "created_at": "2026-04-15T08:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044325513301520605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 96,
+              "id": "1999007250829230080",
+              "start": 82,
+              "username": "DDaquaforever"
+            },
+            {
+              "end": 113,
+              "id": "1803048962133483520",
+              "start": 101,
+              "username": "baixixi0712"
+            },
+            {
+              "end": 127,
+              "id": "2030832351656493056",
+              "start": 114,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 148,
+              "id": "1970857021588262912",
+              "start": 132,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 160,
+              "id": "1858393719080366080",
+              "start": 149,
+              "username": "xiaomonuya"
+            },
+            {
+              "end": 174,
+              "id": "1902046879166468096",
+              "start": 161,
+              "username": "awaTsuki1111"
+            },
+            {
+              "end": 187,
+              "id": "1784211162587922432",
+              "start": 175,
+              "username": "Qiaoqiaocat"
+            },
+            {
+              "end": 202,
+              "id": "1510626480375611393",
+              "start": 188,
+              "username": "baiye60215390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044325513301520605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖了！100fo感谢！感谢天！感谢地！感谢你们！感谢手机！感谢电脑！感谢舞萌DX！感谢pjsk！感谢充电器！感谢推特！感谢矿泉水！感谢pr！感谢玉米片！\n一等奖：@DDaquaforever\n二等奖：@baixixi0712 @Suintouhea2t\n三等奖：@RainEngine_2024 @xiaomonuya @awaTsuki1111 @Qiaoqiaocat @baiye60215390"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 516,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 938
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

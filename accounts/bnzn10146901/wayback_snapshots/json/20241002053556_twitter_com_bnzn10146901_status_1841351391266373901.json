@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1825901123649286639",
+    "created_at": "2024-10-02T05:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T06:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841351391266373901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764545918555275264",
+          "start": 0,
+          "username": "douyinchigua"
+        },
+        {
+          "end": 23,
+          "id": "715183792697303041",
+          "start": 14,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841351391266373901",
+    "in_reply_to_user_id": "1764545918555275264",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825901123649286639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@douyinchigua @HuoQubot"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1825901123649286639",
+        "created_at": "2024-10-02T05:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T06:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841351391266373901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764545918555275264",
+              "start": 0,
+              "username": "douyinchigua"
+            },
+            {
+              "end": 23,
+              "id": "715183792697303041",
+              "start": 14,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841351391266373901",
+        "in_reply_to_user_id": "1764545918555275264",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825901123649286639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@douyinchigua @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825900980103467008",
+            "3_1825901012810608643",
+            "3_1825901034751012866",
+            "7_1825901059879108608"
+          ]
+        },
+        "author_id": "1764545918555275264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1825901123649286639",
+        "created_at": "2024-08-20T14:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T15:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825901123649286639"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "少数民族"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "苗族"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "口交"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "颜值"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "美女诱惑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "h5bhz2.fttakru.com/archives/12549…",
+              "end": 109,
+              "expanded_url": "https://h5bhz2.fttakru.com/archives/125497/",
+              "start": 86,
+              "url": "https://t.co/pAbU6ob0UW"
+            },
+            {
+              "display_url": "pic.x.com/0u18KquNUV",
+              "end": 133,
+              "expanded_url": "https://x.com/douyinchigua/status/1825901123649286639/video/1",
+              "media_key": "3_1825900980103467008",
+              "start": 110,
+              "url": "https://t.co/0u18KquNUV"
+            },
+            {
+              "display_url": "pic.x.com/0u18KquNUV",
+              "end": 133,
+              "expanded_url": "https://x.com/douyinchigua/status/1825901123649286639/video/1",
+              "media_key": "3_1825901012810608643",
+              "start": 110,
+              "url": "https://t.co/0u18KquNUV"
+            },
+            {
+              "display_url": "pic.x.com/0u18KquNUV",
+              "end": 133,
+              "expanded_url": "https://x.com/douyinchigua/status/1825901123649286639/video/1",
+              "media_key": "3_1825901034751012866",
+              "start": 110,
+              "url": "https://t.co/0u18KquNUV"
+            },
+            {
+              "display_url": "pic.x.com/0u18KquNUV",
+              "end": 133,
+              "expanded_url": "https://x.com/douyinchigua/status/1825901123649286639/video/1",
+              "media_key": "7_1825901059879108608",
+              "start": 110,
+              "url": "https://t.co/0u18KquNUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825901123649286639",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 21372,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "最近超火的少数民族姑娘穿着家里华丽的苗族服饰给大哥口交 11分钟的完整版\n\n#少数民族 #苗族 #口交 #颜值 #美女诱惑 \n\n📲点击抖音吃瓜看『完整版』视频📷📷📷链接📷\nhttps://t.co/pAbU6ob0UW https://t.co/0u18KquNUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "😭👊👊👊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589141981720027136/08qSVir0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 168,
+          "like_count": 167,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T06:58:31.000Z",
+        "description": "#91大赛 最新免翻墙入口： https://t.co/01LzrhDihd\n永久地址：https://t.co/2L0V6FnByx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "91大赛"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "91daily01.com",
+                "end": 38,
+                "expanded_url": "https://91daily01.com",
+                "start": 15,
+                "url": "https://t.co/01LzrhDihd"
+              },
+              {
+                "display_url": "dycg66.com",
+                "end": 67,
+                "expanded_url": "https://dycg66.com",
+                "start": 44,
+                "url": "https://t.co/2L0V6FnByx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dycg66.com",
+                "end": 23,
+                "expanded_url": "https://dycg66.com",
+                "start": 0,
+                "url": "https://t.co/2L0V6FnByx"
+              }
+            ]
+          }
+        },
+        "id": "1764545918555275264",
+        "name": "91大赛",
+        "pinned_tweet_id": "1838860670579937629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809175869807816704/f7TWSqcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 0,
+          "like_count": 41,
+          "listed_count": 3,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/2L0V6FnByx",
+        "username": "douyinchigua",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331779,
+          "following_count": 122,
+          "like_count": 62,
+          "listed_count": 169,
+          "tweet_count": 134155
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

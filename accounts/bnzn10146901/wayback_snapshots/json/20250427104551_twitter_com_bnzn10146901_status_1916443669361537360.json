@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916382210569212255",
+    "created_at": "2025-04-27T10:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T11:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916443669361537360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1385979996439814157",
+          "start": 0,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916443669361537360",
+    "in_reply_to_user_id": "1385979996439814157",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916382210569212255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5OL5OdJlYuZ62Wo awmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19493,
+        "height": 1260,
+        "media_key": "7_1916382156735324160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1916382156735324160/pu/img/3zEEgHqO3NgU_flI.jpg",
+        "public_metrics": {
+          "view_count": 2779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916382156735324160/pu/vid/avc1/320x560/jzqV2vPh1FjyB3EO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916382156735324160/pu/vid/avc1/480x840/3M_FpeO3ePvxqbVL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916382156735324160/pu/vid/avc1/720x1260/10os5HFI0PxZ4yM5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1916382156735324160/pu/pl/L8HTbFVaH1AYFlOK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916382210569212255",
+        "created_at": "2025-04-27T10:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916443669361537360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385979996439814157",
+              "start": 0,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916443669361537360",
+        "in_reply_to_user_id": "1385979996439814157",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916382210569212255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5OL5OdJlYuZ62Wo awmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1916382156735324160"
+          ]
+        },
+        "author_id": "1385979996439814157",
+        "conversation_id": "1916382210569212255",
+        "created_at": "2025-04-27T06:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T07:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916382210569212255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vi4ts7hP30",
+              "end": 37,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1916382210569212255/video/1",
+              "media_key": "7_1916382156735324160",
+              "start": 14,
+              "url": "https://t.co/Vi4ts7hP30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916382210569212255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 8486,
+          "like_count": 303,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "后面那个为什么要殴打洗衣机 https://t.co/Vi4ts7hP30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 249
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "",
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "pinned_tweet_id": "1914269162190651732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34044,
+          "following_count": 19,
+          "like_count": 701,
+          "listed_count": 88,
+          "media_count": 804,
+          "tweet_count": 4063
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

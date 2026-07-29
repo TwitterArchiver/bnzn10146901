@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916336740115026410",
+    "created_at": "2025-04-27T11:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916448339660308833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916448339660308833",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916336740115026410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 吸力这么大能不能帮我通一下下水道，我家厕所堵了🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916336736587902976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgyG9ZacAAr79E.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916336740115026410",
+        "created_at": "2025-04-27T11:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916448339660308833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916448339660308833",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916336740115026410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 吸力这么大能不能帮我通一下下水道，我家厕所堵了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916336736587902976"
+          ]
+        },
+        "author_id": "1619021081238732802",
+        "conversation_id": "1916336740115026410",
+        "created_at": "2025-04-27T03:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916336740115026410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9P9vNYMHP",
+              "end": 26,
+              "expanded_url": "https://x.com/love__bbh__lks/status/1916336740115026410/photo/1",
+              "media_key": "3_1916336736587902976",
+              "start": 3,
+              "url": "https://t.co/u9P9vNYMHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916336740115026410",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。？ https://t.co/u9P9vNYMHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 256
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水文字推，别骚扰我。问隐私打钱发口令，可以喊我小柳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks",
+                "start": 0,
+                "url": "https://t.co/oiNSPSRA4t"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 187,
+          "like_count": 12127,
+          "listed_count": 4,
+          "media_count": 878,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/oiNSPSRA4t",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

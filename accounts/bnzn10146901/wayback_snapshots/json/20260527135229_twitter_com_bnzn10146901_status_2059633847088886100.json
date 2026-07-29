@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2059418715788321235",
+    "created_at": "2026-05-27T13:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059633847088886100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "868887840230330368",
+          "start": 0,
+          "username": "momoGZ0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059633847088886100",
+    "in_reply_to_user_id": "868887840230330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059418715788321235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoGZ0412 已转发到隔壁mtf群"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2059418708624474113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSGZ3tbAAEqQ3v.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2059418715788321235",
+        "created_at": "2026-05-27T13:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059633847088886100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059633847088886100",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059418715788321235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 已转发到隔壁mtf群"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059418708624474113"
+          ]
+        },
+        "author_id": "868887840230330368",
+        "conversation_id": "2059418715788321235",
+        "created_at": "2026-05-26T23:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059418715788321235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LafiBCsmW",
+              "end": 43,
+              "expanded_url": "https://x.com/momoGZ0412/status/2059418715788321235/photo/1",
+              "media_key": "3_2059418708624474113",
+              "start": 20,
+              "url": "https://t.co/4LafiBCsmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059418715788321235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 474591,
+          "like_count": 312,
+          "quote_count": 7,
+          "reply_count": 350,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "睾丸也能卖？这东西也能移植吗？有用吗？ https://t.co/4LafiBCsmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 625,
+          "like_count": 287,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1307
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Paris, France",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73161,
+          "following_count": 6226,
+          "like_count": 162775,
+          "listed_count": 211,
+          "media_count": 7430,
+          "tweet_count": 23311
+        },
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

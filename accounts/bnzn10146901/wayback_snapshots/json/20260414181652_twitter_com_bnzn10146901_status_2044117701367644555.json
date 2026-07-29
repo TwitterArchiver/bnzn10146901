@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044099152435724678",
+    "created_at": "2026-04-14T18:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044117701367644555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510626480375611393",
+          "start": 0,
+          "username": "baiye60215390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044117701367644555",
+    "in_reply_to_user_id": "1510626480375611393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044106691235496147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiye60215390 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044099152435724678",
+        "created_at": "2026-04-14T18:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044117701367644555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510626480375611393",
+              "start": 0,
+              "username": "baiye60215390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044117701367644555",
+        "in_reply_to_user_id": "1510626480375611393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044106691235496147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiye60215390 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510626480375611393",
+        "conversation_id": "2044099152435724678",
+        "created_at": "2026-04-14T17:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044106691235496147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044106691235496147",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044099152435724678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 都快两百啦，好厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 471,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 913
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T14:33:20.000Z",
+        "description": "不想写简介了，写了也没人看",
+        "id": "1510626480375611393",
+        "name": "Misstep",
+        "pinned_tweet_id": "1513744463100846082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833432574452240384/qi1vA8r0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 48,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "baiye60215390",
+        "verified": false
+      }
+    ]
+  }
+}

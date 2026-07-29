@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919701942680350960",
+    "created_at": "2025-05-06T10:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T11:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919701942680350960"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919701942680350960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们拉过裤兜吗，那天我正上着课，突然感觉腹部传来一阵翻腔倒海的剧痛，它的叫声在整个教室里哀转久绝，十分洪亮。老师停止了讲课所有人都在看着我。就在这时，我突然感觉一股强烈的冲击力顺着肠道直达肛门，仿佛要在顷刻之间喷射而出，那种冲击力实在是太激烈了，我在所有人面前放了一个惊天大屁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919701942680350960",
+        "created_at": "2025-05-06T10:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919701942680350960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919701942680350960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们拉过裤兜吗，那天我正上着课，突然感觉腹部传来一阵翻腔倒海的剧痛，它的叫声在整个教室里哀转久绝，十分洪亮。老师停止了讲课所有人都在看着我。就在这时，我突然感觉一股强烈的冲击力顺着肠道直达肛门，仿佛要在顷刻之间喷射而出，那种冲击力实在是太激烈了，我在所有人面前放了一个惊天大屁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 449
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

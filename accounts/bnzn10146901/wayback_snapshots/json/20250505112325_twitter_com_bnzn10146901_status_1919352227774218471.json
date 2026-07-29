@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1918910020332515625",
+    "created_at": "2025-05-05T11:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T12:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919352227774218471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919352227774218471",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918910020332515625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 还好这个没有环江西圈🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_1918910014007500800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqFWfazbYAAGI5F.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1918910020332515625",
+        "created_at": "2025-05-05T11:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919352227774218471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919352227774218471",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918910020332515625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 还好这个没有环江西圈🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918910014007500800"
+          ]
+        },
+        "author_id": "1841768354178334721",
+        "conversation_id": "1918910020332515625",
+        "created_at": "2025-05-04T06:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T07:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918910020332515625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3YUnpt12L",
+              "end": 66,
+              "expanded_url": "https://x.com/jingzi004/status/1918910020332515625/photo/1",
+              "media_key": "3_1918910014007500800",
+              "start": 43,
+              "url": "https://t.co/Z3YUnpt12L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918910020332515625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 25877,
+          "like_count": 218,
+          "quote_count": 1,
+          "reply_count": 32,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一張圖帶你了解小藥娘集中的省份🌝\n四川、湖北、浙江、山東、江蘇、廣東\n面基找我☝️🤓 https://t.co/Z3YUnpt12L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 439
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "男性身體，定期注射雌二醇的藥娘，彤惠丹房煉丹師，自產自銷人妖藥（雌二醇）糖商，擅長減肥、豐胸、泌乳、互fo，會轉發好看的",
+        "id": "1841768354178334721",
+        "name": "京本京子",
+        "pinned_tweet_id": "1893839054027862404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911275045080436736/rttLfADV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 2792,
+          "like_count": 879,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 3119
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

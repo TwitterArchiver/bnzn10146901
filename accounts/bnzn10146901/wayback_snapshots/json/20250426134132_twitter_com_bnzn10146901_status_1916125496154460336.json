@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916095915900768618",
+    "created_at": "2025-04-26T13:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T14:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916125496154460336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486958940948770817",
+          "start": 0,
+          "username": "antihelium4"
+        },
+        {
+          "end": 20,
+          "id": "1613079089879076864",
+          "start": 13,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916125496154460336",
+    "in_reply_to_user_id": "1486958940948770817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916120530840846464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antihelium4 @Cldeop 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916095915900768618",
+        "created_at": "2025-04-26T13:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916125496154460336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486958940948770817",
+              "start": 0,
+              "username": "antihelium4"
+            },
+            {
+              "end": 20,
+              "id": "1613079089879076864",
+              "start": 13,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916125496154460336",
+        "in_reply_to_user_id": "1486958940948770817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916120530840846464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antihelium4 @Cldeop 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486958940948770817",
+        "conversation_id": "1916095915900768618",
+        "created_at": "2025-04-26T13:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916120530840846464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916120530840846464",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916095915900768618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 主要是装b吧，挺多小屁孩就喜欢搞点当前阶段接触不到的东西来装逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 217
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T07:09:35.000Z",
+        "description": "累了",
+        "id": "1486958940948770817",
+        "location": "Reach,New Alexandria",
+        "name": "chief",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908527218877468672/QF0V2AOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 128,
+          "like_count": 19053,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4230
+        },
+        "username": "antihelium4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62861,
+          "following_count": 566,
+          "like_count": 28271,
+          "listed_count": 216,
+          "media_count": 9121,
+          "tweet_count": 13034
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

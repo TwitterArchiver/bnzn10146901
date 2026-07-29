@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1917087332697821208",
+    "created_at": "2025-04-29T14:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917225486339428369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917225486339428369",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917087332697821208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 还是阅读速度太快了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1917087324896432128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gprcw8vbEAAOKTl.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1917087332697821208",
+        "created_at": "2025-04-29T14:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917225486339428369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917225486339428369",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917087332697821208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 还是阅读速度太快了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917087324896432128"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1917087332697821208",
+        "created_at": "2025-04-29T05:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917087332697821208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fp1JK7AT9A",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1917087332697821208/photo/1",
+              "media_key": "3_1917087324896432128",
+              "start": 0,
+              "url": "https://t.co/Fp1JK7AT9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917087332697821208",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 40578,
+          "like_count": 385,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fp1JK7AT9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 334
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/小号@hgds520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "hgds520"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1916876717773476054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73176,
+          "following_count": 2902,
+          "like_count": 42484,
+          "listed_count": 94,
+          "media_count": 2026,
+          "tweet_count": 6299
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

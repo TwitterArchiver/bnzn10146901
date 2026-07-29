@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2050989959642075320",
+    "created_at": "2026-05-03T17:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T18:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050989959642075320"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050989959642075320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直很好奇，之前刷到过的吃夏威夷果整颗吞，然后会拉空壳出来是真的吗，有没有人试过（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2050989959642075320",
+        "created_at": "2026-05-03T17:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050989959642075320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050989959642075320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直很好奇，之前刷到过的吃夏威夷果整颗吞，然后会拉空壳出来是真的吗，有没有人试过（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 624,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1204
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

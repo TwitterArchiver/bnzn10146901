@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919701942680350960",
+    "created_at": "2025-05-06T10:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T11:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919701944643244415"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919701944643244415",
+    "in_reply_to_user_id": "1589135845834993665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919701942680350960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顾不得燥热教室被我的臭屁蒸烘的惨状，乱七八糟的跑出了教室，我跑得很快，顾不得每跑一步都会放一个屁和操场上的同学看向我的眼光，我就像一个蒸汽机车一般边不顾一切的奔跑边释放着热气，但我的眼里只有战场。离厕所只剩5米时，在一种诡异的满足感和兴奋感还有强烈的宽慰感和快感的驱使下，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919701942680350960",
+        "created_at": "2025-05-06T10:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919701944643244415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919701944643244415",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919701942680350960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顾不得燥热教室被我的臭屁蒸烘的惨状，乱七八糟的跑出了教室，我跑得很快，顾不得每跑一步都会放一个屁和操场上的同学看向我的眼光，我就像一个蒸汽机车一般边不顾一切的奔跑边释放着热气，但我的眼里只有战场。离厕所只剩5米时，在一种诡异的满足感和兴奋感还有强烈的宽慰感和快感的驱使下，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919701942680350960",
+        "created_at": "2025-05-06T10:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919701942680350960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919701942680350960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们拉过裤兜吗，那天我正上着课，突然感觉腹部传来一阵翻腔倒海的剧痛，它的叫声在整个教室里哀转久绝，十分洪亮。老师停止了讲课所有人都在看着我。就在这时，我突然感觉一股强烈的冲击力顺着肠道直达肛门，仿佛要在顷刻之间喷射而出，那种冲击力实在是太激烈了，我在所有人面前放了一个惊天大屁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 449
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

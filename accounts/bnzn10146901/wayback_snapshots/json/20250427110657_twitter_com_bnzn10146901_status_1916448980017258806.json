@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916268301967040942",
+    "created_at": "2025-04-27T11:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916448980017258806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894455749788798979",
+          "start": 0,
+          "username": "fengxuanan"
+        },
+        {
+          "end": 19,
+          "id": "1613079089879076864",
+          "start": 12,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916448980017258806",
+    "in_reply_to_user_id": "1894455749788798979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916448601078698045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fengxuanan @Cldeop 此事在爸爸的雷达中亦有记载"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916268301967040942",
+        "created_at": "2025-04-27T11:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916448980017258806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894455749788798979",
+              "start": 0,
+              "username": "fengxuanan"
+            },
+            {
+              "end": 19,
+              "id": "1613079089879076864",
+              "start": 12,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916448980017258806",
+        "in_reply_to_user_id": "1894455749788798979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916448601078698045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fengxuanan @Cldeop 此事在爸爸的雷达中亦有记载"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894455749788798979",
+        "conversation_id": "1916268301967040942",
+        "created_at": "2025-04-27T11:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916448601078698045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916448601078698045",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916430275631792550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 @Cldeop 😃你在看大头儿子吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 257
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:33:49.000Z",
+        "description": "这里是凤玄，一个喜欢看h的神金大学生，同时也很乐意倾听他人的开心与悲伤，幸事与不幸，如果你需要一个倾听者的话，随时可以来私信。会尽可能的安慰和庆祝，就这样",
+        "id": "1894455749788798979",
+        "location": "和你的心灵距离5cm处",
+        "name": "凤玄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900128599782670336/L83YkRs3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 75,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 148
+        },
+        "username": "fengxuanan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62888,
+          "following_count": 566,
+          "like_count": 28277,
+          "listed_count": 216,
+          "media_count": 9165,
+          "tweet_count": 13086
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

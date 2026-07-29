@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2042842569919680646",
+    "created_at": "2026-04-11T05:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042842569919680646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kagura_Yukikaz…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2042826140918911169",
+          "start": 46,
+          "url": "https://t.co/LZGbFMfj6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042842569919680646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042826140918911169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想当白幼瘦软萌小妹，我想身宽直缩五厘米，身高直降十厘米，厚度和骨骼什么的总之也看比例缩小 https://t.co/LZGbFMfj6K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2042842569919680646",
+        "created_at": "2026-04-11T05:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042842569919680646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagura_Yukikaz…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2042826140918911169",
+              "start": 46,
+              "url": "https://t.co/LZGbFMfj6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042842569919680646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042826140918911169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当白幼瘦软萌小妹，我想身宽直缩五厘米，身高直降十厘米，厚度和骨骼什么的总之也看比例缩小 https://t.co/LZGbFMfj6K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2042826140918911169",
+        "created_at": "2026-04-11T04:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042826140918911169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindreamya/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/raindreamya/status/2042821213827830024",
+              "start": 46,
+              "url": "https://t.co/zOTq4QLJIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042826140918911169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042821213827830024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当白幼瘦软萌小妹，我想身宽直缩五厘米，身高直降十厘米，厚度和骨骼什么的总之也看比例缩小 https://t.co/zOTq4QLJIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 280,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 737
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/MVCsywa4YV"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 2790,
+          "like_count": 100452,
+          "listed_count": 4,
+          "media_count": 752,
+          "tweet_count": 12130
+        },
+        "url": "https://t.co/MVCsywa4YV",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

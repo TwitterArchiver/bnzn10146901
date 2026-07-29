@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1922311096343445929",
+    "created_at": "2025-05-14T00:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T01:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922450691047514138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731900703919230976",
+          "start": 0,
+          "username": "shinoaAwA"
+        },
+        {
+          "end": 27,
+          "id": "1652582280974708736",
+          "start": 11,
+          "username": "yingxue20747802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922450691047514138",
+    "in_reply_to_user_id": "1731900703919230976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922332024427143553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinoaAwA @yingxue20747802 一休尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1922311096343445929",
+        "created_at": "2025-05-14T00:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922450691047514138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731900703919230976",
+              "start": 0,
+              "username": "shinoaAwA"
+            },
+            {
+              "end": 27,
+              "id": "1652582280974708736",
+              "start": 11,
+              "username": "yingxue20747802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922450691047514138",
+        "in_reply_to_user_id": "1731900703919230976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922332024427143553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinoaAwA @yingxue20747802 一休尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731900703919230976",
+        "conversation_id": "1922311096343445929",
+        "created_at": "2025-05-13T16:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T17:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922332024427143553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652582280974708736",
+              "start": 0,
+              "username": "yingxue20747802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922332024427143553",
+        "in_reply_to_user_id": "1652582280974708736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1144,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922311096343445929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingxue20747802 求求你了，我什么都可以做的\n你这家伙，满脑子都是自己呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 216,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 563
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T04:58:33.000Z",
+        "description": "@所有人 请fo我₍˄·͈༝·͈˄*₎◞ ̑̑|\n@所有人 請fo我|\n@everyone plz follow me|\n@みんなフォロミ|\n碎碎念清水|双流一学校本科在读|性向保密|我喜欢你|友跨|jpop/ボカロはいいのに|计算机科学与技术",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "everyone"
+              }
+            ]
+          }
+        },
+        "id": "1731900703919230976",
+        "location": "地球🌏",
+        "name": "shinoaAwA",
+        "pinned_tweet_id": "1843339927888769299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824989288523841536/X2YE8f6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 2929,
+          "like_count": 8837,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1592
+        },
+        "username": "shinoaAwA",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:55:02.000Z",
+        "description": "对我不友善的替我挡灾！\n\n这里是简介，我可以打广告吗？（广告位招租）←假嘟~就算你给我钱也不会打广告喔（除非你给的太多啦！）\n\n文学少女📖 │ les-ppl │ 退役魔法少女🪄（尊嘟）│ 美食生活岁静日常推 │ 聪明的笨蛋 │ 愿我，也愿你能一而再，再而三，三而不竭，千次万次毫不犹豫地救自己于这世间水火之中",
+        "id": "1652582280974708736",
+        "location": "霍格沃茨",
+        "name": "樱雪（退役魔法少女） 🍜🍔🍱🍇🍰🍒🍓🍟🍧",
+        "pinned_tweet_id": "1913808008158781543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846140890232102912/ExumaWMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34749,
+          "following_count": 81,
+          "like_count": 73223,
+          "listed_count": 39,
+          "media_count": 2826,
+          "tweet_count": 12020
+        },
+        "username": "yingxue20747802",
+        "verified": false
+      }
+    ]
+  }
+}

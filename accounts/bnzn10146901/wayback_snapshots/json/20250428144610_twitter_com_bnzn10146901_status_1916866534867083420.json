@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916768201691611580",
+    "created_at": "2025-04-28T14:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T15:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916866534867083420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688223582277541888",
+          "start": 0,
+          "username": "_SAGAWAASHSAHI_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916866534867083420",
+    "in_reply_to_user_id": "1688223582277541888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916768201691611580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SAGAWAASHSAHI_ 道理我都懂，但是躁福是什么意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916768193437446144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpm6hDabMAAuTnG.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916768201691611580",
+        "created_at": "2025-04-28T14:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916866534867083420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688223582277541888",
+              "start": 0,
+              "username": "_SAGAWAASHSAHI_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916866534867083420",
+        "in_reply_to_user_id": "1688223582277541888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916768201691611580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SAGAWAASHSAHI_ 道理我都懂，但是躁福是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916768193437446144"
+          ]
+        },
+        "author_id": "1688223582277541888",
+        "conversation_id": "1916768201691611580",
+        "created_at": "2025-04-28T08:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916768201691611580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrjDiUKtGm",
+              "end": 28,
+              "expanded_url": "https://x.com/_SAGAWAASHSAHI_/status/1916768201691611580/photo/1",
+              "media_key": "3_1916768193437446144",
+              "start": 5,
+              "url": "https://t.co/rrjDiUKtGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916768201691611580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9893,
+          "like_count": 190,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我真买了 https://t.co/rrjDiUKtGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 292
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T16:20:51.000Z",
+        "description": "尖銳地批判，無情地戲謔，醜陋地發情。嬉笑怒罵，或有真物存焉？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/_SAGAWAASHSAHI…",
+                "end": 23,
+                "expanded_url": "https://x.com/_SAGAWAASHSAHI_/status/1866402583914647887?t=ryVJvctxQ9HgQn7jkKLh9Q&s=19",
+                "start": 0,
+                "url": "https://t.co/tXrqdCwaXB"
+              }
+            ]
+          }
+        },
+        "id": "1688223582277541888",
+        "location": "群山 礦業聯盟第一空域 倫敦市 伍佰壹拾貳號",
+        "name": "浅绯 紗和",
+        "pinned_tweet_id": "1913799728292413486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907705055073173504/SUhZOiYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 463,
+          "like_count": 23904,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 7094
+        },
+        "url": "https://t.co/tXrqdCwaXB",
+        "username": "_SAGAWAASHSAHI_",
+        "verified": false
+      }
+    ]
+  }
+}

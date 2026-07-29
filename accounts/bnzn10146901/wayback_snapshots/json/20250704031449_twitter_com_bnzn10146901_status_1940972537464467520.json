@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1940417808514666990",
+    "created_at": "2025-07-04T03:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T04:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940972537464467520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940972537464467520",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940417808514666990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 你这个机子二号键好像有点问题，找机修来看看吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1940417565773144064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2_fsvWIAAbRYj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1940417808514666990",
+        "created_at": "2025-07-04T03:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T04:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940972537464467520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940972537464467520",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940417808514666990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 你这个机子二号键好像有点问题，找机修来看看吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940417565773144064"
+          ]
+        },
+        "author_id": "1596473224711151618",
+        "conversation_id": "1940417808514666990",
+        "created_at": "2025-07-02T14:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940417808514666990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5Iq6x4IHD",
+              "end": 39,
+              "expanded_url": "https://x.com/a823149315/status/1940417808514666990/photo/1",
+              "media_key": "3_1940417565773144064",
+              "start": 16,
+              "url": "https://t.co/j5Iq6x4IHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940417808514666990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 88545,
+          "like_count": 645,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "人生中第一次在蒙古包的炕上艾草 https://t.co/j5Iq6x4IHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 219,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 645
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（跨性别危机干预主题小说《社会垃圾收容所历险记》pixiv已完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1901570044670132564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900070459242094592/LQCckHRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36068,
+          "following_count": 167,
+          "like_count": 2599,
+          "listed_count": 100,
+          "media_count": 1666,
+          "tweet_count": 9503
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

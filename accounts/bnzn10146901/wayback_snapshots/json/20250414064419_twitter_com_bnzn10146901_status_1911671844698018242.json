@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911538752033636819",
+    "created_at": "2025-04-14T06:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T07:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911671844698018242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911671844698018242",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911538752033636819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 排狗后面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_1911538744928198656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GocmXFnXYAAsory.jpg",
+        "width": 1227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911538752033636819",
+        "created_at": "2025-04-14T06:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911671844698018242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911671844698018242",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911538752033636819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 排狗后面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911538744928198656"
+          ]
+        },
+        "author_id": "1000763746430500865",
+        "conversation_id": "1911538752033636819",
+        "created_at": "2025-04-13T21:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T22:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911538752033636819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzaGyckJGe",
+              "end": 31,
+              "expanded_url": "https://x.com/manoj901858808/status/1911538752033636819/photo/1",
+              "media_key": "3_1911538744928198656",
+              "start": 8,
+              "url": "https://t.co/vzaGyckJGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911538752033636819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13073,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么意思这是？ https://t.co/vzaGyckJGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 214,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "只回复门槛私信",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1895352661081497922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911538042973585408/85UT0izU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41281,
+          "following_count": 369,
+          "like_count": 2127,
+          "listed_count": 76,
+          "media_count": 174,
+          "tweet_count": 1067
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

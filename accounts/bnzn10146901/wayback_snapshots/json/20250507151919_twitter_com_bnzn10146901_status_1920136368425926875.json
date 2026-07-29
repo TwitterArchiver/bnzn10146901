@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920136327753846784",
+        "3_1920136344581378048"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "1920120516234379655",
+    "created_at": "2025-05-07T15:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T16:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920136368425926875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896882171761270784",
+          "start": 0,
+          "username": "oiwansj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7aXiSZQ6H",
+          "end": 40,
+          "expanded_url": "https://x.com/bnzn10146901/status/1920136368425926875/photo/1",
+          "media_key": "3_1920136327753846784",
+          "start": 17,
+          "url": "https://t.co/o7aXiSZQ6H"
+        },
+        {
+          "display_url": "pic.x.com/o7aXiSZQ6H",
+          "end": 40,
+          "expanded_url": "https://x.com/bnzn10146901/status/1920136368425926875/photo/1",
+          "media_key": "3_1920136344581378048",
+          "start": 17,
+          "url": "https://t.co/o7aXiSZQ6H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920136368425926875",
+    "in_reply_to_user_id": "1896882171761270784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920120516234379655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oiwansj 也是光速毕业了 https://t.co/o7aXiSZQ6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1920136327753846784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWx0RgXUAATHSx.png",
+        "width": 584
+      },
+      {
+        "height": 239,
+        "media_key": "3_1920136344581378048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWx1QMXEAArG--.png",
+        "width": 578
+      },
+      {
+        "height": 975,
+        "media_key": "3_1920120513453760512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWjbwpaIAANgPb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920136327753846784",
+            "3_1920136344581378048"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "1920120516234379655",
+        "created_at": "2025-05-07T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920136368425926875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896882171761270784",
+              "start": 0,
+              "username": "oiwansj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7aXiSZQ6H",
+              "end": 40,
+              "expanded_url": "https://x.com/bnzn10146901/status/1920136368425926875/photo/1",
+              "media_key": "3_1920136327753846784",
+              "start": 17,
+              "url": "https://t.co/o7aXiSZQ6H"
+            },
+            {
+              "display_url": "pic.x.com/o7aXiSZQ6H",
+              "end": 40,
+              "expanded_url": "https://x.com/bnzn10146901/status/1920136368425926875/photo/1",
+              "media_key": "3_1920136344581378048",
+              "start": 17,
+              "url": "https://t.co/o7aXiSZQ6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920136368425926875",
+        "in_reply_to_user_id": "1896882171761270784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920120516234379655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oiwansj 也是光速毕业了 https://t.co/o7aXiSZQ6H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920120513453760512"
+          ]
+        },
+        "author_id": "1896882171761270784",
+        "conversation_id": "1920120516234379655",
+        "created_at": "2025-05-07T14:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920120516234379655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDxC8bCYjp",
+              "end": 41,
+              "expanded_url": "https://x.com/oiwansj/status/1920120516234379655/photo/1",
+              "media_key": "3_1920120513453760512",
+              "start": 18,
+              "url": "https://t.co/LDxC8bCYjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920120516234379655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "光速毕业。我就发了个哈哈哈哈哈哈。 https://t.co/LDxC8bCYjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 507
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T11:15:35.000Z",
+        "description": "istj｜08｜｜我要瘦20斤｜推广自辨｜小宝宝：@Yue_an968726 @mingsheng1917自用vpn安全高速9.9一年https://t.co/WqEgSXpIW8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Yue_an968726"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mingsheng1917"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xyz2.281968.xyz/#/register?cod…",
+                "end": 90,
+                "expanded_url": "https://xyz2.281968.xyz/#/register?code=VuWS0ql9",
+                "start": 67,
+                "url": "https://t.co/WqEgSXpIW8"
+              }
+            ]
+          }
+        },
+        "id": "1896882171761270784",
+        "location": "🚪99纯绿",
+        "name": "我是蛋挞熊",
+        "pinned_tweet_id": "1920094638112686266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896894462980169729/s1c85ArG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3192,
+          "following_count": 378,
+          "like_count": 14360,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 4896
+        },
+        "username": "oiwansj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2042297793029816438",
+    "created_at": "2026-04-10T06:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042489095134515213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1468141721900896259",
+          "start": 0,
+          "username": "o3olyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042489095134515213",
+    "in_reply_to_user_id": "1468141721900896259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042297793029816438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3olyy 因为左眼用来忘记你，所以睁不开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2042297793029816438",
+        "created_at": "2026-04-10T06:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042489095134515213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1468141721900896259",
+              "start": 0,
+              "username": "o3olyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042489095134515213",
+        "in_reply_to_user_id": "1468141721900896259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042297793029816438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3olyy 因为左眼用来忘记你，所以睁不开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468141721900896259",
+        "conversation_id": "2042297793029816438",
+        "created_at": "2026-04-09T17:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042297793029816438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042297793029816438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1159,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我od的时候一直睁不开左眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 219,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 704
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T08:54:12.000Z",
+        "description": "=真理｜18 ↑｜od 自伤🩹餐券女｜双向｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink\n同类宝宝互fo私一下我♡\n我穷疯了我很惨 求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/Xp1scCAHXW"
+              }
+            ]
+          }
+        },
+        "id": "1468141721900896259",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理",
+        "pinned_tweet_id": "2038328082357223865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028928773631188992/y2_EJ7g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 171,
+          "like_count": 575,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/Xp1scCAHXW",
+        "username": "o3olyy",
+        "verified": false
+      }
+    ]
+  }
+}

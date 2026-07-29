@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2040840038985166965",
+    "created_at": "2026-04-05T17:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040841973234610308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1616622923967787010",
+          "start": 0,
+          "username": "Alice_in_Cradle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040841973234610308",
+    "in_reply_to_user_id": "1616622923967787010",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040840038985166965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice_in_Cradle 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2040840038985166965",
+        "created_at": "2026-04-05T17:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040841973234610308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1616622923967787010",
+              "start": 0,
+              "username": "Alice_in_Cradle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040841973234610308",
+        "in_reply_to_user_id": "1616622923967787010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040840038985166965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice_in_Cradle 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616622923967787010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756520261779456",
+              "name": "J2 League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2040840038985166965",
+        "created_at": "2026-04-05T17:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040840038985166965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "aliceincradle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040840038985166965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#aliceincradle \nver0.29j2を更新しました。\n魔族が巨大化属性を持った場合での当たり判定や演出、バランスの調整を行いました。\nまた、高いリフレッシュレートのモニタ下でVSyncモードで起動した場合におけるUI表示の問題も修正されています……たぶん。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 214,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 672
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T02:25:27.000Z",
+        "description": "\"Alice in Cradle\" Metroidvania Game for adults developed by (c)NanameHacha. \nSWITCH版をリリースするまで終わらない\n\nCreator: @hinayua_r18 & @hashinomizuha\nWriter: @T_Miyabi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "hinayua_r18"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "hashinomizuha"
+              },
+              {
+                "end": 156,
+                "start": 147,
+                "username": "T_Miyabi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aliceincradle.com",
+                "end": 23,
+                "expanded_url": "https://aliceincradle.com",
+                "start": 0,
+                "url": "https://t.co/pk5G5NZLiS"
+              }
+            ]
+          }
+        },
+        "id": "1616622923967787010",
+        "location": "- Kawaisou is Kawaii - ",
+        "name": "Alice in Cradle🎮",
+        "pinned_tweet_id": "2021178006874845580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616624475088490498/RZcpYepF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24449,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 53,
+          "media_count": 48,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/pk5G5NZLiS",
+        "username": "Alice_in_Cradle",
+        "verified": false
+      }
+    ]
+  }
+}

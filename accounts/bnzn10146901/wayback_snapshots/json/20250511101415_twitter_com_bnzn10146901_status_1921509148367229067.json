@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1921452948934041880",
+    "created_at": "2025-05-11T10:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T11:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921509148367229067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921509148367229067",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921452948934041880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 三分钟之内我要看到马桶圈版本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_1921452939664564224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpfRLFWIAA_G8S.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1921452948934041880",
+        "created_at": "2025-05-11T10:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921509148367229067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921509148367229067",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921452948934041880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 三分钟之内我要看到马桶圈版本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921452939664564224"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1921452948934041880",
+        "created_at": "2025-05-11T06:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T07:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921452948934041880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJkyDb6w5p",
+              "end": 23,
+              "expanded_url": "https://x.com/ryq59/status/1921452948934041880/photo/1",
+              "media_key": "3_1921452939664564224",
+              "start": 0,
+              "url": "https://t.co/kJkyDb6w5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921452948934041880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5432,
+          "like_count": 151,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kJkyDb6w5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 522
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "MTX 🏳️‍⚧️ / Honor of King tutor / former pubgm tutor / 由 @aoi_mti 共同管理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "aoi_mti"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17403,
+          "following_count": 4952,
+          "like_count": 181096,
+          "listed_count": 70,
+          "media_count": 5291,
+          "tweet_count": 23353
+        },
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

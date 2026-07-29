@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2053166820660809738",
+    "created_at": "2026-05-10T05:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053352652738834640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 26,
+          "id": "1180051867",
+          "start": 16,
+          "username": "ssvs73608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053352652738834640",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053330648769949804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @ssvs73608 環壮線是我的妈妈（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2053166820660809738",
+        "created_at": "2026-05-10T05:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053352652738834640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 26,
+              "id": "1180051867",
+              "start": 16,
+              "username": "ssvs73608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053352652738834640",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053330648769949804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @ssvs73608 環壮線是我的妈妈（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2053166820660809738",
+        "created_at": "2026-05-10T04:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053330648769949804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180051867",
+              "start": 0,
+              "username": "ssvs73608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053330648769949804",
+        "in_reply_to_user_id": "1180051867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053166820660809738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssvs73608 不，二階堂ヒロ是環状線的妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 625,
+          "like_count": 285,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1246
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2876,
+          "following_count": 811,
+          "like_count": 19019,
+          "listed_count": 8,
+          "media_count": 1010,
+          "tweet_count": 5589
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-14T19:02:03.000Z",
+        "description": "コメントやメッセージご自由に\n《スタァライト》神楽ひかり推し\n《まのさば》ヒロ推し\nall推し派\n\n🔞垢 @yue_ero18\nFanbox：https://t.co/bj0FFs3Yec\nFantia：https://t.co/p442WZ45uV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "yue_ero18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yuetan.fanbox.cc",
+                "end": 94,
+                "expanded_url": "https://yuetan.fanbox.cc/",
+                "start": 71,
+                "url": "https://t.co/bj0FFs3Yec"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/503270",
+                "end": 125,
+                "expanded_url": "https://fantia.jp/fanclubs/503270",
+                "start": 102,
+                "url": "https://t.co/p442WZ45uV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/ssvs73608",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/ssvs73608",
+                "start": 0,
+                "url": "https://t.co/MqUh4wDYfH"
+              }
+            ]
+          }
+        },
+        "id": "1180051867",
+        "location": "台灣",
+        "name": "玥炭(ゆえたん)✨と他999人",
+        "pinned_tweet_id": "1389109476293189634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231449212757262336/4h-CYPYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6288,
+          "following_count": 1798,
+          "like_count": 9466,
+          "listed_count": 52,
+          "media_count": 2904,
+          "tweet_count": 16928
+        },
+        "url": "https://t.co/MqUh4wDYfH",
+        "username": "ssvs73608",
+        "verified": false
+      }
+    ]
+  }
+}

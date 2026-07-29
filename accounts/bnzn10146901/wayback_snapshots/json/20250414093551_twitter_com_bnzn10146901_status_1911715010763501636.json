@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911361596057882756",
+    "created_at": "2025-04-14T09:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T10:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911715010763501636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679525767913541632",
+          "start": 0,
+          "username": "shanshan16714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911715010763501636",
+    "in_reply_to_user_id": "1679525767913541632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911361596057882756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanshan16714 人，我要转起来了，oiiai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911361583793459200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoaFO89WUAADtZN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911361596057882756",
+        "created_at": "2025-04-14T09:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911715010763501636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679525767913541632",
+              "start": 0,
+              "username": "shanshan16714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911715010763501636",
+        "in_reply_to_user_id": "1679525767913541632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911361596057882756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanshan16714 人，我要转起来了，oiiai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911361583793459200"
+          ]
+        },
+        "author_id": "1679525767913541632",
+        "conversation_id": "1911361596057882756",
+        "created_at": "2025-04-13T10:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T11:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911361596057882756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6v9vWSE5I",
+              "end": 35,
+              "expanded_url": "https://x.com/shanshan16714/status/1911361596057882756/photo/1",
+              "media_key": "3_1911361583793459200",
+              "start": 12,
+              "url": "https://t.co/b6v9vWSE5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911361596057882756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3229,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊，接受洗衣机的洗礼吧 https://t.co/b6v9vWSE5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 220,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 120
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T16:18:52.000Z",
+        "description": "要被夸才能做得更好🥯。 链接可以问我～～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/94755ff563",
+                "end": 23,
+                "expanded_url": "https://pome.vip/94755ff563",
+                "start": 0,
+                "url": "https://t.co/rX4qwyJlLc"
+              }
+            ]
+          }
+        },
+        "id": "1679525767913541632",
+        "name": "33nini",
+        "pinned_tweet_id": "1906046207925055600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905851796867911680/CZNMCBgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 40,
+          "like_count": 1956,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/rX4qwyJlLc",
+        "username": "shanshan16714",
+        "verified": false
+      }
+    ]
+  }
+}

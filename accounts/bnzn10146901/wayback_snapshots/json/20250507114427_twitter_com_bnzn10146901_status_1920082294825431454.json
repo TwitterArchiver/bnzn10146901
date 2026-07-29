@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919981528026907043",
+    "created_at": "2025-05-07T11:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T12:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920082294825431454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1452291723825143821",
+          "start": 0,
+          "username": "baidengcnm"
+        },
+        {
+          "end": 22,
+          "id": "1863439189909618688",
+          "start": 12,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920082294825431454",
+    "in_reply_to_user_id": "1452291723825143821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920008682638602593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baidengcnm @hsn8086xe 以前那个时候都一样重男轻女，毕竟以前也没那么贵彩礼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919981528026907043",
+        "created_at": "2025-05-07T11:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T12:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920082294825431454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452291723825143821",
+              "start": 0,
+              "username": "baidengcnm"
+            },
+            {
+              "end": 22,
+              "id": "1863439189909618688",
+              "start": 12,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920082294825431454",
+        "in_reply_to_user_id": "1452291723825143821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920008682638602593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baidengcnm @hsn8086xe 以前那个时候都一样重男轻女，毕竟以前也没那么贵彩礼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452291723825143821",
+        "conversation_id": "1919981528026907043",
+        "created_at": "2025-05-07T06:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920008682638602593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920008682638602593",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919981528026907043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 投到江西老表家不就发财了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 466
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T15:11:53.000Z",
+        "description": "",
+        "id": "1452291723825143821",
+        "name": "x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492152732496523271/xZE-DLCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 151
+        },
+        "username": "baidengcnm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1908572439300497669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6710,
+          "following_count": 1,
+          "like_count": 35,
+          "listed_count": 20,
+          "media_count": 1209,
+          "tweet_count": 1232
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      }
+    ]
+  }
+}

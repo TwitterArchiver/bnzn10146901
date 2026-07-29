@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2046224746963161321",
+    "created_at": "2026-04-20T19:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T20:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046311093870702828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871870968744042497",
+          "start": 0,
+          "username": "MagicDrops_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046311093870702828",
+    "in_reply_to_user_id": "1871870968744042497",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046224746963161321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicDrops_Nya ，！，。，，？。，，。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2046224746963161321",
+        "created_at": "2026-04-20T19:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T20:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046311093870702828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871870968744042497",
+              "start": 0,
+              "username": "MagicDrops_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046311093870702828",
+        "in_reply_to_user_id": "1871870968744042497",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046224746963161321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicDrops_Nya ，！，。，，？。，，。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871870968744042497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046224746963161321",
+        "created_at": "2026-04-20T13:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046224746963161321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2046180597434032188",
+              "start": 49,
+              "url": "https://t.co/N44OwzEQNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046224746963161321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046180597434032188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上最该禁的金刚烷胺，美金刚，其他更脏的药还是没禁……上层在乎的看来只是维稳，而不是滥用者健康 https://t.co/N44OwzEQNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 597,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1018
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T10:50:15.000Z",
+        "description": "👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️",
+        "id": "1871870968744042497",
+        "name": "🏳️‍⚧️怪味糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044749720531484672/CuXdcLfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 60,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 88
+        },
+        "username": "MagicDrops_Nya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911361596057882756",
+    "created_at": "2025-04-14T09:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T10:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911715706078454145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679525767913541632",
+          "start": 0,
+          "username": "shanshan16714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911715706078454145",
+    "in_reply_to_user_id": "1679525767913541632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911715416470405292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanshan16714 哈哈哈哈，想起我家fufu在洗衣机里也是这样转的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9040,
+        "height": 960,
+        "media_key": "13_1911715352637042688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1911715352637042688/img/uIAwSgIFooQ9LQ45.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911715352637042688/vid/avc1/320x426/HuWBZTafmxdJiyk9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911715352637042688/vid/avc1/480x640/q44ofDWL6cNvg1Vn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1911715352637042688/vid/avc1/720x960/RAf8xcHRLC6Ufhn5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1911715352637042688/pl/P8fzDQx6aC_LpZcg.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911361596057882756",
+        "created_at": "2025-04-14T09:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911715706078454145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679525767913541632",
+              "start": 0,
+              "username": "shanshan16714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911715706078454145",
+        "in_reply_to_user_id": "1679525767913541632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911715416470405292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanshan16714 哈哈哈哈，想起我家fufu在洗衣机里也是这样转的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1911715352637042688"
+          ]
+        },
+        "author_id": "1679525767913541632",
+        "conversation_id": "1911361596057882756",
+        "created_at": "2025-04-14T09:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911715416470405292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSsD4jOfqy",
+              "end": 37,
+              "expanded_url": "https://x.com/shanshan16714/status/1911715416470405292/video/1",
+              "media_key": "13_1911715352637042688",
+              "start": 14,
+              "url": "https://t.co/uSsD4jOfqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911715416470405292",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911715010763501636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 https://t.co/uSsD4jOfqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 220,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 123
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T16:18:52.000Z",
+        "description": "要被夸才能做得更好🥯。 链接可以问我～～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/94755ff563",
+                "end": 23,
+                "expanded_url": "https://pome.vip/94755ff563",
+                "start": 0,
+                "url": "https://t.co/rX4qwyJlLc"
+              }
+            ]
+          }
+        },
+        "id": "1679525767913541632",
+        "name": "33nini",
+        "pinned_tweet_id": "1906046207925055600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905851796867911680/CZNMCBgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 40,
+          "like_count": 1958,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/rX4qwyJlLc",
+        "username": "shanshan16714",
+        "verified": false
+      }
+    ]
+  }
+}

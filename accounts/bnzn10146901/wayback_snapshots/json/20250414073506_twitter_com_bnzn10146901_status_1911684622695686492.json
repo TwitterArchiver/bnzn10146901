@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911036654724530503",
+    "created_at": "2025-04-14T07:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T08:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911684622695686492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769055828772786176",
+          "start": 0,
+          "username": "nabi_1120_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911684622695686492",
+    "in_reply_to_user_id": "1769055828772786176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911036654724530503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nabi_1120_ 大师我悟了，奶酪越多，奶酪洞越多，奶酪洞越多，奶酪越少，所以奶酪越多奶酪越少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911036654724530503",
+        "created_at": "2025-04-14T07:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T08:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911684622695686492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769055828772786176",
+              "start": 0,
+              "username": "nabi_1120_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911684622695686492",
+        "in_reply_to_user_id": "1769055828772786176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911036654724530503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nabi_1120_ 大师我悟了，奶酪越多，奶酪洞越多，奶酪洞越多，奶酪越少，所以奶酪越多奶酪越少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769055828772786176",
+        "conversation_id": "1911036654724530503",
+        "created_at": "2025-04-12T12:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911036654724530503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911036654724530503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4173,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你记住、鱼越大，刺越大；刺越大，肉越少；肉越少，刺越小；刺越小，鱼越小，所以鱼越大，鱼越小。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 215,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T17:39:33.000Z",
+        "description": "别靠近！我有双重人格｜接有人看穿我的脆弱莫名其妙给我转钱｜匿名信箱📪 https://t.co/z535sk72w5 ｜⚠️推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nabi97408",
+                "end": 58,
+                "expanded_url": "https://ngl.link/nabi97408",
+                "start": 35,
+                "url": "https://t.co/z535sk72w5"
+              }
+            ]
+          }
+        },
+        "id": "1769055828772786176",
+        "location": "精神病一触即发",
+        "name": "村口薄情俏寡妇",
+        "pinned_tweet_id": "1898809791834923255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894089814170796032/NsZa9ZDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5944,
+          "following_count": 199,
+          "like_count": 13772,
+          "listed_count": 14,
+          "media_count": 191,
+          "tweet_count": 6600
+        },
+        "username": "nabi_1120_",
+        "verified": false
+      }
+    ]
+  }
+}

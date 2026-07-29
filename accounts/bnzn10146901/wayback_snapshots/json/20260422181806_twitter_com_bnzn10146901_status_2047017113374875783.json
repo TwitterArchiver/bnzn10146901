@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2046979491486962019",
+    "created_at": "2026-04-22T18:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047017113374875783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830803687939416065",
+          "start": 0,
+          "username": "CantaSerin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047017113374875783",
+    "in_reply_to_user_id": "1830803687939416065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046979491486962019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CantaSerin 给我说破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2046979491486962019",
+        "created_at": "2026-04-22T18:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047017113374875783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830803687939416065",
+              "start": 0,
+              "username": "CantaSerin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047017113374875783",
+        "in_reply_to_user_id": "1830803687939416065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046979491486962019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CantaSerin 给我说破防了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830803687939416065",
+        "conversation_id": "2046979491486962019",
+        "created_at": "2026-04-22T15:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046979491486962019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046979491486962019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你上一次同时牵爸爸妈妈的手是什么时候？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 600,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1037
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T03:03:30.000Z",
+        "description": "CantaSerin詁詫&Tapin小葵 轻微精神分裂 🏳️‍⚧️当时没状态 ｜JDM🔰｜赛车运动｜抽象派｜无证含糖｜吃糖被制裁了。。｜2010.8.5｜169cm47kg｜assolutoracing｜pjsk｜重度焦虑症｜中度抑郁｜fo所有人｜视奸所有人",
+        "id": "1830803687939416065",
+        "name": "CantaSerin^Tapin🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046650491539730432/m7XAJJ1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 426,
+          "like_count": 5665,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 646
+        },
+        "username": "CantaSerin",
+        "verified": false
+      }
+    ]
+  }
+}

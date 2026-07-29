@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1957746441637753019",
+    "created_at": "2025-08-21T09:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T10:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958467598103826844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540688104968712193",
+          "start": 0,
+          "username": "xiangchishaokao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958467598103826844",
+    "in_reply_to_user_id": "1540688104968712193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957746441637753019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangchishaokao 并非一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_1957746437011222528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytQAwpXMAA5ap4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1957746441637753019",
+        "created_at": "2025-08-21T09:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T10:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958467598103826844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540688104968712193",
+              "start": 0,
+              "username": "xiangchishaokao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958467598103826844",
+        "in_reply_to_user_id": "1540688104968712193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957746441637753019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangchishaokao 并非一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957746437011222528"
+          ]
+        },
+        "author_id": "1540688104968712193",
+        "conversation_id": "1957746441637753019",
+        "created_at": "2025-08-19T10:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957746441637753019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5VIsO1o1o",
+              "end": 33,
+              "expanded_url": "https://x.com/xiangchishaokao/status/1957746441637753019/photo/1",
+              "media_key": "3_1957746437011222528",
+              "start": 10,
+              "url": "https://t.co/r5VIsO1o1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957746441637753019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 724866,
+          "like_count": 4375,
+          "quote_count": 33,
+          "reply_count": 97,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，有一点偏科 https://t.co/r5VIsO1o1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 220,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 652
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T13:27:37.000Z",
+        "description": "合集⬇️ 接单看置顶/谢谢给事子投喂和留言 推广自辨  https://t.co/qcY8fGpkNS  🪜⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wushi.fanbox.cc",
+                "end": 51,
+                "expanded_url": "https://wushi.fanbox.cc/",
+                "start": 28,
+                "url": "https://t.co/qcY8fGpkNS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw02.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw02.damoplane1.com/#/register?code=9dgMy7Wu",
+                "start": 0,
+                "url": "https://t.co/OuMQyV4shz"
+              }
+            ]
+          }
+        },
+        "id": "1540688104968712193",
+        "location": "🚪88",
+        "name": "无事",
+        "pinned_tweet_id": "1958456623699226842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765768997138800640/kCb5VNZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67070,
+          "following_count": 92,
+          "like_count": 3947,
+          "listed_count": 145,
+          "media_count": 490,
+          "tweet_count": 3348
+        },
+        "url": "https://t.co/OuMQyV4shz",
+        "username": "xiangchishaokao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2042415915430752270",
+    "created_at": "2026-04-10T18:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042663962345714107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961430478701182976",
+          "start": 0,
+          "username": "limo_0829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042663962345714107",
+    "in_reply_to_user_id": "1961430478701182976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042415915430752270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limo_0829 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2042415915430752270",
+        "created_at": "2026-04-10T18:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042663962345714107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961430478701182976",
+              "start": 0,
+              "username": "limo_0829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042663962345714107",
+        "in_reply_to_user_id": "1961430478701182976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042415915430752270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limo_0829 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961430478701182976",
+        "conversation_id": "2042415915430752270",
+        "created_at": "2026-04-10T01:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042415915430752270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042415915430752270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1405,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们继续发你们的sbti测评吧，胖猫明天忌日两周年你们关心过？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 267,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 723
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo，qq扩列请私信丨晶哥不要给我推文加书签了我是良民啊",
+        "id": "1961430478701182976",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022228574091333632/ULOdG8Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 725,
+          "like_count": 6289,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 2978
+        },
+        "username": "limo_0829",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2046767439581680035",
+    "created_at": "2026-04-22T01:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046768690516152620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013100592202194945",
+          "start": 0,
+          "username": "Viki211027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046768690516152620",
+    "in_reply_to_user_id": "2013100592202194945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046767439581680035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viki211027 我超，盒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2046767439581680035",
+        "created_at": "2026-04-22T01:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046768690516152620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013100592202194945",
+              "start": 0,
+              "username": "Viki211027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046768690516152620",
+        "in_reply_to_user_id": "2013100592202194945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046767439581680035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viki211027 我超，盒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013100592202194945",
+        "conversation_id": "2046767439581680035",
+        "created_at": "2026-04-22T01:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046767439581680035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046767439581680035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【号主 Dr土豆尼】我要实名上网！\n地址：江西省上饶市信州区\n姓名：我：夏知予\n         我爸：夏志远\n         我妈：宋莉荣\n身份证号：我：361102201001252778\n                  我爸：361102198612308645\n                  我妈：411302198804069080"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 597,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1021
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "mtf/ENTP/10年1月/想雌爆/想和对象永远在一起/长相拟人/想srs/想进女厕所/想扎日雌/家长党/双向情感障碍/小证2026.1.16/老婆@xieerfan\n天上给我掉下个妹妹多好啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "🍥Dr土豆尼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023723831308021761/dqlJKqFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 18,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 111
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

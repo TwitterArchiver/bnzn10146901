@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1921628053907640358",
+    "created_at": "2025-05-12T06:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T07:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921811752192180602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677548166206590977",
+          "start": 0,
+          "username": "Sentence1376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921811752192180602",
+    "in_reply_to_user_id": "1677548166206590977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921628053907640358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sentence1376 叫妈妈有点困难，但是我可以叫saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_1921628048484405248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqr-h2RXEAAmeMZ.jpg",
+        "width": 1098
+      },
+      {
+        "height": 1447,
+        "media_key": "3_1921628049520439296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqr-h6IXsAAOLVb.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1921628053907640358",
+        "created_at": "2025-05-12T06:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T07:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921811752192180602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677548166206590977",
+              "start": 0,
+              "username": "Sentence1376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921811752192180602",
+        "in_reply_to_user_id": "1677548166206590977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921628053907640358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sentence1376 叫妈妈有点困难，但是我可以叫saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱saki酱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921628048484405248",
+            "3_1921628049520439296"
+          ]
+        },
+        "author_id": "1677548166206590977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1921628053907640358",
+        "created_at": "2025-05-11T18:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T19:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921628053907640358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "豐川祥子"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "男の娘"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TaeTZz2QO",
+              "end": 81,
+              "expanded_url": "https://x.com/Sentence1376/status/1921628053907640358/photo/1",
+              "media_key": "3_1921628048484405248",
+              "start": 58,
+              "url": "https://t.co/6TaeTZz2QO"
+            },
+            {
+              "display_url": "pic.x.com/6TaeTZz2QO",
+              "end": 81,
+              "expanded_url": "https://x.com/Sentence1376/status/1921628053907640358/photo/1",
+              "media_key": "3_1921628049520439296",
+              "start": 58,
+              "url": "https://t.co/6TaeTZz2QO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921628053907640358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然母亲节已经过去了，但我还是希望你能叫我声妈妈……#コスプレ\n#AveMujica #豐川祥子 #男の娘 #伪娘 https://t.co/6TaeTZz2QO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 543
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T05:22:17.000Z",
+        "description": "无证含糖｜活动范围南昌/九江｜男朋友@dia_doyo偶尔掉落R18｜防走丢@Sentence_12｜170/45kg\n互fo请私｜顺性别男性｜不约｜叫我句子/句就行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "dia_doyo"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Sentence_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sentence13761",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sentence13761",
+                "start": 0,
+                "url": "https://t.co/SkQTV70KhB"
+              }
+            ]
+          }
+        },
+        "id": "1677548166206590977",
+        "location": "距你500m",
+        "name": "色孽神选饿魔Sentence",
+        "pinned_tweet_id": "1921628053907640358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915734447141658624/y3IFD0f0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 38,
+          "like_count": 2564,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/SkQTV70KhB",
+        "username": "Sentence1376",
+        "verified": false
+      }
+    ]
+  }
+}

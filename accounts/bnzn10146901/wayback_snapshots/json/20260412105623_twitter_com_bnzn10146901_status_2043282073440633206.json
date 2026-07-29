@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2043266752239513950",
+    "created_at": "2026-04-12T10:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043282073440633206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990814524556128256",
+          "start": 0,
+          "username": "angle71766"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043282073440633206",
+    "in_reply_to_user_id": "1990814524556128256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043266752239513950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angle71766 叫他和外婆左去，傻逼😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_2043266735663702016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFskRTibYAADWYw.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2043266752239513950",
+        "created_at": "2026-04-12T10:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043282073440633206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043282073440633206",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043266752239513950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 叫他和外婆左去，傻逼😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043266735663702016"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "2043266752239513950",
+        "created_at": "2026-04-12T09:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043266752239513950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRzh3Ns8u5",
+              "end": 23,
+              "expanded_url": "https://x.com/angle71766/status/2043266752239513950/photo/1",
+              "media_key": "3_2043266735663702016",
+              "start": 0,
+              "url": "https://t.co/cRzh3Ns8u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043266752239513950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cRzh3Ns8u5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 342,
+          "like_count": 236,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 801
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 145,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 358
+        },
+        "username": "angle71766",
+        "verified": true
+      }
+    ]
+  }
+}

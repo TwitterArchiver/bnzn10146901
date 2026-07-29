@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1920093253908754533",
+    "created_at": "2025-05-07T14:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920130128803197275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848745091680374789",
+          "start": 0,
+          "username": "aminoacid114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920130128803197275",
+    "in_reply_to_user_id": "1848745091680374789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920093253908754533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aminoacid114514 太好了，是肖瑞希，我们有救了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920093139085537280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWKiXLbsAApcxg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1920093253908754533",
+        "created_at": "2025-05-07T14:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920130128803197275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848745091680374789",
+              "start": 0,
+              "username": "aminoacid114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920130128803197275",
+        "in_reply_to_user_id": "1848745091680374789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920093253908754533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aminoacid114514 太好了，是肖瑞希，我们有救了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920093139085537280"
+          ]
+        },
+        "author_id": "1848745091680374789",
+        "conversation_id": "1920093253908754533",
+        "created_at": "2025-05-07T12:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920093253908754533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sllczMXUbD",
+              "end": 47,
+              "expanded_url": "https://x.com/aminoacid114514/status/1920093253908754533/photo/1",
+              "media_key": "3_1920093139085537280",
+              "start": 24,
+              "url": "https://t.co/sllczMXUbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920093253908754533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1008,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还有不到一个月就期末了，停更一个月捏，补张图先 https://t.co/sllczMXUbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 500
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T15:16:16.000Z",
+        "description": "あはいはいはい",
+        "id": "1848745091680374789",
+        "location": "deer state",
+        "name": "アミノアクスド",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849052380106743809/yMNYBgGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 842,
+          "like_count": 7970,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 188
+        },
+        "username": "aminoacid114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919992248894378090",
+    "created_at": "2025-05-07T14:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920128465145074157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993808259503960064",
+          "start": 0,
+          "username": "nj6hWbchy4YSAvL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920128465145074157",
+    "in_reply_to_user_id": "993808259503960064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919992248894378090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nj6hWbchy4YSAvL 你去打宿傩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1919992240698740736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqUuxTZa0AAw0jR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919992248894378090",
+        "created_at": "2025-05-07T14:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920128465145074157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993808259503960064",
+              "start": 0,
+              "username": "nj6hWbchy4YSAvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920128465145074157",
+        "in_reply_to_user_id": "993808259503960064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919992248894378090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nj6hWbchy4YSAvL 你去打宿傩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919992240698740736"
+          ]
+        },
+        "author_id": "993808259503960064",
+        "conversation_id": "1919992248894378090",
+        "created_at": "2025-05-07T05:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T06:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919992248894378090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7SBg9lLNQ",
+              "end": 33,
+              "expanded_url": "https://x.com/nj6hWbchy4YSAvL/status/1919992248894378090/photo/1",
+              "media_key": "3_1919992240698740736",
+              "start": 10,
+              "url": "https://t.co/r7SBg9lLNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919992248894378090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 40116,
+          "like_count": 464,
+          "quote_count": 7,
+          "reply_count": 135,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "能跟大家一起练了吗 https://t.co/r7SBg9lLNQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 495
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T11:02:07.000Z",
+        "description": "lalalahul",
+        "id": "993808259503960064",
+        "name": "Mactavis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627019881521750016/uxVNqjWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 22,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 120
+        },
+        "username": "nj6hWbchy4YSAvL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2059485633748549911",
+    "created_at": "2026-05-27T13:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059627066329632779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620328547847110656",
+          "start": 0,
+          "username": "NPC888666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059627066329632779",
+    "in_reply_to_user_id": "1620328547847110656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059485633748549911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NPC888666 我只看到了一个绝望的女同"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1567,
+        "media_key": "3_2059485606498226176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTDP1tbUAAmZRJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2059485633748549911",
+        "created_at": "2026-05-27T13:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059627066329632779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620328547847110656",
+              "start": 0,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059627066329632779",
+        "in_reply_to_user_id": "1620328547847110656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059485633748549911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NPC888666 我只看到了一个绝望的女同"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059485606498226176"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2059485633748549911",
+        "created_at": "2026-05-27T04:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059485633748549911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lejl2ngv49",
+              "end": 28,
+              "expanded_url": "https://x.com/NPC888666/status/2059485633748549911/photo/1",
+              "media_key": "3_2059485606498226176",
+              "start": 5,
+              "url": "https://t.co/lejl2ngv49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059485633748549911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 292408,
+          "like_count": 2919,
+          "quote_count": 1,
+          "reply_count": 306,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "这不对劲 https://t.co/lejl2ngv49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 625,
+          "like_count": 287,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1303
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43796,
+          "following_count": 1323,
+          "like_count": 7240,
+          "listed_count": 248,
+          "media_count": 1193,
+          "tweet_count": 7666
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

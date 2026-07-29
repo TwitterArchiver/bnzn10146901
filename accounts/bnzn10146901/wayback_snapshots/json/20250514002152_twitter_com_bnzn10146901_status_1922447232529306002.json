@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1922114886508655030",
+    "created_at": "2025-05-14T00:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T01:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922447232529306002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922447232529306002",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922114886508655030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 我上推不是来看这些的😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_1922114876220006401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqy5S86WYAERV7M.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1922114886508655030",
+        "created_at": "2025-05-14T00:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922447232529306002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922447232529306002",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922114886508655030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 我上推不是来看这些的😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922114876220006401"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1922114886508655030",
+        "created_at": "2025-05-13T02:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922114886508655030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hRKI9TC71D",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1922114886508655030/photo/1",
+              "media_key": "3_1922114876220006401",
+              "start": 0,
+              "url": "https://t.co/hRKI9TC71D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922114886508655030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 104659,
+          "like_count": 1327,
+          "quote_count": 30,
+          "reply_count": 34,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hRKI9TC71D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 216,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 559
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "location": "广告自辩",
+        "name": "恋",
+        "pinned_tweet_id": "1922221143672455584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75698,
+          "following_count": 2922,
+          "like_count": 43239,
+          "listed_count": 96,
+          "media_count": 2167,
+          "tweet_count": 6450
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

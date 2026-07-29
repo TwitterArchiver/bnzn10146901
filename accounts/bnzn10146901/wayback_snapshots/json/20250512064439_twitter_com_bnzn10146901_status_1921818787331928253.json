@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1921734642207707145",
+    "created_at": "2025-05-12T06:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T07:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921818787331928253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "Chihaya_Anon_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921818787331928253",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921818442874671397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chihaya_Anon_01 不要再碰了，这玩意简直也赌博没什么区别🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1921734642207707145",
+        "created_at": "2025-05-12T06:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T07:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921818787331928253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "Chihaya_Anon_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921818787331928253",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921818442874671397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chihaya_Anon_01 不要再碰了，这玩意简直也赌博没什么区别🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822380396497313792",
+        "conversation_id": "1921734642207707145",
+        "created_at": "2025-05-12T06:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T07:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921818442874671397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921818442874671397",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921818093250040206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 闲鱼也没人买。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 216,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 550
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "是爱音喵~😘/菲基卑@Miwu0721/第二人格@YuanCCLove_dich/第三人格@Amemiya_Hasumi/老婆 @Rencai_Nina /「神さま」@Asaak1111 /揉鞭弃@Remained3562/正妻 @xiaoyu03141 /Ba. @wuruto /Dr. @Keuurys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "Miwu0721"
+              },
+              {
+                "end": 40,
+                "start": 24,
+                "username": "YuanCCLove_dich"
+              },
+              {
+                "end": 60,
+                "start": 45,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Rencai_Nina"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "Asaak1111"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "Remained3562"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "xiaoyu03141"
+              },
+              {
+                "end": 140,
+                "start": 133,
+                "username": "wuruto"
+              },
+              {
+                "end": 154,
+                "start": 146,
+                "username": "Keuurys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Chihaya_Anon_0…",
+                "end": 23,
+                "expanded_url": "https://x.com/Chihaya_Anon_01/status/1911412582675603468",
+                "start": 0,
+                "url": "https://t.co/0tp13Z5Ryz"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "介绍见链接",
+        "name": "迷人の爱音",
+        "pinned_tweet_id": "1915021381965955279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920740114969313280/ImncuTTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 805,
+          "like_count": 10285,
+          "listed_count": 2,
+          "media_count": 731,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/0tp13Z5Ryz",
+        "username": "Chihaya_Anon_01",
+        "verified": false
+      }
+    ]
+  }
+}

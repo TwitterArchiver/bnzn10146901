@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2049060097931014608",
+    "created_at": "2026-04-28T10:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049078614986289228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738907027362209792",
+          "start": 0,
+          "username": "ElysiumFengxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049078614986289228",
+    "in_reply_to_user_id": "1738907027362209792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049060097931014608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElysiumFengxuan 恭喜！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2049060089257222144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-5S3ebYAAmN7u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2049060097931014608",
+        "created_at": "2026-04-28T10:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049078614986289228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049078614986289228",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049060097931014608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 恭喜！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049060089257222144"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2049060097931014608",
+        "created_at": "2026-04-28T09:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049060097931014608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0lT8NnxhV",
+              "end": 43,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2049060097931014608/photo/1",
+              "media_key": "3_2049060089257222144",
+              "start": 20,
+              "url": "https://t.co/h0lT8NnxhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049060097931014608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 620,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子拿到大证了孩子₍ᐢ˶• ˔ กᐢ₎ https://t.co/h0lT8NnxhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 612,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1101
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 2330,
+          "like_count": 5302,
+          "listed_count": 9,
+          "media_count": 1135,
+          "tweet_count": 8985
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

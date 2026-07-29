@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2043595769375240429",
+    "created_at": "2026-04-14T05:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043929902605578330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459391643988082701",
+          "start": 0,
+          "username": "umi_hoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043929902605578330",
+    "in_reply_to_user_id": "1459391643988082701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043928106776572100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umi_hoxi 还有唐毓文的事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2043595769375240429",
+        "created_at": "2026-04-14T05:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043929902605578330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459391643988082701",
+              "start": 0,
+              "username": "umi_hoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043929902605578330",
+        "in_reply_to_user_id": "1459391643988082701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043928106776572100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umi_hoxi 还有唐毓文的事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459391643988082701",
+        "conversation_id": "2043595769375240429",
+        "created_at": "2026-04-14T05:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043928106776572100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043928106776572100",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043595769375240429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 著名反跨人士任成轩，tyw认证的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 431,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 889
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T05:25:12.000Z",
+        "description": "安人/不键政/壮苗文化彝族/神秘电波系伪娘/    165/55   mtx/ ENTJ /抽烟喝酒/双性恋/表面乐天派背地里是阴暗b泪失禁体质/大一汉语言在读。\nChinese / English\n，架空世界/科幻，东方，MC老玩家,      \n老婆：@D0ntTox1c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "D0ntTox1c"
+              }
+            ]
+          }
+        },
+        "id": "1459391643988082701",
+        "location": "索拉里斯星",
+        "name": "太阳海星🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041391389783797760/-OcpVjYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 410,
+          "like_count": 35858,
+          "listed_count": 1,
+          "media_count": 806,
+          "tweet_count": 7230
+        },
+        "username": "umi_hoxi",
+        "verified": false
+      }
+    ]
+  }
+}

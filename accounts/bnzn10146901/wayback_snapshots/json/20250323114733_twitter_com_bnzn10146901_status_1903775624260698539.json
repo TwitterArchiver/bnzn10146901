@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1903083918489948595",
+    "created_at": "2025-03-23T11:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T12:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903775624260698539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794772481670078464",
+          "start": 0,
+          "username": "ciweiloli"
+        },
+        {
+          "end": 27,
+          "id": "1842268081567272960",
+          "start": 11,
+          "username": "BrittanyBe89332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903775624260698539",
+    "in_reply_to_user_id": "1794772481670078464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903144271399592093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciweiloli @BrittanyBe89332 那确实很不一样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1903083918489948595",
+        "created_at": "2025-03-23T11:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T12:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903775624260698539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794772481670078464",
+              "start": 0,
+              "username": "ciweiloli"
+            },
+            {
+              "end": 27,
+              "id": "1842268081567272960",
+              "start": 11,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903775624260698539",
+        "in_reply_to_user_id": "1794772481670078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903144271399592093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciweiloli @BrittanyBe89332 那确实很不一样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794772481670078464",
+        "conversation_id": "1903083918489948595",
+        "created_at": "2025-03-21T17:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T18:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903144271399592093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842268081567272960",
+              "start": 0,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903144271399592093",
+        "in_reply_to_user_id": "1842268081567272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8804,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903083918489948595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyBe89332 好了，给我看看吧，我跟别的男人不一样，我是女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 210,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T16:48:11.000Z",
+        "description": "变态loli控来发牢骚 神经病而已别和我计较",
+        "id": "1794772481670078464",
+        "location": "距离你5.1km",
+        "name": "小刺猬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902541698611474433/12CH9tdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 83,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 90
+        },
+        "username": "ciweiloli",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "𓂂𓈒 𓆜𓆞𓆝𓆟𓆡𓆝𓆟 𓆞𓆝𓆟",
+        "id": "1842268081567272960",
+        "location": "🚪520/1314",
+        "name": "你好，请，谢谢，再见。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894055180619902976/ZOEYvJFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18581,
+          "following_count": 158,
+          "like_count": 373,
+          "listed_count": 27,
+          "media_count": 80,
+          "tweet_count": 449
+        },
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

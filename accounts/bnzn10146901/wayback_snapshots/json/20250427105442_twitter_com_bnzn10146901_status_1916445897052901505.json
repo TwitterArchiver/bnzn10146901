@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916381112252723253",
+    "created_at": "2025-04-27T10:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T11:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916445897052901505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1407092399621484544",
+          "start": 0,
+          "username": "Kirajyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916445897052901505",
+    "in_reply_to_user_id": "1407092399621484544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916381112252723253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirajyz 如何一句话让人为我不停滑动手指"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916381112252723253",
+        "created_at": "2025-04-27T10:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916445897052901505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1407092399621484544",
+              "start": 0,
+              "username": "Kirajyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916445897052901505",
+        "in_reply_to_user_id": "1407092399621484544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916381112252723253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirajyz 如何一句话让人为我不停滑动手指"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407092399621484544",
+        "conversation_id": "1916381112252723253",
+        "created_at": "2025-04-27T06:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T07:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916381112252723253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916381112252723253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1092,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实主播以前发过逼照，有耐心的可以翻一下。很粉哦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 251
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T21:45:59.000Z",
+        "description": "（sopukarry）可以叫我索普/双/♀/🚪66/99不退纯绿仅聊天（详情请私信/互关可以直接加v/看谁不顺眼就拉黑/私信请有礼貌/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirajyz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirajyz",
+                "start": 0,
+                "url": "https://t.co/PIWGdXQMEr"
+              }
+            ]
+          }
+        },
+        "id": "1407092399621484544",
+        "location": "匿名提问→",
+        "name": "𝕤𝕠𝕡𝕦",
+        "pinned_tweet_id": "1912108576430047241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913245480672280576/zrYcpXai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 289,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/PIWGdXQMEr",
+        "username": "Kirajyz",
+        "verified": false
+      }
+    ]
+  }
+}

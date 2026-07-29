@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2046242953400848769",
+    "created_at": "2026-04-20T19:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T20:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046310821920448713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046310821920448713",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046242953400848769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 老东西终于交焚决了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2046242953400848769",
+        "created_at": "2026-04-20T19:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T20:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046310821920448713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046310821920448713",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046242953400848769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 老东西终于交焚决了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Table Tennis",
+              "id": "1067863615150022657",
+              "name": "Table tennis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Table Tennis",
+              "id": "1067863615150022657",
+              "name": "Table tennis"
+            }
+          }
+        ],
+        "conversation_id": "2046242953400848769",
+        "created_at": "2026-04-20T15:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046242953400848769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046242953400848769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "四级开考前卸室友耳机电池的来，\n公共厕所上完不冲水的来，\n学校食堂选好菜说不想吃了的来，\n吃完外卖往里面塞头发骗老板免单的来，\n高考早上爱心专车带着快迟到考生瞎转悠的来，\n上水课带无线鼠标关老师ppt的来，\n打乒乓球只发对角球的来，\n跑马拉松给别人讲笑话的来，\n吃大席混进去说是主人兄弟的来，\n泼水节泼稀硫酸的来，\n去网吧偷无线鼠标信号接收器的来，\n玩石头剪刀布慢出的来，\n住酒店敲别人房间门敲完就跑的来，\n高考撕周围人卷子的来，\n众包骑手第一单用免惩机会吃顾客饭的来，\n打瓦鱼市对枪打一半用技能的来，\n兄弟上讲台讲题在下面逗他笑的来，\n室友让帮忙签到骗他今天老师没签到的来，\n体考把室友运动裤跑鞋藏起来只让他穿牛仔裤板鞋的\n来高考听力咳嗽的来\n体考跟在别人后面踩鞋的来\n体考静步的来\n 打网约车 等司机到了取消的来\n凌晨四点八人寝大声打游戏的来\n 歌爆皮手术室门口放篇的来\n科目三别学员车的来\n高速免费最后几分钟故意堵别人的来\n举报室友逃课的来\n下课前提问问题的来"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四级开考前卸室友耳机电池的来，\n公共厕所上完不冲水的来，\n学校食堂选好菜说不想吃了的来，\n吃完外卖往里面塞头发骗老板免单的来，\n高考早上爱心专车带着快迟到考生瞎转悠的来，\n上水课带无线鼠标关老师ppt的来，\n打乒乓球只发对角球的来，\n跑马拉松给别人讲笑话的来，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 597,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1017
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\ndev @HRTtracker🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3314,
+          "following_count": 1946,
+          "like_count": 8319,
+          "listed_count": 4,
+          "media_count": 1194,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1907835881450516665",
+    "created_at": "2025-04-05T11:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T12:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908477612974064058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720538494685306880",
+          "start": 0,
+          "username": "Score_Tmig"
+        },
+        {
+          "end": 22,
+          "id": "1863439189909618688",
+          "start": 12,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908477612974064058",
+    "in_reply_to_user_id": "1720538494685306880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908101460820455811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Score_Tmig @hsn8086xe 姐夫一拳超人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 618,
+        "media_key": "3_1908101457855021056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrwKpbagAAmdbV.jpg",
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1907835881450516665",
+        "created_at": "2025-04-05T11:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T12:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908477612974064058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720538494685306880",
+              "start": 0,
+              "username": "Score_Tmig"
+            },
+            {
+              "end": 22,
+              "id": "1863439189909618688",
+              "start": 12,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908477612974064058",
+        "in_reply_to_user_id": "1720538494685306880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908101460820455811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Score_Tmig @hsn8086xe 姐夫一拳超人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908101457855021056"
+          ]
+        },
+        "author_id": "1720538494685306880",
+        "conversation_id": "1907835881450516665",
+        "created_at": "2025-04-04T10:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908101460820455811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wlbye90QaO",
+              "end": 39,
+              "expanded_url": "https://x.com/Score_Tmig/status/1908101460820455811/photo/1",
+              "media_key": "3_1908101457855021056",
+              "start": 16,
+              "url": "https://t.co/Wlbye90QaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908101460820455811",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1683,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907835881450516665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 未必船长 https://t.co/Wlbye90QaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 212,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T20:28:57.000Z",
+        "description": "Chaos、Neutraleco、Ordo、Boneco",
+        "id": "1720538494685306880",
+        "location": "銀河系-獵戶座-太陽系第三環帶-那顆擁有自然衛星的行星",
+        "name": "巴O美たん",
+        "pinned_tweet_id": "1874413128869617970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881796123700178944/AKGZHd_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 412,
+          "like_count": 10248,
+          "listed_count": 1,
+          "media_count": 1229,
+          "tweet_count": 4815
+        },
+        "username": "Score_Tmig",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图",
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 1,
+          "like_count": 22,
+          "listed_count": 13,
+          "media_count": 532,
+          "tweet_count": 543
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      }
+    ]
+  }
+}

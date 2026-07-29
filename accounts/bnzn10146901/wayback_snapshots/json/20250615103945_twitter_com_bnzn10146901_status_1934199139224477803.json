@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1933859865723908558",
+    "created_at": "2025-06-15T10:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T11:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934199139224477803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429365180618706945",
+          "start": 0,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934199139224477803",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933859865723908558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simone_Luxem 六百六十六，变脸不扣豆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1933859858769444864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZzS6dXAAAt1EM.jpg",
+        "width": 1312
+      },
+      {
+        "height": 1459,
+        "media_key": "3_1933859858773655552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZzS6eXQAA-QYJ.jpg",
+        "width": 1265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1933859865723908558",
+        "created_at": "2025-06-15T10:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T11:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934199139224477803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934199139224477803",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933859865723908558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 六百六十六，变脸不扣豆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933859858769444864",
+            "3_1933859858773655552"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1933859865723908558",
+        "created_at": "2025-06-14T12:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933859865723908558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGd305h2wf",
+              "end": 34,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1933859865723908558/photo/1",
+              "media_key": "3_1933859858769444864",
+              "start": 11,
+              "url": "https://t.co/RGd305h2wf"
+            },
+            {
+              "display_url": "pic.x.com/RGd305h2wf",
+              "end": 34,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1933859865723908558/photo/1",
+              "media_key": "3_1933859858773655552",
+              "start": 11,
+              "url": "https://t.co/RGd305h2wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933859865723908558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6436,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不行这太有节目效果了 https://t.co/RGd305h2wf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 217,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 630
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4274,
+          "following_count": 221,
+          "like_count": 20539,
+          "listed_count": 12,
+          "media_count": 1592,
+          "tweet_count": 19591
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

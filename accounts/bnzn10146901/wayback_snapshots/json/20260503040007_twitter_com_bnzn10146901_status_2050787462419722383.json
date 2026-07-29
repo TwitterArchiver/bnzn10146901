@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2050760395045147101",
+    "created_at": "2026-05-03T04:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T05:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050787462419722383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922333766628081665",
+          "start": 0,
+          "username": "xiaoiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050787462419722383",
+    "in_reply_to_user_id": "1922333766628081665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050760395045147101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoiQAQ 人类文明完蛋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050760356444995584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXDrcVbgAAwNyQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2050760395045147101",
+        "created_at": "2026-05-03T04:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050787462419722383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922333766628081665",
+              "start": 0,
+              "username": "xiaoiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050787462419722383",
+        "in_reply_to_user_id": "1922333766628081665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050760395045147101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoiQAQ 人类文明完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050760356444995584"
+          ]
+        },
+        "author_id": "1922333766628081665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050760395045147101",
+        "created_at": "2026-05-03T02:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050760395045147101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8iDzGD1Db",
+              "end": 29,
+              "expanded_url": "https://x.com/xiaoiQAQ/status/2050760395045147101/photo/1",
+              "media_key": "3_2050760356444995584",
+              "start": 6,
+              "url": "https://t.co/C8iDzGD1Db"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050760395045147101",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1➕1🟰4 https://t.co/C8iDzGD1Db"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 622,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1191
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T16:51:10.000Z",
+        "description": "是咲苡呀，大号被封这是小号喵！09年mtf\n身高161cm体重53kg。好想被包养啊这样就不用愁钱了\nhrt25年4.5日，炸柜，家长半管半不管的",
+        "id": "1922333766628081665",
+        "location": "济宁",
+        "name": "予棠🏳️‍⚧️🍥（互fo）",
+        "pinned_tweet_id": "2039358411566199107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358513592541186/Z-YDN26w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 457,
+          "like_count": 268,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 250
+        },
+        "username": "xiaoiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

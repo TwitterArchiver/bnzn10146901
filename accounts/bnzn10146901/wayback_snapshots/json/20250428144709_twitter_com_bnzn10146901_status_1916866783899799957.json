@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916781395776512341",
+    "created_at": "2025-04-28T14:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T15:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916866783899799957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1554747968418287616",
+          "start": 0,
+          "username": "V31415926666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916866783899799957",
+    "in_reply_to_user_id": "1554747968418287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916781395776512341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V31415926666 网易严选，春风精灵🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_1916781392836599808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnGhXAaoAAh13T.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916781395776512341",
+        "created_at": "2025-04-28T14:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916866783899799957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1554747968418287616",
+              "start": 0,
+              "username": "V31415926666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916866783899799957",
+        "in_reply_to_user_id": "1554747968418287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916781395776512341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V31415926666 网易严选，春风精灵🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916781392836599808"
+          ]
+        },
+        "author_id": "1554747968418287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1916781395776512341",
+        "created_at": "2025-04-28T09:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916781395776512341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qn11OTu65n",
+              "end": 133,
+              "expanded_url": "https://x.com/V31415926666/status/1916781395776512341/photo/1",
+              "media_key": "3_1916781392836599808",
+              "start": 110,
+              "url": "https://t.co/qn11OTu65n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916781395776512341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1898,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，以后大家买杯子的时候一定要买靠谱点的。我买了个杯子，第一次用时牛牛痒痒的，第二天肿了，我还以为是玩的太狠了。缓了三个星期后，又试一次，现在牛牛又肿了。一定要当心啊，不要买到有毒的杯子。祝大家都有一个健康的牛牛！ https://t.co/qn11OTu65n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 293
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T08:36:25.000Z",
+        "description": "玛卡巴卡",
+        "id": "1554747968418287616",
+        "name": "飞行棋",
+        "pinned_tweet_id": "1870710642518478876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705676029333749760/FaKK-g6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41946,
+          "following_count": 55,
+          "like_count": 640,
+          "listed_count": 99,
+          "media_count": 17,
+          "tweet_count": 79
+        },
+        "username": "V31415926666",
+        "verified": false
+      }
+    ]
+  }
+}

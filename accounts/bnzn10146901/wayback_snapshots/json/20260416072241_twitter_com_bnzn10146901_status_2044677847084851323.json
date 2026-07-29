@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044674660554645883",
+    "created_at": "2026-04-16T07:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T08:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044677847084851323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042547436757954560",
+          "start": 0,
+          "username": "fubai080622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044677847084851323",
+    "in_reply_to_user_id": "2042547436757954560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044675456281334232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fubai080622 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044674660554645883",
+        "created_at": "2026-04-16T07:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044677847084851323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042547436757954560",
+              "start": 0,
+              "username": "fubai080622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044677847084851323",
+        "in_reply_to_user_id": "2042547436757954560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044675456281334232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fubai080622 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042547436757954560",
+        "conversation_id": "2044674660554645883",
+        "created_at": "2026-04-16T07:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044675456281334232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044675456281334232",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044674660554645883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 300fo恭喜呢🩷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 560,
+          "like_count": 279,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 971
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:18:08.000Z",
+        "description": "学习专业和卖酱香饼哪个有前途？\n                            私信会看的(能不能找我聊天呢)\n杂食区(大概)很在意他人对我的看法与评价(喜欢交朋友嘛？)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fubai2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fubai2",
+                "start": 0,
+                "url": "https://t.co/pzDcEdIGjf"
+              }
+            ]
+          }
+        },
+        "id": "2042547436757954560",
+        "location": "这回忆的漩涡！匿名提问👉🏻",
+        "name": "浮白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042553984091869184/_Q9bN4H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/pzDcEdIGjf",
+        "username": "fubai080622",
+        "verified": false
+      }
+    ]
+  }
+}

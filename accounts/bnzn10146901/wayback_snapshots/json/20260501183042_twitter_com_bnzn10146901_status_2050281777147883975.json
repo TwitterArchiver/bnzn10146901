@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2049980851245727999",
+    "created_at": "2026-05-01T18:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050281777147883975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1938160341885865984",
+          "start": 0,
+          "username": "db8ufu"
+        },
+        {
+          "end": 22,
+          "id": "2000826943206555649",
+          "start": 8,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050281777147883975",
+    "in_reply_to_user_id": "1938160341885865984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050217801265103081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@db8ufu @pingapingu002 你怎么给我照片发出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2050217791584632832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPWOAuWgAAiwco.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2049980851245727999",
+        "created_at": "2026-05-01T18:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050281777147883975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1938160341885865984",
+              "start": 0,
+              "username": "db8ufu"
+            },
+            {
+              "end": 22,
+              "id": "2000826943206555649",
+              "start": 8,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050281777147883975",
+        "in_reply_to_user_id": "1938160341885865984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050217801265103081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@db8ufu @pingapingu002 你怎么给我照片发出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050217791584632832"
+          ]
+        },
+        "author_id": "1938160341885865984",
+        "conversation_id": "2049980851245727999",
+        "created_at": "2026-05-01T14:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050217801265103081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2RNJ3IeFs",
+              "end": 46,
+              "expanded_url": "https://x.com/db8ufu/status/2050217801265103081/photo/1",
+              "media_key": "3_2050217791584632832",
+              "start": 23,
+              "url": "https://t.co/e2RNJ3IeFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050217801265103081",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049980851245727999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 难道不是这种？ https://t.co/e2RNJ3IeFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 620,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1127
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T09:00:18.000Z",
+        "description": "你何意味？",
+        "id": "1938160341885865984",
+        "location": "China",
+        "name": "客梯车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045691534658445312/3s5t4kS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 27,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 132
+        },
+        "username": "db8ufu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "上个号互关私我下我回关你们，不怎么玩了清水推 不约不谈不聊s\n我是intp辽宁入",
+        "id": "2000826943206555649",
+        "location": " 专心经营我的糖人生活中",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2021961810585563453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 378,
+          "like_count": 6443,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1038
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

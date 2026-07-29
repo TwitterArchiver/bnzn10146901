@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1982694918767387037",
+    "created_at": "2025-10-27T23:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T00:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982953631507968139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982953631507968139",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982694918767387037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 无力，我会嘎巴一下死那"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_1982694909946544128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PyhA1WwAA9X4N.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1982694918767387037",
+        "created_at": "2025-10-27T23:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T00:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982953631507968139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982953631507968139",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982694918767387037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 无力，我会嘎巴一下死那"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982694909946544128"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1982694918767387037",
+        "created_at": "2025-10-27T06:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982694918767387037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhk8suXxAT",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1982694918767387037/photo/1",
+              "media_key": "3_1982694909946544128",
+              "start": 0,
+              "url": "https://t.co/mhk8suXxAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982694918767387037",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 68950,
+          "like_count": 890,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mhk8suXxAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 221,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 659
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1982701867626086646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92792,
+          "following_count": 2781,
+          "like_count": 43088,
+          "listed_count": 125,
+          "media_count": 2912,
+          "tweet_count": 7223
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

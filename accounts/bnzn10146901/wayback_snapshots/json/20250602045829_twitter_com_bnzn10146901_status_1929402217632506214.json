@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1929084206572765543",
+    "created_at": "2025-06-02T04:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T05:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929402217632506214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Muoujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929402217632506214",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929084206572765543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muoujiang_ 小孩子才做选择，我全都要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_1929084203905478656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsV73NuacAAwvZG.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1929084206572765543",
+        "created_at": "2025-06-02T04:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T05:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929402217632506214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929402217632506214",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929084206572765543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muoujiang_ 小孩子才做选择，我全都要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929084203905478656"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929084206572765543",
+        "created_at": "2025-06-01T07:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T08:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929084206572765543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYGcu5Gzbf",
+              "end": 23,
+              "expanded_url": "https://x.com/Muoujiang_/status/1929084206572765543/photo/1",
+              "media_key": "3_1929084203905478656",
+              "start": 0,
+              "url": "https://t.co/mYGcu5Gzbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929084206572765543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 62816,
+          "like_count": 803,
+          "quote_count": 19,
+          "reply_count": 116,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mYGcu5Gzbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 217,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 592
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🏳️‍🌈🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→大学之后🍥（怕被家里发现 | 跨跨帮助跨跨 | @huahuojiang_ | 最好的姐妹 @wflmyblj @Sakura_mo_yu @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926477426487418880/HIB84nZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20901,
+          "following_count": 10646,
+          "like_count": 75547,
+          "listed_count": 73,
+          "media_count": 3638,
+          "tweet_count": 13472
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919006166106919190",
+    "created_at": "2025-05-05T11:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T12:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919353019591766333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "916758476080128000",
+          "start": 0,
+          "username": "nyanyakodayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919353019591766333",
+    "in_reply_to_user_id": "916758476080128000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919006166106919190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyakodayo 我就说防沉迷还得加强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2050,
+        "media_key": "3_1919006154979434496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGt7j1WYAAhtYw.jpg",
+        "width": 1058
+      },
+      {
+        "height": 2031,
+        "media_key": "3_1919006154748731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGt7i-WIAAC7oa.jpg",
+        "width": 1107
+      },
+      {
+        "height": 2062,
+        "media_key": "3_1919006154736185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGt7i7WsAAlRFh.jpg",
+        "width": 1098
+      },
+      {
+        "height": 2158,
+        "media_key": "3_1919006154769735680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGt7jDWoAAhCLB.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919006166106919190",
+        "created_at": "2025-05-05T11:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919353019591766333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "916758476080128000",
+              "start": 0,
+              "username": "nyanyakodayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919353019591766333",
+        "in_reply_to_user_id": "916758476080128000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919006166106919190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyakodayo 我就说防沉迷还得加强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919006154979434496",
+            "3_1919006154748731392",
+            "3_1919006154736185344",
+            "3_1919006154769735680"
+          ]
+        },
+        "author_id": "916758476080128000",
+        "conversation_id": "1919006166106919190",
+        "created_at": "2025-05-04T12:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919006166106919190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hks0EOHRcD",
+              "end": 141,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1919006166106919190/photo/1",
+              "media_key": "3_1919006154979434496",
+              "start": 118,
+              "url": "https://t.co/Hks0EOHRcD"
+            },
+            {
+              "display_url": "pic.x.com/Hks0EOHRcD",
+              "end": 141,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1919006166106919190/photo/1",
+              "media_key": "3_1919006154748731392",
+              "start": 118,
+              "url": "https://t.co/Hks0EOHRcD"
+            },
+            {
+              "display_url": "pic.x.com/Hks0EOHRcD",
+              "end": 141,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1919006166106919190/photo/1",
+              "media_key": "3_1919006154736185344",
+              "start": 118,
+              "url": "https://t.co/Hks0EOHRcD"
+            },
+            {
+              "display_url": "pic.x.com/Hks0EOHRcD",
+              "end": 141,
+              "expanded_url": "https://x.com/nyanyakodayo/status/1919006166106919190/photo/1",
+              "media_key": "3_1919006154769735680",
+              "start": 118,
+              "url": "https://t.co/Hks0EOHRcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919006166106919190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 232000,
+          "like_count": 858,
+          "quote_count": 15,
+          "reply_count": 185,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "接上一条推文，这个小学六年级的男同小朋友对喵老师说的话：《潮湿我》《新奴》《肉便器》《掰弯你》\n大家能想象这个是一个穿着小凉鞋，戴着儿童眼镜，挂着钥匙串，戴着小天才手表的小学生说的话吗？我想联系他的家长，你家的小朋友好像出了点大问题了 https://t.co/Hks0EOHRcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 440
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T20:13:48.000Z",
+        "description": "我永远喜欢初音未来🌱✨",
+        "id": "916758476080128000",
+        "location": "喵子星",
+        "name": "喵喵子",
+        "pinned_tweet_id": "1742127993991188544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667069956398227457/HO1XCO5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40216,
+          "following_count": 834,
+          "like_count": 17861,
+          "listed_count": 100,
+          "media_count": 2344,
+          "tweet_count": 30825
+        },
+        "username": "nyanyakodayo",
+        "verified": false
+      }
+    ]
+  }
+}

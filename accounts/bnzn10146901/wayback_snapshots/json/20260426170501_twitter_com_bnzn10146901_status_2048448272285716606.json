@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2048167669644644461",
+    "created_at": "2026-04-26T17:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048448272285716606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048448272285716606",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048167669644644461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine_2024 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_2048110457429676032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxZnBPb0AA8Fw_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2048167669644644461",
+        "created_at": "2026-04-26T17:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048448272285716606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048448272285716606",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048167669644644461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048110457429676032"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2048167669644644461",
+        "created_at": "2026-04-25T22:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048167669644644461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEkJjI6OFH",
+              "end": 37,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2048167669644644461/photo/1",
+              "media_key": "3_2048110457429676032",
+              "start": 14,
+              "url": "https://t.co/DEkJjI6OFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048167669644644461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3168,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "窝终于有Premium了🥰 https://t.co/DEkJjI6OFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 607,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1061
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?|Hrt🍥01.28.2026，无证含糖|年龄党，家长不管党，炸柜:03.12|OD|生产日期:11.13.2011|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|有点笨笨的🥺|同类互fo喵～|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 144,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 121,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk18062",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk18062",
+                "start": 0,
+                "url": "https://t.co/fX9aFesgGh"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 1424,
+          "like_count": 15834,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/fX9aFesgGh",
+        "username": "RainEngine_2024",
+        "verified": true
+      }
+    ]
+  }
+}

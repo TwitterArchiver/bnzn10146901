@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2043595769375240429",
+    "created_at": "2026-04-13T13:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043685119807173083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HoroyoiBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043685119807173083",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043679001911361838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoroyoiBerry 你也…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2043595769375240429",
+        "created_at": "2026-04-13T13:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043685119807173083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HoroyoiBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043685119807173083",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043679001911361838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoroyoiBerry 你也…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2043595769375240429",
+        "created_at": "2026-04-13T13:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043679001911361838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/horoyoiberry/s…",
+              "end": 38,
+              "expanded_url": "https://x.com/horoyoiberry/status/2043571437244661963?s=46",
+              "start": 15,
+              "url": "https://t.co/Yehvut7iJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043679001911361838",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043571437244661963",
+            "type": "quoted"
+          },
+          {
+            "id": "2043595769375240429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 😁https://t.co/Yehvut7iJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 395,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 862
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "宝宝 @CyberKanjousen｜夏目アンアン 推あ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "CyberKanjousen"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Kanagawa-ken, Japan",
+        "name": "微醺木莓アンアン",
+        "pinned_tweet_id": "2041914913158000654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042485159942111235/6RzcGbek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 496,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 336
+        },
+        "username": "HoroyoiBerry",
+        "verified": true
+      }
+    ]
+  }
+}

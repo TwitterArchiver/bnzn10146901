@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1917157883764265176",
+    "created_at": "2025-04-29T14:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917224718995705881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883775568275267584",
+          "start": 0,
+          "username": "kwiiii634737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917224718995705881",
+    "in_reply_to_user_id": "1883775568275267584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917157883764265176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii634737 500粉了快发福利，我要看你的大鸟😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_1917157868387917825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpsc7HubYAEreUs.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1917157883764265176",
+        "created_at": "2025-04-29T14:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917224718995705881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883775568275267584",
+              "start": 0,
+              "username": "kwiiii634737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917224718995705881",
+        "in_reply_to_user_id": "1883775568275267584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917157883764265176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii634737 500粉了快发福利，我要看你的大鸟😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917157868387917825"
+          ]
+        },
+        "author_id": "1883775568275267584",
+        "conversation_id": "1917157883764265176",
+        "created_at": "2025-04-29T10:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T11:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917157883764265176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOfvxcXa6E",
+              "end": 46,
+              "expanded_url": "https://x.com/kwiiii634737/status/1917157883764265176/photo/1",
+              "media_key": "3_1917157868387917825",
+              "start": 23,
+              "url": "https://t.co/IOfvxcXa6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917157883764265176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6463,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在此祝贺本人推特粉丝数超过其他所有平台的总和 https://t.co/IOfvxcXa6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 332
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T07:14:39.000Z",
+        "description": "可以叫我苗苗！1i/4i预备役 高强度冲浪选手 欢迎视奸！快来找我玩🥺👐🏻 https://t.co/OBoNNuqw6Y匿名问问题！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kwi634737",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kwi634737",
+                "start": 38,
+                "url": "https://t.co/OBoNNuqw6Y"
+              }
+            ]
+          }
+        },
+        "id": "1883775568275267584",
+        "name": "无暇赴死",
+        "pinned_tweet_id": "1914723417808626028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885357625392717828/PusI2NKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 1243,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2509
+        },
+        "username": "kwiiii634737",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916336163759263816",
+    "created_at": "2025-04-27T09:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T10:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916423208158298332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856770997762101248",
+          "start": 0,
+          "username": "405565558X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916423208158298332",
+    "in_reply_to_user_id": "1856770997762101248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916336163759263816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@405565558X 顶上两个疯狂星期四了，这是要我的命啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916336149775454211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgxkzWbEAMztsc.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1916336154569543687",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgxlFNbEAcW_5f.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916336163759263816",
+        "created_at": "2025-04-27T09:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916423208158298332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856770997762101248",
+              "start": 0,
+              "username": "405565558X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916423208158298332",
+        "in_reply_to_user_id": "1856770997762101248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916336163759263816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@405565558X 顶上两个疯狂星期四了，这是要我的命啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916336149775454211",
+            "3_1916336154569543687"
+          ]
+        },
+        "author_id": "1856770997762101248",
+        "conversation_id": "1916336163759263816",
+        "created_at": "2025-04-27T03:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916336163759263816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiCMcg6CQl",
+              "end": 28,
+              "expanded_url": "https://x.com/405565558X/status/1916336163759263816/photo/1",
+              "media_key": "3_1916336149775454211",
+              "start": 5,
+              "url": "https://t.co/QiCMcg6CQl"
+            },
+            {
+              "display_url": "pic.x.com/QiCMcg6CQl",
+              "end": 28,
+              "expanded_url": "https://x.com/405565558X/status/1916336163759263816/photo/1",
+              "media_key": "3_1916336154569543687",
+              "start": 5,
+              "url": "https://t.co/QiCMcg6CQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916336163759263816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点意思 https://t.co/QiCMcg6CQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 226
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T18:48:06.000Z",
+        "description": "男的，吾乃雄性😡😡😡",
+        "id": "1856770997762101248",
+        "name": "我也不知道",
+        "pinned_tweet_id": "1916170997688111567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911101042558644224/7RYInbu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 124,
+          "like_count": 13453,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 3020
+        },
+        "username": "405565558X",
+        "verified": false
+      }
+    ]
+  }
+}

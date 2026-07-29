@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916132893363212647",
+    "created_at": "2025-04-27T09:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T10:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916429291136446508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1737713791247466496",
+          "start": 0,
+          "username": "tooparker_"
+        },
+        {
+          "end": 20,
+          "id": "1795497104049414144",
+          "start": 12,
+          "username": "hsh6669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916429291136446508",
+    "in_reply_to_user_id": "1737713791247466496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916134122751221937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tooparker_ @hsh6669 😡👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916132893363212647",
+        "created_at": "2025-04-27T09:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916429291136446508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1737713791247466496",
+              "start": 0,
+              "username": "tooparker_"
+            },
+            {
+              "end": 20,
+              "id": "1795497104049414144",
+              "start": 12,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916429291136446508",
+        "in_reply_to_user_id": "1737713791247466496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916134122751221937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tooparker_ @hsh6669 😡👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737713791247466496",
+        "conversation_id": "1916132893363212647",
+        "created_at": "2025-04-26T14:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916134122751221937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795497104049414144",
+              "start": 0,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916134122751221937",
+        "in_reply_to_user_id": "1795497104049414144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10228,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916132893363212647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsh6669 把朋友的三星五费卖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 234
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T05:57:16.000Z",
+        "description": "如果雨之后",
+        "id": "1737713791247466496",
+        "name": "秋天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915473352598433792/Q8g_4UWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "tooparker_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "碎碎念分享/ 话题投稿/ 树洞吐槽/ 付费绿色交友委托/ 有偿推广转发/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "id": "1795497104049414144",
+        "location": "Hong Kong",
+        "name": "进来交友",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481015,
+          "following_count": 37,
+          "like_count": 556,
+          "listed_count": 367,
+          "media_count": 1220,
+          "tweet_count": 2885
+        },
+        "username": "hsh6669",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2048348000574136448",
+    "created_at": "2026-04-27T07:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048661892437311785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027280531097088000",
+          "start": 0,
+          "username": "Lvmaosamaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048661892437311785",
+    "in_reply_to_user_id": "2027280531097088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048348000574136448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lvmaosamaovo o24t能给我整死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048347988331020288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0xpIzbQAA1Nia.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2048348000574136448",
+        "created_at": "2026-04-27T07:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048661892437311785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027280531097088000",
+              "start": 0,
+              "username": "Lvmaosamaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048661892437311785",
+        "in_reply_to_user_id": "2027280531097088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048348000574136448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lvmaosamaovo o24t能给我整死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048347988331020288"
+          ]
+        },
+        "author_id": "2027280531097088000",
+        "conversation_id": "2048348000574136448",
+        "created_at": "2026-04-26T10:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048348000574136448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWBdCpgqAQ",
+              "end": 38,
+              "expanded_url": "https://x.com/Lvmaosamaovo/status/2048348000574136448/photo/1",
+              "media_key": "3_2048347988331020288",
+              "start": 15,
+              "url": "https://t.co/rWBdCpgqAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048348000574136448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3600,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祖国的花朵已完成每日od任务 https://t.co/rWBdCpgqAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 609,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1083
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 🍥⋆̩̩̩✧⊹꙳✨꒰ঌʚɞ໒꒱⋆̩̩̩🍥（mtf\n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19\n大！家！快！来！找！我！玩！啊！\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "id": "2027280531097088000",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 257,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 485
+        },
+        "username": "Lvmaosamaovo",
+        "verified": false
+      }
+    ]
+  }
+}

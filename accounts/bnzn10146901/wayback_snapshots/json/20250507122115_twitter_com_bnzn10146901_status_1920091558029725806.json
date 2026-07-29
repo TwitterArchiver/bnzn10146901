@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920091503533133824"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "1920078209028116531",
+    "created_at": "2025-05-07T12:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920091558029725806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1444568370708242435",
+          "start": 0,
+          "username": "caicai22333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0VlGY5T3OJ",
+          "end": 47,
+          "expanded_url": "https://x.com/bnzn10146901/status/1920091558029725806/photo/1",
+          "media_key": "3_1920091503533133824",
+          "start": 24,
+          "url": "https://t.co/0VlGY5T3OJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920091558029725806",
+    "in_reply_to_user_id": "1444568370708242435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920078209028116531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai22333 看着好好吃，给我掰点 https://t.co/0VlGY5T3OJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 284,
+        "media_key": "3_1920091503533133824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWJDKRWkAAMgOn.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920078194352222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqV88dtWcAAUxjv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920091503533133824"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "1920078209028116531",
+        "created_at": "2025-05-07T12:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920091558029725806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1444568370708242435",
+              "start": 0,
+              "username": "caicai22333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VlGY5T3OJ",
+              "end": 47,
+              "expanded_url": "https://x.com/bnzn10146901/status/1920091558029725806/photo/1",
+              "media_key": "3_1920091503533133824",
+              "start": 24,
+              "url": "https://t.co/0VlGY5T3OJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920091558029725806",
+        "in_reply_to_user_id": "1444568370708242435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920078209028116531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai22333 看着好好吃，给我掰点 https://t.co/0VlGY5T3OJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920078194352222208"
+          ]
+        },
+        "author_id": "1444568370708242435",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1920078209028116531",
+        "created_at": "2025-05-07T11:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T12:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920078209028116531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UEZ7n7SpAE",
+              "end": 43,
+              "expanded_url": "https://x.com/caicai22333/status/1920078209028116531/photo/1",
+              "media_key": "3_1920078194352222208",
+              "start": 20,
+              "url": "https://t.co/UEZ7n7SpAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920078209028116531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和拳头一样大的麻糍😋青提茉莉的，我喜欢 https://t.co/UEZ7n7SpAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 476
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T07:42:09.000Z",
+        "description": "麦麦是颗油麦菜/胡说八道的地方",
+        "id": "1444568370708242435",
+        "location": "在广袤的宇宙里我们总会相遇的",
+        "name": "麦麦",
+        "pinned_tweet_id": "1772200833762889915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918215965831053312/-kB_vcoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 152,
+          "like_count": 1482,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 272
+        },
+        "username": "caicai22333",
+        "verified": false
+      }
+    ]
+  }
+}

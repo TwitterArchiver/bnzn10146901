@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1919757276782723552",
+    "created_at": "2025-05-07T12:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920086526026830003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920086526026830003",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919757276782723552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 确认关系之前说自己哪哪都不好的要不就是自卑敏感缺爱，要么就是为了以后自己犯错找借口，比如“你怎么这样啊？”“我早就和你说了，我本来就怎么怎么样”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_1919757267219759104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRZEC-bwAAK7zc.jpg",
+        "width": 1285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1919757276782723552",
+        "created_at": "2025-05-07T12:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920086526026830003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920086526026830003",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919757276782723552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 确认关系之前说自己哪哪都不好的要不就是自卑敏感缺爱，要么就是为了以后自己犯错找借口，比如“你怎么这样啊？”“我早就和你说了，我本来就怎么怎么样”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919757267219759104"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1919757276782723552",
+        "created_at": "2025-05-06T14:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T15:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919757276782723552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzrhK9Z9ub",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1919757276782723552/photo/1",
+              "media_key": "3_1919757267219759104",
+              "start": 0,
+              "url": "https://t.co/PzrhK9Z9ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919757276782723552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16627,
+          "like_count": 274,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PzrhK9Z9ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 217,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 471
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "location": "广告自辩",
+        "name": "恋",
+        "pinned_tweet_id": "1918954607784476730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74197,
+          "following_count": 2918,
+          "like_count": 43003,
+          "listed_count": 95,
+          "media_count": 2101,
+          "tweet_count": 6377
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

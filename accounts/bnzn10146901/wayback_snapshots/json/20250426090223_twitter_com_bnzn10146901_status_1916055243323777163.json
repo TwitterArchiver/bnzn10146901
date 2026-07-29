@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1915968207283683433",
+    "created_at": "2025-04-26T09:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916055243323777163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867539520771829761",
+          "start": 0,
+          "username": "KAIHEDENIMASIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916055243323777163",
+    "in_reply_to_user_id": "1867539520771829761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915968207283683433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KAIHEDENIMASIL 直接快进到ccb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915968180805373952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpbi6MHbEAAk6d2.jpg",
+        "width": 1118
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915968180792791043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpbi6MEbEAMi-dD.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1915968207283683433",
+        "created_at": "2025-04-26T09:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916055243323777163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867539520771829761",
+              "start": 0,
+              "username": "KAIHEDENIMASIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916055243323777163",
+        "in_reply_to_user_id": "1867539520771829761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915968207283683433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KAIHEDENIMASIL 直接快进到ccb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915968180805373952",
+            "3_1915968180792791043"
+          ]
+        },
+        "author_id": "1867539520771829761",
+        "conversation_id": "1915968207283683433",
+        "created_at": "2025-04-26T03:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915968207283683433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rV9FkHL4rV",
+              "end": 31,
+              "expanded_url": "https://x.com/KAIHEDENIMASIL/status/1915968207283683433/photo/1",
+              "media_key": "3_1915968180805373952",
+              "start": 8,
+              "url": "https://t.co/rV9FkHL4rV"
+            },
+            {
+              "display_url": "pic.x.com/rV9FkHL4rV",
+              "end": 31,
+              "expanded_url": "https://x.com/KAIHEDENIMASIL/status/1915968207283683433/photo/1",
+              "media_key": "3_1915968180792791043",
+              "start": 8,
+              "url": "https://t.co/rV9FkHL4rV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915968207283683433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3947,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺坚持不懈的。 https://t.co/rV9FkHL4rV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 211
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:58:21.000Z",
+        "description": "ENTP 一个分享生活碎碎念的小女孩 不爱看就滚远点",
+        "id": "1867539520771829761",
+        "name": "爆浆奶黄包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906855925740359680/HST9OKBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10001,
+          "following_count": 639,
+          "like_count": 20878,
+          "listed_count": 8,
+          "media_count": 276,
+          "tweet_count": 5101
+        },
+        "username": "KAIHEDENIMASIL",
+        "verified": false
+      }
+    ]
+  }
+}

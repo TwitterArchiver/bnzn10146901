@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1975507035706831083",
+    "created_at": "2025-10-08T00:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T01:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975725293714444718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1929362990790553600",
+          "start": 0,
+          "username": "seseDTR"
+        },
+        {
+          "end": 16,
+          "id": "1613079089879076864",
+          "start": 9,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975725293714444718",
+    "in_reply_to_user_id": "1929362990790553600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975510079664279756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seseDTR @Cldeop 妙手回春啊大夫，我感觉好多了，神医啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1975507035706831083",
+        "created_at": "2025-10-08T00:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T01:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975725293714444718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1929362990790553600",
+              "start": 0,
+              "username": "seseDTR"
+            },
+            {
+              "end": 16,
+              "id": "1613079089879076864",
+              "start": 9,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975725293714444718",
+        "in_reply_to_user_id": "1929362990790553600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975510079664279756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seseDTR @Cldeop 妙手回春啊大夫，我感觉好多了，神医啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929362990790553600",
+        "conversation_id": "1975507035706831083",
+        "created_at": "2025-10-07T10:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975510079664279756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975510079664279756",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14962,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975507035706831083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 其实是因为和青梅在高中时期就已经做过了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 221,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 648
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T02:22:49.000Z",
+        "description": "男/17/高二/170/53/缺爱抑郁b/友跨/\n雏草姬＋小孩梓/自伤/偶尔od/请和我恋爱吧😭",
+        "id": "1929362990790553600",
+        "location": "距离你-52cm",
+        "name": "全世界最可爱的雏草姬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954760271794442240/p1MDk1kI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 227,
+          "like_count": 6709,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2083
+        },
+        "username": "seseDTR",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82135,
+          "following_count": 645,
+          "like_count": 30731,
+          "listed_count": 255,
+          "media_count": 12615,
+          "tweet_count": 17863
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

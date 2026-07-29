@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1979082701194899542",
+    "created_at": "2025-10-18T23:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T00:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979687712954446266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814988225183977472",
+          "start": 0,
+          "username": "ConorHayth1561"
+        },
+        {
+          "end": 27,
+          "id": "1684788633797287936",
+          "start": 16,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979687712954446266",
+    "in_reply_to_user_id": "1814988225183977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979194904971489663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ConorHayth1561 @Moningmeng 你的Cia评我也给完llo～(∠・ω&lt; )⌒☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1979082701194899542",
+        "created_at": "2025-10-18T23:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T00:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979687712954446266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814988225183977472",
+              "start": 0,
+              "username": "ConorHayth1561"
+            },
+            {
+              "end": 27,
+              "id": "1684788633797287936",
+              "start": 16,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979687712954446266",
+        "in_reply_to_user_id": "1814988225183977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979194904971489663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ConorHayth1561 @Moningmeng 你的Cia评我也给完llo～(∠・ω&lt; )⌒☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814988225183977472",
+        "conversation_id": "1979082701194899542",
+        "created_at": "2025-10-17T14:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979194904971489663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979194904971489663",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5208,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979082701194899542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 外卖小哥:你的餐我cia完llo～(∠・ω&lt; )⌒☆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964234680934232064/OaJyb0V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 222,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 652
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T11:38:22.000Z",
+        "description": "",
+        "id": "1814988225183977472",
+        "name": "Conor Haytham",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814988284969603073/Y_Sw4NPC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 292,
+          "like_count": 6249,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 275
+        },
+        "username": "ConorHayth1561",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩵🩷🏳️‍⚧️ | mtf | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Sakura_mo_yu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 75,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 52,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "雌二醇星球驻🌏办事处",
+        "name": "🧊沫柠好惨喵～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962376540114800640/tgLQMV0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23389,
+          "following_count": 10906,
+          "like_count": 84285,
+          "listed_count": 86,
+          "media_count": 4312,
+          "tweet_count": 15458
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

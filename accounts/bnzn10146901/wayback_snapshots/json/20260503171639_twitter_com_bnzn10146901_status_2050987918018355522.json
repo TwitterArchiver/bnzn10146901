@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2050964622082236672",
+    "created_at": "2026-05-03T17:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T18:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050987918018355522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050987918018355522",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050964622082236672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 羡慕有两只鲨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2050964616898084864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ9c90bAAAgmLP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2050964613660094464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ9cxwbMAAsWYY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2050964622082236672",
+        "created_at": "2026-05-03T17:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050987918018355522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050987918018355522",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050964622082236672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 羡慕有两只鲨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050964616898084864",
+            "3_2050964613660094464"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2050964622082236672",
+        "created_at": "2026-05-03T15:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050964622082236672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKNohmq5od",
+              "end": 27,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2050964622082236672/photo/1",
+              "media_key": "3_2050964616898084864",
+              "start": 4,
+              "url": "https://t.co/qKNohmq5od"
+            },
+            {
+              "display_url": "pic.x.com/qKNohmq5od",
+              "end": 27,
+              "expanded_url": "https://x.com/mrsk_sy_xueling/status/2050964622082236672/photo/1",
+              "media_key": "3_2050964613660094464",
+              "start": 4,
+              "url": "https://t.co/qKNohmq5od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050964622082236672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鲨🤤 https://t.co/qKNohmq5od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 624,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1202
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "INFP-T｜MtF🏳️‍⚧️｜深柜｜无证无糖｜生日2009.10｜176cm｜中焦｜社恐｜二次元（番/漫/术/音游 百合向）｜横幅与头像侵删｜不od｜不割手（至少现在不了）｜不见证｜同类互fo 会看一点成分 拒见证和黄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mrsk_sy_xuelin…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mrsk_sy_xueling2",
+                "start": 0,
+                "url": "https://t.co/9b4AzSCfjD"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "pinned_tweet_id": "2048470329383846105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 444,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/9b4AzSCfjD",
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      }
+    ]
+  }
+}

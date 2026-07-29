@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050477673563246592"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "conversation_id": "2050477677317124588",
+    "created_at": "2026-05-02T07:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050477677317124588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CTRdvXQZfY",
+          "end": 38,
+          "expanded_url": "https://x.com/bnzn10146901/status/2050477677317124588/photo/1",
+          "media_key": "3_2050477673563246592",
+          "start": 15,
+          "url": "https://t.co/CTRdvXQZfY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050477677317124588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "追星成功😭感谢大人↑🫲😭🫱↑ https://t.co/CTRdvXQZfY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_2050477673563246592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTClIibUAAmsMe.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050477673563246592"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "conversation_id": "2050477677317124588",
+        "created_at": "2026-05-02T07:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050477677317124588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTRdvXQZfY",
+              "end": 38,
+              "expanded_url": "https://x.com/bnzn10146901/status/2050477677317124588/photo/1",
+              "media_key": "3_2050477673563246592",
+              "start": 15,
+              "url": "https://t.co/CTRdvXQZfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050477677317124588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功😭感谢大人↑🫲😭🫱↑ https://t.co/CTRdvXQZfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 622,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1155
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

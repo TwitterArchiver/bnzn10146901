@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1933850832539402602",
+    "created_at": "2025-06-15T11:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T12:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934210605600178293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648540039419412481",
+          "start": 0,
+          "username": "FreakyDuckkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934210605600178293",
+    "in_reply_to_user_id": "1648540039419412481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933850832539402602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreakyDuckkkk 别骂了，非要我拿尺子吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933850830102564864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZrFYDbkAA9sUc.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1933850832539402602",
+        "created_at": "2025-06-15T11:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934210605600178293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648540039419412481",
+              "start": 0,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934210605600178293",
+        "in_reply_to_user_id": "1648540039419412481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933850832539402602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreakyDuckkkk 别骂了，非要我拿尺子吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933850830102564864"
+          ]
+        },
+        "author_id": "1648540039419412481",
+        "conversation_id": "1933850832539402602",
+        "created_at": "2025-06-14T11:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933850832539402602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzeCzTWpUy",
+              "end": 27,
+              "expanded_url": "https://x.com/FreakyDuckkkk/status/1933850832539402602/photo/1",
+              "media_key": "3_1933850830102564864",
+              "start": 4,
+              "url": "https://t.co/gzeCzTWpUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933850832539402602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 80986,
+          "like_count": 554,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/gzeCzTWpUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 217,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 633
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "To Mars a rendezvous!  These dull days sayin' goodbye gravity \n\ncutie owl🐧 @BirbMotorWerks \n\ncutie pigeon🕊️ @Fight_forALL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "BirbMotorWerks"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Fight_forALL"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5086,
+          "following_count": 712,
+          "like_count": 322743,
+          "listed_count": 24,
+          "media_count": 4318,
+          "tweet_count": 43832
+        },
+        "username": "FreakyDuckkkk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927611227884199936",
+        "3_1927612226413744128"
+      ]
+    },
+    "author_id": "1589135845834993665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1927612395909734827",
+    "created_at": "2025-05-28T06:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927612395909734827"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 8,
+          "tag": "啤酒烧烤"
+        },
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "pjsk"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "国服"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "mnr"
+        },
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "花里实乃里"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "花里みのり"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MhUUfcPCWv",
+          "end": 66,
+          "expanded_url": "https://x.com/bnzn10146901/status/1927612395909734827/photo/1",
+          "media_key": "3_1927611227884199936",
+          "start": 43,
+          "url": "https://t.co/MhUUfcPCWv"
+        },
+        {
+          "display_url": "pic.x.com/MhUUfcPCWv",
+          "end": 66,
+          "expanded_url": "https://x.com/bnzn10146901/status/1927612395909734827/photo/1",
+          "media_key": "3_1927612226413744128",
+          "start": 43,
+          "url": "https://t.co/MhUUfcPCWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927612395909734827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会记一辈子的 #啤酒烧烤 #pjsk #国服 #mnr #花里实乃里 #花里みのり https://t.co/MhUUfcPCWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_1927611227884199936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBAMucXoAAmV6m.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1224,
+        "media_key": "3_1927612226413744128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBBG2QXUAA6KvU.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927611227884199936",
+            "3_1927612226413744128"
+          ]
+        },
+        "author_id": "1589135845834993665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927612395909734827",
+        "created_at": "2025-05-28T06:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927612395909734827"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "啤酒烧烤"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "pjsk"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "国服"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "mnr"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "花里实乃里"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "花里みのり"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhUUfcPCWv",
+              "end": 66,
+              "expanded_url": "https://x.com/bnzn10146901/status/1927612395909734827/photo/1",
+              "media_key": "3_1927611227884199936",
+              "start": 43,
+              "url": "https://t.co/MhUUfcPCWv"
+            },
+            {
+              "display_url": "pic.x.com/MhUUfcPCWv",
+              "end": 66,
+              "expanded_url": "https://x.com/bnzn10146901/status/1927612395909734827/photo/1",
+              "media_key": "3_1927612226413744128",
+              "start": 43,
+              "url": "https://t.co/MhUUfcPCWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927612395909734827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会记一辈子的 #啤酒烧烤 #pjsk #国服 #mnr #花里实乃里 #花里みのり https://t.co/MhUUfcPCWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 217,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 588
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

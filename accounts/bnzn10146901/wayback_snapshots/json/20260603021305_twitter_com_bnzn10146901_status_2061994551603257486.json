@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2061819580549566654",
+    "created_at": "2026-06-03T02:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061994551603257486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1947502930472669184",
+          "start": 0,
+          "username": "1949mikuRock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061994551603257486",
+    "in_reply_to_user_id": "1947502930472669184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061819580549566654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1949mikuRock 一个人赚3块吧，虽然还是很低"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1701,
+        "media_key": "3_2061819552040902656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0N9WZaYAAIQgJ.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2061819580549566654",
+        "created_at": "2026-06-03T02:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061994551603257486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1947502930472669184",
+              "start": 0,
+              "username": "1949mikuRock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061994551603257486",
+        "in_reply_to_user_id": "1947502930472669184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061819580549566654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1949mikuRock 一个人赚3块吧，虽然还是很低"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061819552040902656"
+          ]
+        },
+        "author_id": "1947502930472669184",
+        "conversation_id": "2061819580549566654",
+        "created_at": "2026-06-02T14:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061819580549566654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdZeZzjFsz",
+              "end": 64,
+              "expanded_url": "https://x.com/1949mikuRock/status/2061819580549566654/photo/1",
+              "media_key": "3_2061819552040902656",
+              "start": 41,
+              "url": "https://t.co/bdZeZzjFsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061819580549566654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😨学音乐这么费钱出了社会一节课一个小时挣3人民币  这一节课59人民币也是真便宜 https://t.co/bdZeZzjFsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "location": "-18cm",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 617,
+          "like_count": 288,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1310
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T03:44:24.000Z",
+        "description": "INFP-T | 筝专 | 2010♊ | 英语and日语と器乐学习中|摇滚乐迷 | 互fo | She/her | 从26.05.27开始不见证 | 有时会有些幼稚 请大家见谅",
+        "id": "1947502930472669184",
+        "location": "帕拉迪岛",
+        "name": "我不是小黑子k🏳️‍⚧️",
+        "pinned_tweet_id": "2042169418239918148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122459829026816/W5FIRCV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 83,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 907
+        },
+        "username": "1949mikuRock",
+        "verified": false
+      }
+    ]
+  }
+}

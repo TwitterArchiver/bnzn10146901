@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1917005914990936352",
+    "created_at": "2025-04-29T14:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917225078053392408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917225078053392408",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917005914990936352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 这个时候上去打男的一拳，有概率触发未必船长的故事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_1916467328923156480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpio4bwbQAA-zhC.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1917005914990936352",
+        "created_at": "2025-04-29T14:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917225078053392408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917225078053392408",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917005914990936352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 这个时候上去打男的一拳，有概率触发未必船长的故事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916467328923156480"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1917005914990936352",
+        "created_at": "2025-04-29T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917005914990936352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5C2F5k5EX",
+              "end": 28,
+              "expanded_url": "https://x.com/ryq59/status/1917005914990936352/photo/1",
+              "media_key": "3_1916467328923156480",
+              "start": 5,
+              "url": "https://t.co/I5C2F5k5EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917005914990936352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21554,
+          "like_count": 299,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没看懂😭 https://t.co/I5C2F5k5EX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 333
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "半个天津卫嘴子（在努力练说话了）｜家暴党MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜查成分回fo（可以私信）｜Sis @iranon_lcf @yizhikapaiqaq｜请点击查看更多 以了解我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "yizhikapaiqaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUeaH"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17209,
+          "following_count": 4874,
+          "like_count": 179072,
+          "listed_count": 70,
+          "media_count": 5119,
+          "tweet_count": 22829
+        },
+        "url": "https://t.co/6W3mmCUeaH",
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

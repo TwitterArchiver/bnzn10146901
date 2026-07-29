@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1915663591002554481",
+    "created_at": "2025-04-26T08:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916049374871773540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823898821673541633",
+          "start": 0,
+          "username": "BengBengChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916049374871773540",
+    "in_reply_to_user_id": "1823898821673541633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915663591002554481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BengBengChuang go学长这招太狠了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915663588825718786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpXN4mkbYAIgzPg.jpg",
+        "width": 700
+      },
+      {
+        "height": 1770,
+        "media_key": "3_1915663586497880065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpXN4d5bYAE7xZR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1915663591002554481",
+        "created_at": "2025-04-26T08:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916049374871773540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823898821673541633",
+              "start": 0,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916049374871773540",
+        "in_reply_to_user_id": "1823898821673541633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915663591002554481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BengBengChuang go学长这招太狠了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915663588825718786",
+            "3_1915663586497880065"
+          ]
+        },
+        "author_id": "1823898821673541633",
+        "conversation_id": "1915663591002554481",
+        "created_at": "2025-04-25T07:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T08:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915663591002554481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrt2eHn2WJ",
+              "end": 65,
+              "expanded_url": "https://x.com/BengBengChuang/status/1915663591002554481/photo/1",
+              "media_key": "3_1915663588825718786",
+              "start": 42,
+              "url": "https://t.co/jrt2eHn2WJ"
+            },
+            {
+              "display_url": "pic.x.com/jrt2eHn2WJ",
+              "end": 65,
+              "expanded_url": "https://x.com/BengBengChuang/status/1915663591002554481/photo/1",
+              "media_key": "3_1915663586497880065",
+              "start": 42,
+              "url": "https://t.co/jrt2eHn2WJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915663591002554481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5137,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的……好想骂他又怕他爽了…\n怎么样让他别乱叫啊我服了🙏🏻🙏🏻\n推友们这怎么治…… https://t.co/jrt2eHn2WJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 206
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:45:46.000Z",
+        "description": "重生之我在X写日记/infp-t/记录向碎碎念/自言自语胡言乱语/牢骚吐槽/私信挑着回/不互fo/可能会单取/我是弱智/\n我要散发负面情绪啊啊啊（话多慎关\n我要发很多很多的牢骚，（可以叫我骨头🦴评论椰子汁回",
+        "id": "1823898821673541633",
+        "location": "自由岛",
+        "name": "蹦蹦床🦴",
+        "pinned_tweet_id": "1910144273401684062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823933164466921474/W7eJZZGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 99,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2000
+        },
+        "username": "BengBengChuang",
+        "verified": false
+      }
+    ]
+  }
+}

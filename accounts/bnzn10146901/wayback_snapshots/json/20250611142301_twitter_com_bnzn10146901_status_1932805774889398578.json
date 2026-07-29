@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1932475334202696077",
+    "created_at": "2025-06-11T14:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932805774889398578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932805774889398578",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932475334202696077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 你朋友是不是叫三万媿夜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1932475317349986311",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGID_vbMActuXc.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1932475334202696077",
+        "created_at": "2025-06-11T14:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932805774889398578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932805774889398578",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932475334202696077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 你朋友是不是叫三万媿夜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932475317349986311"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "conversation_id": "1932475334202696077",
+        "created_at": "2025-06-10T16:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T17:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932475334202696077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIaRgxokOk",
+              "end": 67,
+              "expanded_url": "https://x.com/akui1121/status/1932475334202696077/photo/1",
+              "media_key": "3_1932475317349986311",
+              "start": 44,
+              "url": "https://t.co/aIaRgxokOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932475334202696077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 269569,
+          "like_count": 1485,
+          "quote_count": 7,
+          "reply_count": 317,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我有个朋友两天导了12发，今天发现自己唧唧硬不起来了，不好意思说，我帮他问下，这怎么办 https://t.co/aIaRgxokOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 216,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 621
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生❤️你喜欢僵尸嘛？❤️我只是单纯的坏，坏到骨子里那种哦🥰 门槛80加快私信回复速度，私信爆了致歉🥰不接推广，致歉🥰 纯享推 @jiangshi1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "jiangshi1121"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1930839369587281977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930435608746569730/RgFfuLcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17328,
+          "following_count": 992,
+          "like_count": 16322,
+          "listed_count": 51,
+          "media_count": 623,
+          "tweet_count": 8750
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

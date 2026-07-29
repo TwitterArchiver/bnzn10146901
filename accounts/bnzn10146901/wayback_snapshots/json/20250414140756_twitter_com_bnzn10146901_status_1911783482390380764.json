@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1911277563676082321",
+    "created_at": "2025-04-14T14:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T15:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911783482390380764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911783482390380764",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911277563676082321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 谢谢主包，要是没有你我这辈子也看不到这么粉的B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 897,
+        "media_key": "3_1911277557380505600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoY4z-LXYAAJ3j6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1911277563676082321",
+        "created_at": "2025-04-14T14:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T15:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911783482390380764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911783482390380764",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911277563676082321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 谢谢主包，要是没有你我这辈子也看不到这么粉的B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911277557380505600"
+          ]
+        },
+        "author_id": "1592865779241734144",
+        "conversation_id": "1911277563676082321",
+        "created_at": "2025-04-13T04:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T05:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911277563676082321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVakrNP3zw",
+              "end": 48,
+              "expanded_url": "https://x.com/yuanyuan774/status/1911277563676082321/photo/1",
+              "media_key": "3_1911277557380505600",
+              "start": 25,
+              "url": "https://t.co/pVakrNP3zw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911277563676082321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1340,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看这事闹的 都是哥们 你们想看我会不给你们看吗 https://t.co/pVakrNP3zw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 220,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 152
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "不爱看滚出去",
+        "id": "1592865779241734144",
+        "location": "🚪8888",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1907277940192133353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911559197210079233/aIT3H5w7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 202,
+          "like_count": 18050,
+          "listed_count": 9,
+          "media_count": 592,
+          "tweet_count": 13112
+        },
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

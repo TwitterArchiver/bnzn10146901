@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1915974870414012744",
+    "created_at": "2025-04-26T09:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916067658824396806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433678462032617475",
+          "start": 0,
+          "username": "nolittlebear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916067658824396806",
+    "in_reply_to_user_id": "1433678462032617475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915974870414012744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nolittlebear 给我涨价了怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1915974870414012744",
+        "created_at": "2025-04-26T09:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916067658824396806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433678462032617475",
+              "start": 0,
+              "username": "nolittlebear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916067658824396806",
+        "in_reply_to_user_id": "1433678462032617475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915974870414012744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nolittlebear 给我涨价了怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433678462032617475",
+        "conversation_id": "1915974870414012744",
+        "created_at": "2025-04-26T03:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915974870414012744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915974870414012744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1936,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你记住，到中国任何一个饭店提我名字，均可原价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线（可互fo）",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 214
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:29:28.000Z",
+        "description": "叫我小熊就好，欢迎找我问问题https://t.co/5dVfvSVjvB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nolittlebear78…",
+                "end": 37,
+                "expanded_url": "https://ngl.link/nolittlebear78260",
+                "start": 14,
+                "url": "https://t.co/5dVfvSVjvB"
+              }
+            ]
+          }
+        },
+        "id": "1433678462032617475",
+        "location": "距离你114.514km",
+        "name": "熊某人日记",
+        "pinned_tweet_id": "1905492391072592368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903045300941619200/n9NoijGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11567,
+          "following_count": 916,
+          "like_count": 12502,
+          "listed_count": 23,
+          "media_count": 1681,
+          "tweet_count": 17183
+        },
+        "username": "nolittlebear",
+        "verified": false
+      }
+    ]
+  }
+}

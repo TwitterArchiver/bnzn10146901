@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2044252901397180441",
+    "created_at": "2026-04-15T15:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044439193359908976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069706510916182017",
+          "start": 0,
+          "username": "doumiaojiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044439193359908976",
+    "in_reply_to_user_id": "1069706510916182017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044396782042681531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doumiaojiang 富哥v我一个鲨鲨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044252901397180441",
+        "created_at": "2026-04-15T15:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044439193359908976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069706510916182017",
+              "start": 0,
+              "username": "doumiaojiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044439193359908976",
+        "in_reply_to_user_id": "1069706510916182017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044396782042681531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doumiaojiang 富哥v我一个鲨鲨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069706510916182017",
+        "conversation_id": "2044252901397180441",
+        "created_at": "2026-04-15T12:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044396782042681531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044396782042681531",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044252901397180441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 换个新的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 526,
+          "like_count": 263,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 946
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T21:34:41.000Z",
+        "description": "博客地址：https://t.co/7M8ViEAzt6 淘宝店铺：https://t.co/Y1GDDhKigw 推特知名清水推主，成人用品卖家！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 28,
+                "expanded_url": "http://sissy.game",
+                "start": 5,
+                "url": "https://t.co/7M8ViEAzt6"
+              },
+              {
+                "display_url": "doumiaojiang.taobao.com",
+                "end": 57,
+                "expanded_url": "http://doumiaojiang.taobao.com",
+                "start": 34,
+                "url": "https://t.co/Y1GDDhKigw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 23,
+                "expanded_url": "https://sissy.game/",
+                "start": 0,
+                "url": "https://t.co/ihsgHYxpKa"
+              }
+            ]
+          }
+        },
+        "id": "1069706510916182017",
+        "location": "台湾",
+        "name": "抖喵酱 咕咕咕～",
+        "pinned_tweet_id": "1617060823465357312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069709712751382528/2YUWSw3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142117,
+          "following_count": 2784,
+          "like_count": 13361,
+          "listed_count": 468,
+          "media_count": 480,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/ihsgHYxpKa",
+        "username": "doumiaojiang",
+        "verified": false
+      }
+    ]
+  }
+}

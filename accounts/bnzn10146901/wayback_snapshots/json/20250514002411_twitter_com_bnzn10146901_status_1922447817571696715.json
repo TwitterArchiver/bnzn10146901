@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1921987176390148401",
+    "created_at": "2025-05-14T00:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T01:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922447817571696715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829591871284518912",
+          "start": 0,
+          "username": "xixi62377941902"
+        },
+        {
+          "end": 25,
+          "id": "1599152440833556480",
+          "start": 17,
+          "username": "uiOcOiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922447817571696715",
+    "in_reply_to_user_id": "1829591871284518912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922288995096011022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi62377941902 @uiOcOiu 轻科普毁了中推圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1921987176390148401",
+        "created_at": "2025-05-14T00:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922447817571696715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829591871284518912",
+              "start": 0,
+              "username": "xixi62377941902"
+            },
+            {
+              "end": 25,
+              "id": "1599152440833556480",
+              "start": 17,
+              "username": "uiOcOiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922447817571696715",
+        "in_reply_to_user_id": "1829591871284518912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922288995096011022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi62377941902 @uiOcOiu 轻科普毁了中推圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829591871284518912",
+        "conversation_id": "1921987176390148401",
+        "created_at": "2025-05-13T13:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T14:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922288995096011022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1599152440833556480",
+              "start": 0,
+              "username": "uiOcOiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922288995096011022",
+        "in_reply_to_user_id": "1599152440833556480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1473,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921987176390148401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uiOcOiu 信不信主人再给你耳光三两"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线，私信随意别打广告就行",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 216,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 560
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:47:59.000Z",
+        "description": "祝你鱼块吖  只回复关注的友友们的信息哦 过门的话有意想不到的惊喜",
+        "id": "1829591871284518912",
+        "name": "xi xi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829592499205423104/H8ZLfUlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 3,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "username": "xixi62377941902",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T21:23:58.000Z",
+        "description": "",
+        "id": "1599152440833556480",
+        "location": "🚪88",
+        "name": "莲",
+        "pinned_tweet_id": "1915464613031723438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921681813421899776/f6b6FGjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8126,
+          "following_count": 130,
+          "like_count": 231,
+          "listed_count": 14,
+          "media_count": 34,
+          "tweet_count": 1131
+        },
+        "username": "uiOcOiu",
+        "verified": false
+      }
+    ]
+  }
+}

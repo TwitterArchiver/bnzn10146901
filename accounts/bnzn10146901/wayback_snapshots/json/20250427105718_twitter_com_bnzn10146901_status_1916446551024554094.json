@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "1916117717003997419",
+    "created_at": "2025-04-27T10:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T11:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916446551024554094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883775568275267584",
+          "start": 0,
+          "username": "kwiiii634737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916446551024554094",
+    "in_reply_to_user_id": "1883775568275267584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916117717003997419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwiiii634737 我的世界像是一股清流了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916117674381479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpdq33FbEAAdyk7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "1916117717003997419",
+        "created_at": "2025-04-27T10:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916446551024554094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883775568275267584",
+              "start": 0,
+              "username": "kwiiii634737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916446551024554094",
+        "in_reply_to_user_id": "1883775568275267584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916117717003997419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwiiii634737 我的世界像是一股清流了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916117674381479936"
+          ]
+        },
+        "author_id": "1883775568275267584",
+        "conversation_id": "1916117717003997419",
+        "created_at": "2025-04-26T13:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T14:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916117717003997419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EDUiDLX9eS",
+              "end": 37,
+              "expanded_url": "https://x.com/kwiiii634737/status/1916117717003997419/photo/1",
+              "media_key": "3_1916117674381479936",
+              "start": 14,
+              "url": "https://t.co/EDUiDLX9eS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916117717003997419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5087,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。有时候看这些私信真是无语 https://t.co/EDUiDLX9eS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "pjsk重度依赖，音游重度患者，infj，很懒，喜欢美食，随缘上线",
+        "id": "1589135845834993665",
+        "name": "笨簪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886959562500268033/4VNUyw4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 218,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 252
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T07:14:39.000Z",
+        "description": "可以叫我苗苗！1i/4i预备役 高强度冲浪选手 欢迎视奸！快来找我玩🥺👐🏻 https://t.co/OBoNNuqw6Y匿名问问题！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kwi634737",
+                "end": 61,
+                "expanded_url": "https://ngl.link/kwi634737",
+                "start": 38,
+                "url": "https://t.co/OBoNNuqw6Y"
+              }
+            ]
+          }
+        },
+        "id": "1883775568275267584",
+        "name": "无暇赴死",
+        "pinned_tweet_id": "1914723417808626028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885357625392717828/PusI2NKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 1213,
+          "like_count": 6241,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2123
+        },
+        "username": "kwiiii634737",
+        "verified": false
+      }
+    ]
+  }
+}
