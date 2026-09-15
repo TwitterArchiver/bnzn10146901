@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2096910229552390640",
+    "created_at": "2026-09-08T05:29:23.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097195575540130264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784109678953480192",
+          "start": 0,
+          "username": "chidianmaima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097195575540130264",
+    "in_reply_to_user_id": "1784109678953480192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096910229552390640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chidianmaima 根本没有这种帖子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096910222019469312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm4vK1bIAA7zX7.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096910221994278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm4vKvawAAqRYE.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2096910229552390640",
+        "created_at": "2026-09-08T05:29:23.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097195575540130264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097195575540130264",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096910229552390640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 根本没有这种帖子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096910222019469312",
+            "3_2096910221994278912"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096910229552390640",
+        "created_at": "2026-09-07T10:35:32.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096910229552390640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCE9xdyzoa",
+              "end": 39,
+              "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+              "media_key": "3_2096910222019469312",
+              "start": 16,
+              "url": "https://t.co/uCE9xdyzoa"
+            },
+            {
+              "display_url": "pic.x.com/uCE9xdyzoa",
+              "end": 39,
+              "expanded_url": "https://x.com/chidianmaima/status/2096910229552390640/photo/1",
+              "media_key": "3_2096910221994278912",
+              "start": 16,
+              "url": "https://t.co/uCE9xdyzoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096910229552390640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096910222019469312"
+          },
+          {
+            "media_key": "3_2096910221994278912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3307,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈对着这个帖子笑了10分钟 https://t.co/uCE9xdyzoa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "is_identity_verified": false,
+        "location": "-18cm",
+        "most_recent_tweet_id": "2097195575540130264",
+        "name": "笨簪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589135845834993665/1775808705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 592,
+          "like_count": 301,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "bnzn10146901",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097186554146103526",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 109,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

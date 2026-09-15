@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2097126270320750918",
+    "created_at": "2026-09-08T05:22:35.000Z",
+    "display_text_range": [
+      16,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097193861055393906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097193861055393906",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097126270320750918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 吃的时候真的不会反胃吗，吃了一次结果一整天都反胃（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2096983801926971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn7qFWa8AAOXZP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2097126270320750918",
+        "created_at": "2026-09-08T05:22:35.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097193861055393906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097193861055393906",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097126270320750918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 吃的时候真的不会反胃吗，吃了一次结果一整天都反胃（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096983801926971392"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2097126270320750918",
+        "created_at": "2026-09-08T00:54:00.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097126270320750918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12QNO9js25",
+              "end": 47,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2097126270320750918/photo/1",
+              "media_key": "3_2096983801926971392",
+              "start": 24,
+              "url": "https://t.co/12QNO9js25"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2096297182743634237",
+              "start": 48,
+              "url": "https://t.co/wBFsDowoH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097126270320750918",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096983801926971392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13364,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096297182743634237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来将近半数的男生自慰后都会吃掉自己的精液呢😋 https://t.co/12QNO9js25 https://t.co/wBFsDowoH0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "is_identity_verified": false,
+        "location": "-18cm",
+        "most_recent_tweet_id": "2097193861055393906",
+        "name": "笨簪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589135845834993665/1775808705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 592,
+          "like_count": 301,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "bnzn10146901",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097192456374648979",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19399,
+          "following_count": 892,
+          "like_count": 35491,
+          "listed_count": 32,
+          "media_count": 2997,
+          "tweet_count": 13409
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
