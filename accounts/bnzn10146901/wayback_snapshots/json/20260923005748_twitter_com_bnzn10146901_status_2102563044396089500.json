@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1589135845834993665",
+    "conversation_id": "2101516340653605363",
+    "created_at": "2026-09-23T00:57:48.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102563044396089500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042902564048355328",
+          "start": 0,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102563044396089500",
+    "in_reply_to_user_id": "2042902564048355328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101516340653605363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTTypezhi 🧀萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2101516314909278208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoV9D_bAAA9Uba.jpg",
+        "width": 2592
+      },
+      {
+        "height": 1944,
+        "media_key": "3_2101516329295720448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoV95lasAAqvtl.jpg",
+        "width": 2592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2101516340653605363",
+        "created_at": "2026-09-23T00:57:48.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102563044396089500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042902564048355328",
+              "start": 0,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102563044396089500",
+        "in_reply_to_user_id": "2042902564048355328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101516340653605363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTTypezhi 🧀萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101516314909278208",
+            "3_2101516329295720448"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2101516340653605363",
+        "created_at": "2026-09-20T03:38:34.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101516340653605363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9SM2liyrr",
+              "end": 38,
+              "expanded_url": "https://x.com/TTTypezhi/status/2101516340653605363/photo/1",
+              "media_key": "3_2101516314909278208",
+              "start": 15,
+              "url": "https://t.co/P9SM2liyrr"
+            },
+            {
+              "display_url": "pic.x.com/P9SM2liyrr",
+              "end": 38,
+              "expanded_url": "https://x.com/TTTypezhi/status/2101516340653605363/photo/1",
+              "media_key": "3_2101516329295720448",
+              "start": 15,
+              "url": "https://t.co/P9SM2liyrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101516340653605363",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101516314909278208"
+          },
+          {
+            "media_key": "3_2101516329295720448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5609,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知式是幼女嘛..（bushi https://t.co/P9SM2liyrr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "is_identity_verified": false,
+        "location": "-18cm",
+        "most_recent_tweet_id": "2102563044396089500",
+        "name": "笨簪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589135845834993665/1775808705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 586,
+          "like_count": 299,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "bnzn10146901",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2102324487660470557",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 626,
+          "like_count": 34,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
